@@ -1,0 +1,17 @@
+{
+	id: "718d3111-b454-3531-8d62-4cf9ce9b4830"
+	type: "player"
+	player_name: "TRY_KIMS"
+	ranks: {
+		718d3111-b454-3531-8d62-4cf9ce9b4830: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "TRY_KIMS"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59C3"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,17 @@
+{
+	id: "324692e6-abc2-3775-aade-0ab71606a36b"
+	type: "player"
+	player_name: "Donita1"
+	ranks: {
+		324692e6-abc2-3775-aade-0ab71606a36b: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Donita1"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFA759"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
