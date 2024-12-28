@@ -71,6 +71,7 @@
       "minecraft:dark_forest": "2024-12-28 04:26:40 +0000",
       "minecraft:dripstone_caves": "2024-12-28 07:51:30 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-28 07:50:36 +0000",
+      "minecraft:savanna": "2024-12-28 08:41:22 +0000",
       "minecraft:plains": "2024-12-28 08:26:46 +0000"
     },
     "done": false
@@ -2217,9 +2218,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-28 08:32:46 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/pink_trampoline": {
     "criteria": {
       "has_string": "2024-12-28 08:07:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-28 08:32:46 +0000"
     },
     "done": true
   },
