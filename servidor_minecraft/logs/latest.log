@@ -1013,3 +1013,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29Dec2024 22:04:08.037] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
 [29Dec2024 22:19:20.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS fell from a high place
 [29Dec2024 22:19:21.359] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Dec2024 22:24:32.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Gave 1 [Zombie Spawn Egg] to TRY_KIMS]
+[29Dec2024 22:25:05.942] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['EL_BICHO'/158203, l='ServerLevel[world]', x=-404.46, y=92.00, z=-265.19] died: EL_BICHO was slain by TRY_KIMS
+[29Dec2024 22:25:16.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Set own game mode to Creative Mode]
+[29Dec2024 22:25:52.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Gave 1 [Zombie Spawn Egg] to TRY_KIMS]
+[29Dec2024 22:26:08.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Set own game mode to Survival Mode]
+[29Dec2024 22:27:39.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS was slain by Warrior
+[29Dec2024 22:27:40.543] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Dec2024 22:28:40.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS was slain by Warrior
+[29Dec2024 22:28:42.286] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Dec2024 22:28:44.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Set own game mode to Creative Mode]
+[29Dec2024 22:28:57.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Set own game mode to Survival Mode]
