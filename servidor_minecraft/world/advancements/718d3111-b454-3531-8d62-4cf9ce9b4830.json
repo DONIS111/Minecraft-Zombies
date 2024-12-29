@@ -69,6 +69,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:dark_forest": "2024-12-28 04:23:31 +0000",
+      "minecraft:sparse_jungle": "2024-12-29 04:27:23 +0000",
+      "minecraft:river": "2024-12-29 04:30:30 +0000",
       "minecraft:dripstone_caves": "2024-12-28 07:51:34 +0000",
       "minecraft:forest": "2024-12-28 08:21:41 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-28 07:50:38 +0000",
@@ -4092,6 +4094,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-29 04:38:53 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_sticky_piston": {
     "criteria": {
       "has_slime_ball": "2024-12-29 04:25:13 +0000"
@@ -4101,6 +4109,12 @@
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2024-12-29 04:25:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2024-12-29 04:32:58 +0000"
     },
     "done": true
   },
@@ -4116,11 +4130,90 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2024-12-29 04:29:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-29 04:29:42 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/acacia_palisade": {
+    "criteria": {
+      "has_log": "2024-12-29 04:32:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2024-12-29 04:32:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2024-12-29 04:29:42 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/acacia_pallet": {
+    "criteria": {
+      "has_planks": "2024-12-29 04:32:58 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/acacia_beam": {
+    "criteria": {
+      "has_log": "2024-12-29 04:32:58 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/acacia_wall": {
+    "criteria": {
+      "has_logs": "2024-12-29 04:32:58 +0000"
+    },
+    "done": true
+  },
+  "regrowth:rgroot/offlimits": {
+    "criteria": {
+      "has_shovel": "2024-12-29 04:35:12 +0000"
+    },
+    "done": false
+  },
+  "bbb:recipes/acacia_frame": {
+    "criteria": {
+      "has_planks": "2024-12-29 04:32:58 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/rocky_dirt": {
+    "criteria": {
+      "has_dirt": "2024-12-29 04:37:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2024-12-29 04:25:13 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2024-12-29 04:29:42 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:immersive_weathering/dirts": {
+    "criteria": {
+      "dirt": "2024-12-29 04:37:27 +0000",
+      "earthen_clay": "2024-12-29 04:35:35 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
