@@ -1041,3 +1041,18 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29Dec2024 22:38:34.458] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['EL BICHO'/163589, l='ServerLevel[world]', x=-407.57, y=94.13, z=-261.57] died: EL BICHO was slain by TRY_KIMS
 [29Dec2024 22:39:01.111] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['EL BICHO'/169242, l='ServerLevel[world]', x=-407.43, y=94.13, z=-261.43] died: EL BICHO was slain by TRY_KIMS
 [29Dec2024 22:39:10.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Set the time to 1]
+[29Dec2024 22:41:42.584] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[29Dec2024 22:42:38.382] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[29Dec2024 22:42:57.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Summoned new Zombie]
+[29Dec2024 22:43:34.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Summoned Zombie at -407 94 -260]
+[29Dec2024 22:44:22.233] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[29Dec2024 22:44:58.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Summoned Zombie at -406 97 -257]
+[29Dec2024 22:45:06.801] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/166780, l='ServerLevel[world]', x=-408.70, y=95.56, z=-256.30] died, message: 'Farmer was slain by Zombie'
+[29Dec2024 22:45:13.784] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/166781, l='ServerLevel[world]', x=-406.30, y=95.56, z=-257.70] died, message: 'Farmer was slain by Zombie'
+[29Dec2024 22:45:15.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: The difficulty has been set to Hard]
+[29Dec2024 22:45:19.984] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/166784, l='ServerLevel[world]', x=-408.70, y=95.56, z=-257.70] died, message: 'Farmer was slain by Zombie'
+[29Dec2024 22:48:34.685] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[29Dec2024 22:48:35.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Set own game mode to Survival Mode]
+[29Dec2024 22:50:18.837] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TRY_KIMS lost connection: Disconnected
+[29Dec2024 22:50:18.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS left the game
+[29Dec2024 22:50:18.844] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TRY_KIMS

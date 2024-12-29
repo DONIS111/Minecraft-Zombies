@@ -160,6 +160,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-12-29 21:28:45 +0000",
+      "minecraft:vindicator": "2024-12-29 22:41:02 +0000",
+      "minecraft:creeper": "2024-12-29 22:40:10 +0000",
       "minecraft:zombie": "2024-12-28 04:26:50 +0000",
       "minecraft:drowned": "2024-12-29 05:11:56 +0000",
       "minecraft:zombie_villager": "2024-12-29 01:55:55 +0000"
