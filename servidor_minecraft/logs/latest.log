@@ -1024,3 +1024,20 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29Dec2024 22:28:42.286] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [29Dec2024 22:28:44.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Set own game mode to Creative Mode]
 [29Dec2024 22:28:57.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Set own game mode to Survival Mode]
+[29Dec2024 22:31:35.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Gave 10 [White Wool] to TRY_KIMS]
+[29Dec2024 22:32:26.534] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[29Dec2024 22:33:12.989] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[29Dec2024 22:33:47.383] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[29Dec2024 22:34:10.683] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[29Dec2024 22:34:10.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Set own game mode to Creative Mode]
+[29Dec2024 22:34:15.790] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/164838, l='ServerLevel[world]', x=-288.33, y=65.77, z=-376.27] died, message: 'Farmer was shot by Warrior'
+[29Dec2024 22:34:52.893] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[29Dec2024 22:35:11.282] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[29Dec2024 22:35:17.386] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[29Dec2024 22:35:39.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Set own game mode to Survival Mode]
+[29Dec2024 22:35:59.033] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[29Dec2024 22:37:42.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Set own game mode to Creative Mode]
+[29Dec2024 22:38:27.689] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[29Dec2024 22:38:34.458] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['EL BICHO'/163589, l='ServerLevel[world]', x=-407.57, y=94.13, z=-261.57] died: EL BICHO was slain by TRY_KIMS
+[29Dec2024 22:39:01.111] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['EL BICHO'/169242, l='ServerLevel[world]', x=-407.43, y=94.13, z=-261.43] died: EL BICHO was slain by TRY_KIMS
+[29Dec2024 22:39:10.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Set the time to 1]
