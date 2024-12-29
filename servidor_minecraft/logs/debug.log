@@ -14842,3 +14842,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29Dec2024 21:36:07.185] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
 [29Dec2024 21:37:15.135] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
 [29Dec2024 21:38:12.296] [IO-Worker-59/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-60
+[29Dec2024 21:41:01.703] [IO-Worker-59/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-61
+[29Dec2024 21:41:01.706] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 21:41:01.721] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 21:41:08.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Gave 1 [Universal Block Reinforcer (LvL1)] to TRY_KIMS]
+[29Dec2024 21:42:27.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 45 [Iron Ingot] to TRY_KIMS
+[29Dec2024 21:44:20.434] [IO-Worker-59/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-62
+[29Dec2024 21:46:01.707] [IO-Worker-48/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-63
+[29Dec2024 21:46:01.710] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 21:46:01.724] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 21:47:34.666] [IO-Worker-63/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-64
+[29Dec2024 21:49:15.384] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events

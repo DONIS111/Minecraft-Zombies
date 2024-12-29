@@ -6149,6 +6149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-29 21:42:39 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/coconut_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-29 21:07:09 +0000"
@@ -6164,6 +6170,18 @@
   "alexsmobs:alexsmobs/acacia_blossom": {
     "criteria": {
       "acacia_blossom": "2024-12-29 20:58:07 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/iron_hull_from_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-29 21:42:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-29 21:42:39 +0000"
     },
     "done": true
   },
@@ -6200,6 +6218,18 @@
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-29 21:07:09 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/iron_hull": {
+    "criteria": {
+      "has_item": "2024-12-29 21:42:39 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/riveted_locometal": {
+    "criteria": {
+      "has_item": "2024-12-29 21:42:39 +0000"
     },
     "done": true
   },
