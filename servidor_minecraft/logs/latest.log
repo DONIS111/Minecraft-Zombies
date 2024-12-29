@@ -989,3 +989,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29Dec2024 20:58:07.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS has reached the goal [Flowers of the Savanna]
 [29Dec2024 21:03:29.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 45 [Iron Ingot] to TRY_KIMS
 [29Dec2024 21:08:06.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 45 [Iron Ingot] to TRY_KIMS
+[29Dec2024 21:10:54.284] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[29Dec2024 21:11:16.140] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[29Dec2024 21:11:24.286] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[29Dec2024 21:11:24.786] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[29Dec2024 21:11:27.384] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[29Dec2024 21:16:27.086] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[29Dec2024 21:16:30.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS was slain by Zombie
+[29Dec2024 21:16:31.811] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
