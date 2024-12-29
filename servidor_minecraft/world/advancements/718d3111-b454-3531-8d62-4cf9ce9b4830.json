@@ -160,6 +160,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:zombie": "2024-12-28 04:26:50 +0000",
+      "minecraft:drowned": "2024-12-29 05:11:56 +0000",
       "minecraft:zombie_villager": "2024-12-29 01:55:55 +0000"
     },
     "done": false
@@ -4100,6 +4101,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/acacia_table": {
+    "criteria": {
+      "has_acacia_table": "2024-12-29 05:08:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-29 04:51:49 +0000"
@@ -4124,6 +4131,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/acacia_table": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-29 05:08:35 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/acacia_storage_jar": {
     "criteria": {
       "has_glass": "2024-12-29 04:51:49 +0000"
@@ -4136,15 +4149,33 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/acacia_mail_box": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-29 05:08:35 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-29 04:51:49 +0000"
     },
     "done": true
   },
+  "bbb:recipes/acacia_layer": {
+    "criteria": {
+      "has_block": "2024-12-29 05:08:35 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-29 04:51:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_cupboard": {
+    "criteria": {
+      "has_acacia_cupboard": "2024-12-29 05:08:35 +0000"
     },
     "done": true
   },
@@ -4166,15 +4197,39 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/acacia_desk": {
+    "criteria": {
+      "has_acacia_desk": "2024-12-29 05:08:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-29 04:51:53 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-29 05:08:35 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_fancy_bed": {
+    "criteria": {
+      "has_acacia_fancy_bed": "2024-12-29 05:08:35 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-29 04:51:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_dining_bench": {
+    "criteria": {
+      "has_acacia_dining_bench": "2024-12-29 05:08:35 +0000"
     },
     "done": true
   },
@@ -4193,6 +4248,12 @@
   "securitycraft:recipes/building_blocks/reinforced_red_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-29 04:51:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/acacia_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-29 05:08:35 +0000"
     },
     "done": true
   },
@@ -4217,6 +4278,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-29 04:51:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2024-12-29 05:08:35 +0000"
     },
     "done": true
   },
@@ -4256,6 +4323,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_drawer": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-29 05:08:35 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/acacia_trim": {
+    "criteria": {
+      "has_block": "2024-12-29 05:08:35 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_storage_jar": {
     "criteria": {
       "has_glass": "2024-12-29 04:51:49 +0000"
@@ -4265,6 +4344,12 @@
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-29 04:51:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-29 05:08:35 +0000"
     },
     "done": true
   },
@@ -4316,6 +4401,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/acacia_pillar_trim": {
+    "criteria": {
+      "has_acacia_pillar_trim": "2024-12-29 05:08:35 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_red_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-29 04:51:49 +0000"
@@ -4331,6 +4422,12 @@
   "refurbished_furniture:recipes/misc/constructing/warped_storage_jar": {
     "criteria": {
       "has_glass": "2024-12-29 04:51:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-29 05:08:35 +0000"
     },
     "done": true
   },
@@ -4358,9 +4455,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/acacia_drawer": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-29 05:08:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-29 04:51:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2024-12-29 05:08:35 +0000"
     },
     "done": true
   },
@@ -4394,6 +4503,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/acacia_desk": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-29 05:08:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-29 04:51:53 +0000"
@@ -4409,6 +4524,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-29 04:51:53 +0000"
+    },
+    "done": true
+  },
+  "mighty_mail:recipes/decorations/acacia_mail_box": {
+    "criteria": {
+      "has_planks": "2024-12-29 05:08:35 +0000"
     },
     "done": true
   },
@@ -4472,6 +4593,12 @@
     },
     "done": true
   },
+  "bbb:recipes/acacia_ladder": {
+    "criteria": {
+      "has_planks": "2024-12-29 05:08:35 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
     "criteria": {
       "has_any_ingredient": "2024-12-29 04:29:42 +0000"
@@ -4487,6 +4614,12 @@
   "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-29 04:51:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2024-12-29 05:08:35 +0000"
     },
     "done": true
   },
@@ -4532,9 +4665,21 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2024-12-29 05:12:25 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-29 04:51:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2024-12-29 05:08:35 +0000"
     },
     "done": true
   },
@@ -4574,6 +4719,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/acacia_shelf": {
+    "criteria": {
+      "has_acacia_shelf": "2024-12-29 05:08:35 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-29 04:51:49 +0000"
@@ -4610,6 +4761,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/acacia_chair": {
+    "criteria": {
+      "has_acacia_chair": "2024-12-29 05:08:35 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-29 04:51:49 +0000"
@@ -4622,9 +4779,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/acacia_cutting_board": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-29 05:08:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-29 05:08:35 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_storage_jar": {
     "criteria": {
       "has_glass": "2024-12-29 04:51:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2024-12-29 05:08:35 +0000"
     },
     "done": true
   },
@@ -4643,6 +4818,12 @@
   "securitycraft:recipes/building_blocks/reinforced_white_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-29 04:51:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_corner_trim": {
+    "criteria": {
+      "has_acacia_corner_trim": "2024-12-29 05:08:35 +0000"
     },
     "done": true
   },
@@ -4688,9 +4869,27 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/acacia_couch": {
+    "criteria": {
+      "has_acacia_couch": "2024-12-29 05:08:35 +0000"
+    },
+    "done": true
+  },
   "bbb:recipes/acacia_wall": {
     "criteria": {
       "has_logs": "2024-12-29 04:32:58 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/acacia_seat": {
+    "criteria": {
+      "has_plank": "2024-12-29 05:08:35 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_bench": {
+    "criteria": {
+      "has_acacia_bench": "2024-12-29 05:08:35 +0000"
     },
     "done": true
   },
@@ -4718,6 +4917,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/acacia_drawer": {
+    "criteria": {
+      "has_acacia_drawer": "2024-12-29 05:08:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-29 05:08:35 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_white_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-29 04:51:49 +0000"
@@ -4736,9 +4947,27 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/acacia_side_table": {
+    "criteria": {
+      "has_acacia_side_table": "2024-12-29 05:08:35 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-29 04:51:49 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/acacia_support": {
+    "criteria": {
+      "has_plank": "2024-12-29 05:08:35 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_nightstand": {
+    "criteria": {
+      "has_acacia_nightstand": "2024-12-29 05:08:35 +0000"
     },
     "done": true
   },
@@ -4760,6 +4989,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-29 05:08:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-29 04:51:53 +0000"
@@ -4772,15 +5007,39 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/acacia_counter": {
+    "criteria": {
+      "has_acacia_counter": "2024-12-29 05:08:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2024-12-29 04:25:13 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_cabinetry": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-29 05:08:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2024-12-29 04:29:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_crate": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-29 05:08:35 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2024-12-29 05:12:25 +0000"
     },
     "done": true
   },
@@ -4814,6 +5073,18 @@
       "earthen_clay": "2024-12-29 04:35:35 +0000"
     },
     "done": false
+  },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2024-12-29 05:15:20 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/acacia_support": {
+    "criteria": {
+      "has_block": "2024-12-29 05:08:35 +0000"
+    },
+    "done": true
   },
   "create:recipes/building_blocks/tiled_glass_from_glass_colorless_stonecutting": {
     "criteria": {
