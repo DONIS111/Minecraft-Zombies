@@ -1776,3 +1776,48 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29Dec2024 05:57:32.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 was slain by TRY_KIMS
 [29Dec2024 05:57:34.488] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [29Dec2024 05:57:42.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Teleported Donita1 to TRY_KIMS]
+[29Dec2024 06:00:57.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 was slain by Warrior
+[29Dec2024 06:00:58.418] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Dec2024 06:01:03.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Teleported Donita1 to TRY_KIMS]
+[29Dec2024 06:01:04.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS was slain by Warrior
+[29Dec2024 06:01:05.836] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Dec2024 06:01:07.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[29Dec2024 06:01:26.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 was slain by Warrior
+[29Dec2024 06:01:27.784] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Dec2024 06:01:28.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Teleported Donita1 to TRY_KIMS]
+[29Dec2024 06:04:40.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS has made the advancement [It's an Emu!!!]
+[29Dec2024 06:04:51.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 has made the advancement [It's an Emu!!!]
+[29Dec2024 06:04:58.065] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=601, y=-58, z=1297}
+[29Dec2024 06:04:58.065] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=601, y=-58, z=1299}
+[29Dec2024 06:05:24.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS fell from a high place
+[29Dec2024 06:05:25.761] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Dec2024 06:05:28.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[29Dec2024 06:05:53.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Teleported TRY_KIMS to Donita1]
+[29Dec2024 06:08:33.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS was slain by Donita1
+[29Dec2024 06:08:35.186] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Dec2024 06:08:36.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[29Dec2024 06:08:47.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 was slain by TRY_KIMS
+[29Dec2024 06:08:50.197] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Dec2024 06:08:52.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Teleported Donita1 to TRY_KIMS]
+[29Dec2024 06:10:41.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Teleported TRY_KIMS to Donita1]
+[29Dec2024 06:14:15.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Teleported TRY_KIMS to Donita1]
+[29Dec2024 06:14:42.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 was slain by Zombie
+[29Dec2024 06:14:43.590] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Dec2024 06:14:45.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Teleported Donita1 to TRY_KIMS]
+[29Dec2024 06:14:47.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS was slain by Zombie
+[29Dec2024 06:14:48.139] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Dec2024 06:14:49.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[29Dec2024 06:15:23.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 was slain by Zombie
+[29Dec2024 06:15:24.947] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Dec2024 06:15:25.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS was slain by Zombie
+[29Dec2024 06:15:26.529] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Dec2024 06:15:37.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Teleported Donita1 to TRY_KIMS]
+[29Dec2024 06:16:18.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Teleported Donita1 to TRY_KIMS]
+[29Dec2024 06:17:34.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 was slain by Zombie
+[29Dec2024 06:17:35.235] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Dec2024 06:17:36.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Teleported Donita1 to TRY_KIMS]
+[29Dec2024 06:17:50.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS was slain by Zombie
+[29Dec2024 06:17:51.411] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Dec2024 06:18:22.341] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Donita1 lost connection: Disconnected
+[29Dec2024 06:18:22.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 left the game
+[29Dec2024 06:18:22.342] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Donita1
