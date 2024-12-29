@@ -3561,6 +3561,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-29 05:20:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
     "criteria": {
       "has_wool": "2024-12-29 04:30:00 +0000"
@@ -3582,6 +3588,12 @@
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2024-12-29 04:34:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-29 05:21:40 +0000"
     },
     "done": true
   },
@@ -3609,6 +3621,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-29 05:21:53 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_white": {
     "criteria": {
       "has_white_wool": "2024-12-29 04:30:00 +0000"
@@ -3630,6 +3648,12 @@
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_planks": "2024-12-29 04:34:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/heating/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2024-12-29 05:21:40 +0000"
     },
     "done": true
   },
@@ -3663,6 +3687,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-29 05:21:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2024-12-29 04:29:48 +0000"
@@ -3681,9 +3711,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-29 05:21:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-29 04:34:47 +0000"
+    },
+    "done": true
+  },
+  "table_top_craft:root": {
+    "criteria": {
+      "get_chess_piece": "2024-12-29 05:15:28 +0000"
     },
     "done": true
   },
@@ -3741,9 +3783,21 @@
     },
     "done": true
   },
+  "table_top_craft:the_hoarding_begins": {
+    "criteria": {
+      "ChessPieceFigure": "2024-12-29 05:15:28 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
     "criteria": {
       "has_wool": "2024-12-29 04:30:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-29 05:21:40 +0000"
     },
     "done": true
   },
@@ -3810,6 +3864,12 @@
   "handcrafted:recipes/misc/acacia_chair": {
     "criteria": {
       "has_acacia_chair": "2024-12-29 04:34:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2024-12-29 05:21:40 +0000"
     },
     "done": true
   },
@@ -3957,9 +4017,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-29 05:21:40 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/acacia_drawer": {
     "criteria": {
       "has_acacia_drawer": "2024-12-29 04:34:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-29 05:21:53 +0000"
     },
     "done": true
   },
@@ -3990,6 +4062,18 @@
   "decorative_blocks:recipes/building_blocks/acacia_support": {
     "criteria": {
       "has_plank": "2024-12-29 04:34:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-29 05:21:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-29 05:21:53 +0000"
     },
     "done": true
   },

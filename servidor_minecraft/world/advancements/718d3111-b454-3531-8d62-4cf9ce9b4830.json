@@ -4425,9 +4425,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/wood_cup": {
+    "criteria": {
+      "has_wood_cup": "2024-12-29 05:18:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-29 05:08:35 +0000"
+    },
+    "done": true
+  },
+  "table_top_craft:root": {
+    "criteria": {
+      "get_chess_piece": "2024-12-29 05:15:21 +0000"
     },
     "done": true
   },
@@ -4470,6 +4482,12 @@
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2024-12-29 05:08:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-29 05:18:22 +0000"
     },
     "done": true
   },
@@ -4530,6 +4548,12 @@
   "mighty_mail:recipes/decorations/acacia_mail_box": {
     "criteria": {
       "has_planks": "2024-12-29 05:08:35 +0000"
+    },
+    "done": true
+  },
+  "table_top_craft:the_hoarding_begins": {
+    "criteria": {
+      "ChessPieceFigure": "2024-12-29 05:15:21 +0000"
     },
     "done": true
   },
@@ -5074,6 +5098,12 @@
     },
     "done": false
   },
+  "handcrafted:recipes/misc/wood_bowl": {
+    "criteria": {
+      "has_wood_bowl": "2024-12-29 05:18:22 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/universal_owner_changer": {
     "criteria": {
       "has_name_tag": "2024-12-29 05:15:20 +0000"
@@ -5083,6 +5113,12 @@
   "bbb:recipes/acacia_support": {
     "criteria": {
       "has_block": "2024-12-29 05:08:35 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_plate": {
+    "criteria": {
+      "has_wood_plate": "2024-12-29 05:18:22 +0000"
     },
     "done": true
   },
