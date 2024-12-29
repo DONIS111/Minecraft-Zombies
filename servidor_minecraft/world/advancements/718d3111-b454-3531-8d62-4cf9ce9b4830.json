@@ -4178,6 +4178,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_dark_oak_pressure_plate": {
+    "criteria": {
+      "has_block": "2024-12-29 04:55:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-29 04:51:49 +0000"
@@ -4187,6 +4193,12 @@
   "securitycraft:recipes/building_blocks/reinforced_red_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-29 04:51:49 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_dark_oak_stairs": {
+    "criteria": {
+      "has_block": "2024-12-29 04:55:33 +0000"
     },
     "done": true
   },
@@ -4385,6 +4397,12 @@
   "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-29 04:51:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dark_oak_button": {
+    "criteria": {
+      "has_block": "2024-12-29 04:55:33 +0000"
     },
     "done": true
   },
@@ -4625,6 +4643,12 @@
   "securitycraft:recipes/building_blocks/reinforced_white_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-29 04:51:49 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_dark_oak_slab": {
+    "criteria": {
+      "has_block": "2024-12-29 04:55:33 +0000"
     },
     "done": true
   },
