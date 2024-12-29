@@ -997,3 +997,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29Dec2024 21:16:27.086] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
 [29Dec2024 21:16:30.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS was slain by Zombie
 [29Dec2024 21:16:31.811] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Dec2024 21:21:18.286] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[29Dec2024 21:28:45.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS has made the advancement [Voluntary Exile]
