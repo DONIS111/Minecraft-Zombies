@@ -1757,3 +1757,22 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29Dec2024 05:24:38.883] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
 [29Dec2024 05:26:33.887] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
 [29Dec2024 05:28:40.687] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[29Dec2024 05:44:53.537] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Donita1 lost connection: Disconnected
+[29Dec2024 05:44:53.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 left the game
+[29Dec2024 05:44:53.544] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Donita1
+[29Dec2024 05:47:25.037] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Donita1[/127.200.165.114:58181] logged in with entity id 83789 at (-405.203233533023, 68.0, -205.30000001192093)
+[29Dec2024 05:47:25.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 joined the game
+[29Dec2024 05:47:25.131] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Donita1
+[29Dec2024 05:47:28.060] [Netty Epoll Server IO #1/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Donita1
+[29Dec2024 05:47:28.117] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Donita1 (18)
+[29Dec2024 05:47:28.118] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Donita1
+[29Dec2024 05:50:07.337] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[29Dec2024 05:50:08.084] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[29Dec2024 05:53:22.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS was slain by Zombie
+[29Dec2024 05:53:24.863] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Dec2024 05:53:26.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[29Dec2024 05:56:37.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 has made the advancement ['X' Marks the Spot]
+[29Dec2024 05:56:59.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS has made the advancement ['X' Marks the Spot]
+[29Dec2024 05:57:32.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 was slain by TRY_KIMS
+[29Dec2024 05:57:34.488] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Dec2024 05:57:42.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Teleported Donita1 to TRY_KIMS]
