@@ -1010,3 +1010,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29Dec2024 21:53:19.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS fell from a high place
 [29Dec2024 21:53:20.495] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [29Dec2024 21:54:41.382] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[29Dec2024 22:04:08.037] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
