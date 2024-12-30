@@ -1037,3 +1037,20 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Dec2024 03:07:21.057] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Donita1
 [30Dec2024 03:08:03.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 has made the advancement [Isn't It Iron Pick]
 [30Dec2024 03:08:04.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 has made the advancement [Suit Up]
+[30Dec2024 03:14:06.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 has made the advancement [Acquire Hardware]
+[30Dec2024 03:15:35.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS has made the advancement [Diamonds!]
+[30Dec2024 03:16:05.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS has made the advancement [Alex's Mobs]
+[30Dec2024 03:16:42.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Lapis Lazuli] to TRY_KIMS
+[30Dec2024 03:22:43.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 has made the advancement [Monster Hunter]
+[30Dec2024 03:23:02.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS has made the advancement [Monster Hunter]
+[30Dec2024 03:26:14.253] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[30Dec2024 03:27:37.856] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[30Dec2024 03:27:39.101] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[30Dec2024 03:27:43.401] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[30Dec2024 03:28:45.852] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[30Dec2024 03:29:27.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS has made the advancement ['X' Marks the Spot]
+[30Dec2024 03:29:29.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 has made the advancement ['X' Marks the Spot]
+[30Dec2024 03:29:33.949] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[30Dec2024 03:29:51.702] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[30Dec2024 03:29:56.200] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[30Dec2024 03:31:21.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 has made the advancement [Best Friends Forever]
