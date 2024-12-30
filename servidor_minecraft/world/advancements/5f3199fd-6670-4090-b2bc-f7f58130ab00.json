@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-30 04:09:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2024-12-30 03:02:11 +0000"
@@ -44,6 +50,12 @@
   "refurbished_furniture:recipes/misc/constructing/green_stool": {
     "criteria": {
       "has_planks": "2024-12-30 03:12:38 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_drawer": {
+    "criteria": {
+      "has_oak_planks": "2024-12-30 04:14:47 +0000"
     },
     "done": true
   },
@@ -149,6 +161,12 @@
     },
     "done": true
   },
+  "bbb:recipes/cobbled_deepslate_layer": {
+    "criteria": {
+      "has_block": "2024-12-30 04:09:45 +0000"
+    },
+    "done": true
+  },
   "create:root": {
     "criteria": {
       "0": "2024-12-30 02:54:26 +0000"
@@ -176,6 +194,12 @@
   "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
     "criteria": {
       "beef_patty": "2024-12-30 03:37:29 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/oak_beam": {
+    "criteria": {
+      "has_log": "2024-12-30 04:14:38 +0000"
     },
     "done": true
   },
@@ -329,6 +353,12 @@
     },
     "done": true
   },
+  "bbb:recipes/oak_wall": {
+    "criteria": {
+      "has_logs": "2024-12-30 04:14:38 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_microwave": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 02:58:20 +0000"
@@ -368,6 +398,12 @@
   "refurbished_furniture:recipes/misc/constructing/crimson_basin": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 02:58:20 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_drawer": {
+    "criteria": {
+      "has_oak_drawer": "2024-12-30 04:14:47 +0000"
     },
     "done": true
   },
@@ -413,6 +449,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_cobblestone": {
+    "criteria": {
+      "has_cobblestone": "2024-12-30 04:09:45 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/golden_knife": {
     "criteria": {
       "has_gold_ingot": "2024-12-30 03:02:47 +0000"
@@ -422,6 +464,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2024-12-30 03:02:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_drawer": {
+    "criteria": {
+      "has_oak_planks": "2024-12-30 04:14:47 +0000"
     },
     "done": true
   },
@@ -440,6 +488,12 @@
   "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence": {
     "criteria": {
       "has_stick": "2024-12-30 03:00:32 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/oak_pallet": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:14:38 +0000"
     },
     "done": true
   },
@@ -485,6 +539,12 @@
     },
     "done": true
   },
+  "bbb:recipes/oak_frame": {
+    "criteria": {
+      "has_log": "2024-12-30 04:14:38 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_mail_box": {
     "criteria": {
       "has_dark_oak_planks": "2024-12-30 03:12:38 +0000"
@@ -506,6 +566,12 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_storage_jar": {
     "criteria": {
       "has_dark_oak_planks": "2024-12-30 03:12:38 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_shelf": {
+    "criteria": {
+      "has_oak_shelf": "2024-12-30 04:14:47 +0000"
     },
     "done": true
   },
@@ -554,6 +620,30 @@
   "securitycraft:recipes/redstone/reinforced_fence_gate": {
     "criteria": {
       "has_iron": "2024-12-30 02:58:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-30 04:17:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-30 04:09:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:14:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2024-12-30 04:09:44 +0000"
     },
     "done": true
   },
@@ -695,6 +785,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_cabinetry": {
+    "criteria": {
+      "has_oak_planks": "2024-12-30 04:14:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
     "criteria": {
       "has_item": "2024-12-30 03:11:00 +0000"
@@ -704,6 +800,12 @@
   "refurbished_furniture:recipes/misc/constructing/blue_grill": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 02:58:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:14:47 +0000"
     },
     "done": true
   },
@@ -809,9 +911,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-12-30 04:14:38 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:root": {
     "criteria": {
       "always": "2024-12-30 02:54:27 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_storage_jar": {
+    "criteria": {
+      "has_oak_planks": "2024-12-30 04:14:47 +0000"
     },
     "done": true
   },
@@ -824,6 +938,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2024-12-30 03:15:35 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/oak_seat": {
+    "criteria": {
+      "has_plank": "2024-12-30 04:14:47 +0000"
     },
     "done": true
   },
@@ -938,6 +1058,12 @@
   "handcrafted:recipes/misc/blaze_trophy": {
     "criteria": {
       "has_blaze_trophy": "2024-12-30 03:12:38 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_counter": {
+    "criteria": {
+      "has_oak_counter": "2024-12-30 04:14:47 +0000"
     },
     "done": true
   },
@@ -1067,9 +1193,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:14:47 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/lime_lamp": {
     "criteria": {
       "has_planks": "2024-12-30 03:12:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2024-12-30 04:09:45 +0000"
     },
     "done": true
   },
@@ -1088,6 +1226,12 @@
   "refurbished_furniture:recipes/misc/television_remote": {
     "criteria": {
       "has_copper_ingot": "2024-12-30 03:11:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-30 04:09:45 +0000"
     },
     "done": true
   },
@@ -1223,6 +1367,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_mail_box": {
+    "criteria": {
+      "has_oak_planks": "2024-12-30 04:14:47 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/pink_sofa": {
     "criteria": {
       "has_planks": "2024-12-30 03:12:38 +0000"
@@ -1319,6 +1469,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_bench": {
+    "criteria": {
+      "has_oak_bench": "2024-12-30 04:14:47 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_bench": {
     "criteria": {
       "has_dark_oak_bench": "2024-12-30 03:12:38 +0000"
@@ -1364,6 +1520,18 @@
   "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
     "criteria": {
       "has_book": "2024-12-30 03:42:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-30 04:09:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-30 04:09:45 +0000"
     },
     "done": true
   },
@@ -1451,9 +1619,21 @@
     },
     "done": true
   },
+  "bbb:recipes/oak_support": {
+    "criteria": {
+      "has_block": "2024-12-30 04:14:47 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_blue_lamp": {
     "criteria": {
       "has_planks": "2024-12-30 03:12:38 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/oak_support": {
+    "criteria": {
+      "has_plank": "2024-12-30 04:14:47 +0000"
     },
     "done": true
   },
@@ -1496,6 +1676,18 @@
   "handcrafted:recipes/misc/dark_oak_couch": {
     "criteria": {
       "has_dark_oak_couch": "2024-12-30 03:12:38 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_couch": {
+    "criteria": {
+      "has_oak_couch": "2024-12-30 04:14:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2024-12-30 04:14:47 +0000"
     },
     "done": true
   },
@@ -1559,6 +1751,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_chair": {
+    "criteria": {
+      "has_oak_chair": "2024-12-30 04:14:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2024-12-30 04:07:00 +0000"
@@ -1595,6 +1793,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-30 04:09:45 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
     "criteria": {
       "has_spider_eye": "2024-12-30 03:11:00 +0000"
@@ -1616,6 +1820,12 @@
   "refurbished_furniture:recipes/misc/constructing/gray_lamp": {
     "criteria": {
       "has_planks": "2024-12-30 03:12:38 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/pot": {
+    "criteria": {
+      "has_terracotta": "2024-12-30 04:09:44 +0000"
     },
     "done": true
   },
@@ -1649,6 +1859,12 @@
     },
     "done": true
   },
+  "bbb:recipes/deepslate_column": {
+    "criteria": {
+      "has_block": "2024-12-30 04:09:45 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_lattice_fence": {
     "criteria": {
       "has_stick": "2024-12-30 03:00:32 +0000"
@@ -1664,6 +1880,12 @@
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2024-12-30 03:00:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-30 04:09:45 +0000"
     },
     "done": true
   },
@@ -1694,6 +1916,12 @@
   "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {
       "has_leather": "2024-12-30 03:02:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:14:47 +0000"
     },
     "done": true
   },
@@ -1763,6 +1991,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_cupboard": {
+    "criteria": {
+      "has_oak_cupboard": "2024-12-30 04:14:47 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_toilet": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 02:58:20 +0000"
@@ -1814,6 +2048,12 @@
   "createdeco:recipes/decorations/copper_door": {
     "criteria": {
       "has_item": "2024-12-30 03:11:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-30 04:09:45 +0000"
     },
     "done": true
   },
@@ -1991,9 +2231,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_nightstand": {
+    "criteria": {
+      "has_oak_nightstand": "2024-12-30 04:14:47 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/lime_grill": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 02:58:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-30 04:09:45 +0000"
     },
     "done": true
   },
@@ -2006,6 +2258,12 @@
   "refurbished_furniture:recipes/misc/constructing/crimson_lattice_fence": {
     "criteria": {
       "has_stick": "2024-12-30 03:00:32 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/oak_trim": {
+    "criteria": {
+      "has_block": "2024-12-30 04:14:47 +0000"
     },
     "done": true
   },
@@ -2087,6 +2345,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:14:47 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_bath": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 02:58:20 +0000"
@@ -2141,6 +2405,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/building_blocks/oak_palisade": {
+    "criteria": {
+      "has_log": "2024-12-30 04:14:38 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-30 03:00:32 +0000"
@@ -2165,6 +2435,18 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-30 04:09:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2024-12-30 04:09:45 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/copper_bars": {
     "criteria": {
       "has_item": "2024-12-30 03:11:00 +0000"
@@ -2174,6 +2456,12 @@
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2024-12-30 03:15:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_fancy_bed": {
+    "criteria": {
+      "has_oak_fancy_bed": "2024-12-30 04:14:47 +0000"
     },
     "done": true
   },
@@ -2210,6 +2498,12 @@
   "bbb:recipes/bamboo_lantern": {
     "criteria": {
       "has_torch": "2024-12-30 03:06:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-30 04:09:33 +0000"
     },
     "done": true
   },
@@ -2261,9 +2555,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_diorite": {
+    "criteria": {
+      "has_cobblestone": "2024-12-30 04:09:45 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/storage_module": {
     "criteria": {
       "has_iron": "2024-12-30 02:58:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-30 04:09:45 +0000"
     },
     "done": true
   },
@@ -2282,6 +2588,24 @@
   "bbb:recipes/dark_oak_lantern": {
     "criteria": {
       "has_torch": "2024-12-30 03:06:37 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_table": {
+    "criteria": {
+      "has_oak_table": "2024-12-30 04:14:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_crate": {
+    "criteria": {
+      "has_oak_planks": "2024-12-30 04:14:47 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_corner_trim": {
+    "criteria": {
+      "has_oak_corner_trim": "2024-12-30 04:14:47 +0000"
     },
     "done": true
   },
@@ -2501,6 +2825,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-30 04:09:45 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/purple_cooler": {
     "criteria": {
       "has_planks": "2024-12-30 03:12:38 +0000"
@@ -2597,9 +2927,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-30 04:09:42 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/briefcase": {
     "criteria": {
       "has_iron": "2024-12-30 02:58:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-30 04:09:45 +0000"
     },
     "done": true
   },
@@ -2645,6 +2987,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-12-30 04:17:39 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/electrified_iron_fence": {
     "criteria": {
       "has_iron": "2024-12-30 02:58:20 +0000"
@@ -2663,6 +3011,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-30 04:09:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 02:58:20 +0000"
@@ -2675,9 +3029,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-30 04:09:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/ornate_iron_window": {
     "criteria": {
       "has_ingredient": "2024-12-30 03:11:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-30 04:09:45 +0000"
     },
     "done": true
   },
@@ -2687,15 +3053,39 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_dining_bench": {
+    "criteria": {
+      "has_oak_dining_bench": "2024-12-30 04:14:47 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/portable_radar": {
     "criteria": {
       "has_redstone": "2024-12-30 03:15:42 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:14:47 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_desk": {
+    "criteria": {
+      "has_oak_desk": "2024-12-30 04:14:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2024-12-30 03:13:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-30 04:09:33 +0000"
     },
     "done": true
   },
@@ -2729,6 +3119,12 @@
     },
     "done": true
   },
+  "bbb:recipes/oak_layer": {
+    "criteria": {
+      "has_block": "2024-12-30 04:14:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2024-12-30 03:15:35 +0000"
@@ -2753,6 +3149,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_oak_planks": "2024-12-30 04:14:47 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2024-12-30 03:11:00 +0000"
@@ -2762,6 +3164,12 @@
   "bbb:recipes/bamboo_beam": {
     "criteria": {
       "has_log": "2024-12-30 02:54:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_desk": {
+    "criteria": {
+      "has_oak_planks": "2024-12-30 04:14:47 +0000"
     },
     "done": true
   },
@@ -2831,6 +3239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-30 04:09:45 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/stackable_book": {
     "criteria": {
       "has_stackable_book": "2024-12-30 03:42:43 +0000"
@@ -2876,6 +3290,12 @@
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2024-12-30 03:12:38 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_cutting_board": {
+    "criteria": {
+      "has_oak_planks": "2024-12-30 04:14:47 +0000"
     },
     "done": true
   },
@@ -2982,9 +3402,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2024-12-30 04:09:45 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_gray_lamp": {
     "criteria": {
       "has_planks": "2024-12-30 03:12:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-30 04:09:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-30 04:14:38 +0000"
     },
     "done": true
   },
@@ -3168,9 +3606,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-30 04:09:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
     "criteria": {
       "has_wool": "2024-12-30 03:40:37 +0000"
+    },
+    "done": true
+  },
+  "mighty_mail:recipes/decorations/oak_mail_box": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:14:47 +0000"
     },
     "done": true
   },
@@ -3234,6 +3684,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/laser_block": {
+    "criteria": {
+      "has_stone": "2024-12-30 04:09:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2024-12-30 03:40:37 +0000"
@@ -3264,9 +3720,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-30 04:09:45 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_counter": {
     "criteria": {
       "has_dark_oak_counter": "2024-12-30 03:12:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-12-30 04:09:33 +0000"
     },
     "done": true
   },
@@ -3279,6 +3747,12 @@
   "refurbished_furniture:recipes/misc/constructing/lime_sofa": {
     "criteria": {
       "has_planks": "2024-12-30 03:12:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-30 04:09:45 +0000"
     },
     "done": true
   },
@@ -3297,6 +3771,12 @@
   "bbb:recipes/warped_lantern": {
     "criteria": {
       "has_torch": "2024-12-30 03:06:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:14:47 +0000"
     },
     "done": true
   },
@@ -3333,6 +3813,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 02:58:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:14:47 +0000"
     },
     "done": true
   },
@@ -3438,6 +3924,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-30 04:09:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-30 04:09:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2024-12-30 03:40:37 +0000"
@@ -3516,6 +4014,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:14:47 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/white_cooler": {
     "criteria": {
       "has_planks": "2024-12-30 03:12:38 +0000"
@@ -3543,6 +4047,12 @@
   "refurbished_furniture:recipes/food/dough": {
     "criteria": {
       "has_water": "2024-12-30 03:06:28 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_pillar_trim": {
+    "criteria": {
+      "has_oak_pillar_trim": "2024-12-30 04:14:47 +0000"
     },
     "done": true
   },
@@ -3669,6 +4179,12 @@
   "refurbished_furniture:recipes/freezing/ice": {
     "criteria": {
       "has_ingredient": "2024-12-30 03:06:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-30 04:09:45 +0000"
     },
     "done": true
   },
@@ -3804,6 +4320,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_andesite": {
+    "criteria": {
+      "has_cobblestone": "2024-12-30 04:09:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2024-12-30 03:11:00 +0000"
@@ -3834,6 +4356,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-12-30 04:09:42 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 02:58:20 +0000"
@@ -3858,6 +4386,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_diorite": {
+    "criteria": {
+      "has_cobblestone": "2024-12-30 04:09:45 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_white": {
     "criteria": {
       "has_white_wool": "2024-12-30 03:40:37 +0000"
@@ -3876,9 +4410,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_side_table": {
+    "criteria": {
+      "has_oak_side_table": "2024-12-30 04:14:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2024-12-30 03:39:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/oak_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-30 04:14:47 +0000"
     },
     "done": true
   },
@@ -3908,6 +4454,12 @@
   "decorative_blocks:recipes/building_blocks/dark_oak_seat": {
     "criteria": {
       "has_plank": "2024-12-30 03:12:38 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_table": {
+    "criteria": {
+      "has_oak_planks": "2024-12-30 04:14:47 +0000"
     },
     "done": true
   },
@@ -3953,9 +4505,21 @@
     },
     "done": true
   },
+  "bbb:recipes/oak_ladder": {
+    "criteria": {
+      "has_planks": "2024-12-30 04:14:47 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/cutting_board": {
     "criteria": {
       "has_stick": "2024-12-30 03:00:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-30 04:09:45 +0000"
     },
     "done": true
   },
@@ -3968,6 +4532,12 @@
   "refurbished_furniture:recipes/misc/constructing/blue_cooler": {
     "criteria": {
       "has_planks": "2024-12-30 03:12:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-30 04:09:45 +0000"
     },
     "done": true
   },
@@ -4028,6 +4598,12 @@
   "refurbished_furniture:recipes/misc/constructing/purple_lamp": {
     "criteria": {
       "has_planks": "2024-12-30 03:12:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-30 04:17:39 +0000"
     },
     "done": true
   },
