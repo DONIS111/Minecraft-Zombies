@@ -15945,3 +15945,201 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Dec2024 06:27:26.712] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming de/maxhenkel/easyvillagers/gui/VillagerIncubateSlot (target of net/minecraft/world/inventory/Slot)
 [30Dec2024 06:28:42.507] [IO-Worker-25/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-28
 [30Dec2024 06:28:56.167] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraft/world/inventory/MerchantContainer (target of net/minecraft/world/Container)
+[30Dec2024 06:29:34.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Teleported TRY_KIMS to Donita1]
+[30Dec2024 06:31:23.237] [IO-Worker-28/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-29
+[30Dec2024 06:31:23.241] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 06:31:23.257] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 06:31:53.903] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@44583976]Trying to start horde event on day 10 with nextDay 10 and time 10000
+[30Dec2024 06:31:53.906] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@183683c2
+[30Dec2024 06:31:53.909] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 0
+[30Dec2024 06:31:53.909] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 0
+[30Dec2024 06:31:53.963] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[30Dec2024 06:31:53.963] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[30Dec2024 06:32:43.955] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[30Dec2024 06:32:43.956] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[30Dec2024 06:33:33.957] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[30Dec2024 06:33:33.958] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[30Dec2024 06:34:23.951] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[30Dec2024 06:34:23.952] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[30Dec2024 06:35:13.959] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[30Dec2024 06:35:13.960] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[30Dec2024 06:36:03.954] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[30Dec2024 06:36:03.954] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[30Dec2024 06:36:23.240] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 06:36:23.256] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 06:36:23.399] [IO-Worker-28/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-30
+[30Dec2024 06:41:23.232] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 06:41:23.247] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 06:42:35.053] [IO-Worker-25/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-31
+[30Dec2024 06:42:40.361] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1870596605 to 30
+[30Dec2024 06:46:23.232] [IO-Worker-29/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-32
+[30Dec2024 06:46:23.244] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 06:46:23.258] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 06:47:45.709] [IO-Worker-29/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-33
+[30Dec2024 06:47:52.151] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@b69a866]Trying to start horde event on day 10 with nextDay 10 and time 10000
+[30Dec2024 06:47:52.152] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@1dff9827
+[30Dec2024 06:47:52.152] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 0
+[30Dec2024 06:47:52.153] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 0
+[30Dec2024 06:47:52.201] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[30Dec2024 06:47:52.201] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[30Dec2024 06:48:42.206] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[30Dec2024 06:48:42.207] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[30Dec2024 06:49:32.205] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[30Dec2024 06:49:32.205] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[30Dec2024 06:50:22.206] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[30Dec2024 06:50:22.207] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[30Dec2024 06:51:12.208] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[30Dec2024 06:51:12.209] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[30Dec2024 06:51:23.246] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 06:51:23.260] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 06:52:02.206] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[30Dec2024 06:52:02.207] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[30Dec2024 06:52:32.962] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/p3pp3rf1y/sophisticatedcore/upgrades/jukebox/JukeboxUpgradeContainer$1 (target of net/minecraft/world/inventory/Slot)
+[30Dec2024 06:52:35.803] [IO-Worker-29/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-34
+[30Dec2024 06:53:42.306] [Server thread/DEBUG] [pointblank/]: 22306 handling client fire request
+[30Dec2024 06:53:42.306] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1870596605 to 29
+[30Dec2024 06:53:42.307] [Server thread/DEBUG] [pointblank/]: 22307 - obtained hit result in 1ms
+[30Dec2024 06:53:42.307] [Server thread/DEBUG] [pointblank/]: 22307 obtained hit results
+[30Dec2024 06:53:42.307] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@33d7de18
+[30Dec2024 06:53:42.307] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/4729, l='ServerLevel[world]', x=-411.88, y=70.00, z=-204.12] sends hit scan notification to ServerPlayer['TRY_KIMS'/777, l='ServerLevel[world]', x=-424.98, y=76.00, z=-214.12]
+[30Dec2024 06:53:42.307] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/4729, l='ServerLevel[world]', x=-411.88, y=70.00, z=-204.12] sends hit scan notification to ServerPlayer['Donita1'/4729, l='ServerLevel[world]', x=-411.88, y=70.00, z=-204.12]
+[30Dec2024 06:53:45.115] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1870596605 to 30
+[30Dec2024 06:56:23.234] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 06:56:23.248] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 06:59:44.855] [IO-Worker-32/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-35
+[30Dec2024 07:00:37.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 suffocated in a reinforced wall
+[30Dec2024 07:00:40.190] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[30Dec2024 07:00:43.257] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming de/maxhenkel/corpse/corelib/inventory/LockedSlot (target of net/minecraft/world/inventory/Slot)
+[30Dec2024 07:00:43.258] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming de/maxhenkel/corpse/gui/CorpseInventoryContainer$2 (target of net/minecraft/world/inventory/Slot)
+[30Dec2024 07:00:43.258] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming de/maxhenkel/corpse/corelib/inventory/ItemListInventory (target of net/minecraft/world/Container)
+[30Dec2024 07:01:23.232] [IO-Worker-34/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-36
+[30Dec2024 07:01:23.235] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 07:01:23.251] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 07:01:29.549] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TRY_KIMS lost connection: Disconnected
+[30Dec2024 07:01:29.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS left the game
+[30Dec2024 07:01:29.551] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of TRY_KIMS
+[30Dec2024 07:01:29.551] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TRY_KIMS
+[30Dec2024 07:01:54.353] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Donita1 lost connection: Disconnected
+[30Dec2024 07:01:54.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 left the game
+[30Dec2024 07:01:54.354] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Donita1
+[30Dec2024 07:01:54.354] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Donita1
+[30Dec2024 07:02:06.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[30Dec2024 07:02:06.934] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
+[30Dec2024 07:02:06.936] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[30Dec2024 07:02:06.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[30Dec2024 07:02:06.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[30Dec2024 07:02:06.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[30Dec2024 07:02:07.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[30Dec2024 07:02:07.988] [IO-Worker-34/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-37
+[30Dec2024 07:02:07.989] [IO-Worker-34/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-38
+[30Dec2024 07:02:08.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[30Dec2024 07:02:08.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[30Dec2024 07:02:08.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_deep_void:deep_void
+[30Dec2024 07:02:08.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[30Dec2024 07:02:08.130] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 07:02:08.141] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 07:02:08.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[30Dec2024 07:02:08.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[30Dec2024 07:02:08.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[30Dec2024 07:02:08.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (deep_void): All chunks are saved
+[30Dec2024 07:02:08.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[30Dec2024 07:02:08.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[30Dec2024 07:02:08.167] [Server thread/DEBUG] [mixin/]: Mixing common.access.entity.AccessFakePlayerFactory from crafttweaker.forge.mixins.json into net.minecraftforge.common.util.FakePlayerFactory
+[30Dec2024 07:02:08.168] [Server thread/DEBUG] [mixin/]: Renaming @Accessor method crafttweaker$getFakePlayers()Ljava/util/Map; to crafttweaker$getFakePlayers_$md$5183f5$0 in crafttweaker.forge.mixins.json:common.access.entity.AccessFakePlayerFactory
+[30Dec2024 07:02:08.168] [Server thread/DEBUG] [mixin/]: Renaming @Accessor method crafttweaker$getMINECRAFT()Lcom/mojang/authlib/GameProfile; to crafttweaker$getMINECRAFT_$md$5183f5$1 in crafttweaker.forge.mixins.json:common.access.entity.AccessFakePlayerFactory
+[30Dec2024 07:02:08.181] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[30Dec2024 07:02:08.181] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[30Dec2024 07:02:08.193] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[30Dec2024 07:02:08.193] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[30Dec2024 07:02:08.193] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for lostcities:lostcity
+[30Dec2024 07:02:08.194] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for lostcities:lostcity
+[30Dec2024 07:02:08.194] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for the_deep_void:deep_void
+[30Dec2024 07:02:08.194] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for the_deep_void:deep_void
+[30Dec2024 07:02:08.194] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[30Dec2024 07:02:08.194] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[30Dec2024 07:02:08.195] [Worker-Main-5/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-5 shutdown
+[30Dec2024 07:02:08.195] [Worker-Main-3/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-3 shutdown
+[30Dec2024 07:02:08.195] [Worker-Main-10/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-10 shutdown
+[30Dec2024 07:02:08.195] [Worker-Main-6/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-6 shutdown
+[30Dec2024 07:02:08.195] [Worker-Main-4/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-4 shutdown
+[30Dec2024 07:02:08.196] [Worker-Main-2/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-2 shutdown
+[30Dec2024 07:02:08.196] [Worker-Main-15/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-15 shutdown
+[30Dec2024 07:02:08.196] [Worker-Main-14/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-14 shutdown
+[30Dec2024 07:02:08.196] [Worker-Main-16/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-16 shutdown
+[30Dec2024 07:02:08.196] [Worker-Main-7/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-7 shutdown
+[30Dec2024 07:02:08.196] [Worker-Main-8/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-8 shutdown
+[30Dec2024 07:02:08.196] [Worker-Main-9/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-9 shutdown
+[30Dec2024 07:02:08.196] [Worker-Main-13/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-13 shutdown
+[30Dec2024 07:02:08.196] [Worker-Main-12/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-12 shutdown
+[30Dec2024 07:02:08.196] [Worker-Main-11/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-11 shutdown
+[30Dec2024 07:02:08.197] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[30Dec2024 07:02:08.199] [Server thread/INFO] [Framework/]: Unloading server configs...
+[30Dec2024 07:02:08.200] [Server thread/DEBUG] [Framework/]: Failed to unwatch config: /workspaces/Minecraft-Zombies/servidor_minecraft/config/refurbished_furniture.server.toml
+java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
+	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2358!/:?]
+	at com.mrcrayfish.framework.config.ConfigWatcher.unwatch(ConfigWatcher.java:54) ~[framework-forge-1.20.1-0.7.12.jar%23339!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lambda$unload$7(FrameworkConfigManager.java:399) ~[framework-forge-1.20.1-0.7.12.jar%23339!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lock(FrameworkConfigManager.java:534) ~[framework-forge-1.20.1-0.7.12.jar%23339!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.unload(FrameworkConfigManager.java:396) ~[framework-forge-1.20.1-0.7.12.jar%23339!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.lambda$onServerStopped$7(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23339!/:1.20.1-0.7.12]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:184) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at com.google.common.collect.CollectSpliterators$1WithCharacteristics.lambda$forEachRemaining$1(CollectSpliterators.java:72) ~[guava-31.1-jre.jar%2374!/:?]
+	at java.util.stream.Streams$RangeIntSpliterator.forEachRemaining(Streams.java:104) ~[?:?]
+	at com.google.common.collect.CollectSpliterators$1WithCharacteristics.forEachRemaining(CollectSpliterators.java:72) ~[guava-31.1-jre.jar%2374!/:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.onServerStopped(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23339!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$9(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23339!/:1.20.1-0.7.12]
+	at java.util.ArrayList.forEach(ArrayList.java:1596) ~[?:?]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$10(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23339!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.ForgeEvents.onServerStopped(ForgeEvents.java:190) ~[framework-forge-1.20.1-0.7.12.jar%23339!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.__ForgeEvents_onServerStopped_ServerStoppedEvent.invoke(.dynamic) ~[framework-forge-1.20.1-0.7.12.jar%23339!/:1.20.1-0.7.12]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:133) ~[forge-1.20.1-47.3.0-universal.jar%23450!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:697) ~[server-1.20.1-20230612.114412-srg.jar%23445!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23445!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[30Dec2024 07:02:08.201] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[30Dec2024 07:02:08.202] [Server thread/DEBUG] [Framework/]: Failed to unwatch config: /workspaces/Minecraft-Zombies/servidor_minecraft/config/mighty_mail.server.toml
+java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
+	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2358!/:?]
+	at com.mrcrayfish.framework.config.ConfigWatcher.unwatch(ConfigWatcher.java:54) ~[framework-forge-1.20.1-0.7.12.jar%23339!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lambda$unload$7(FrameworkConfigManager.java:399) ~[framework-forge-1.20.1-0.7.12.jar%23339!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lock(FrameworkConfigManager.java:534) ~[framework-forge-1.20.1-0.7.12.jar%23339!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.unload(FrameworkConfigManager.java:396) ~[framework-forge-1.20.1-0.7.12.jar%23339!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.lambda$onServerStopped$7(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23339!/:1.20.1-0.7.12]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:184) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at com.google.common.collect.CollectSpliterators$1WithCharacteristics.lambda$forEachRemaining$1(CollectSpliterators.java:72) ~[guava-31.1-jre.jar%2374!/:?]
+	at java.util.stream.Streams$RangeIntSpliterator.forEachRemaining(Streams.java:104) ~[?:?]
+	at com.google.common.collect.CollectSpliterators$1WithCharacteristics.forEachRemaining(CollectSpliterators.java:72) ~[guava-31.1-jre.jar%2374!/:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.onServerStopped(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23339!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$9(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23339!/:1.20.1-0.7.12]
+	at java.util.ArrayList.forEach(ArrayList.java:1596) ~[?:?]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$10(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23339!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.ForgeEvents.onServerStopped(ForgeEvents.java:190) ~[framework-forge-1.20.1-0.7.12.jar%23339!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.__ForgeEvents_onServerStopped_ServerStoppedEvent.invoke(.dynamic) ~[framework-forge-1.20.1-0.7.12.jar%23339!/:1.20.1-0.7.12]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:133) ~[forge-1.20.1-47.3.0-universal.jar%23450!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:697) ~[server-1.20.1-20230612.114412-srg.jar%23445!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23445!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[30Dec2024 07:02:08.203] [Server thread/INFO] [Framework/]: Sending config unload event for mighty_mail.server.toml
+[30Dec2024 07:02:08.203] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[30Dec2024 07:02:08.208] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[30Dec2024 07:02:08.214] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

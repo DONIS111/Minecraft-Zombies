@@ -1016,3 +1016,65 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Dec2024 06:16:42.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 has made the advancement [Hot Stuff]
 [30Dec2024 06:21:17.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Teleported TRY_KIMS to Donita1]
 [30Dec2024 06:22:09.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Teleported TRY_KIMS to Donita1]
+[30Dec2024 06:29:34.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Teleported TRY_KIMS to Donita1]
+[30Dec2024 06:31:53.903] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@44583976]Trying to start horde event on day 10 with nextDay 10 and time 10000
+[30Dec2024 06:31:53.906] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@183683c2
+[30Dec2024 06:31:53.909] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 0
+[30Dec2024 06:31:53.909] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 0
+[30Dec2024 06:31:53.963] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[30Dec2024 06:31:53.963] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[30Dec2024 06:32:43.955] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[30Dec2024 06:32:43.956] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[30Dec2024 06:33:33.957] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[30Dec2024 06:33:33.958] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[30Dec2024 06:34:23.951] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[30Dec2024 06:34:23.952] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[30Dec2024 06:35:13.959] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[30Dec2024 06:35:13.960] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[30Dec2024 06:36:03.954] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[30Dec2024 06:36:03.954] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[30Dec2024 06:47:52.151] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@b69a866]Trying to start horde event on day 10 with nextDay 10 and time 10000
+[30Dec2024 06:47:52.152] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@1dff9827
+[30Dec2024 06:47:52.152] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 0
+[30Dec2024 06:47:52.153] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 0
+[30Dec2024 06:47:52.201] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[30Dec2024 06:47:52.201] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[30Dec2024 06:48:42.206] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[30Dec2024 06:48:42.207] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[30Dec2024 06:49:32.205] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[30Dec2024 06:49:32.205] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[30Dec2024 06:50:22.206] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[30Dec2024 06:50:22.207] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[30Dec2024 06:51:12.208] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[30Dec2024 06:51:12.209] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[30Dec2024 06:52:02.206] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[30Dec2024 06:52:02.207] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[30Dec2024 07:00:37.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 suffocated in a reinforced wall
+[30Dec2024 07:00:40.190] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[30Dec2024 07:01:29.549] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TRY_KIMS lost connection: Disconnected
+[30Dec2024 07:01:29.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS left the game
+[30Dec2024 07:01:29.551] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TRY_KIMS
+[30Dec2024 07:01:54.353] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Donita1 lost connection: Disconnected
+[30Dec2024 07:01:54.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 left the game
+[30Dec2024 07:01:54.354] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Donita1
+[30Dec2024 07:02:06.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[30Dec2024 07:02:06.934] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
+[30Dec2024 07:02:06.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[30Dec2024 07:02:06.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[30Dec2024 07:02:06.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[30Dec2024 07:02:07.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[30Dec2024 07:02:08.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[30Dec2024 07:02:08.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[30Dec2024 07:02:08.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_deep_void:deep_void
+[30Dec2024 07:02:08.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[30Dec2024 07:02:08.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[30Dec2024 07:02:08.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[30Dec2024 07:02:08.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[30Dec2024 07:02:08.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (deep_void): All chunks are saved
+[30Dec2024 07:02:08.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[30Dec2024 07:02:08.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[30Dec2024 07:02:08.199] [Server thread/INFO] [Framework/]: Unloading server configs...
+[30Dec2024 07:02:08.201] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[30Dec2024 07:02:08.203] [Server thread/INFO] [Framework/]: Sending config unload event for mighty_mail.server.toml
+[30Dec2024 07:02:08.203] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[30Dec2024 07:02:08.214] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
