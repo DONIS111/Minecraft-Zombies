@@ -1054,3 +1054,38 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Dec2024 03:29:51.702] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
 [30Dec2024 03:29:56.200] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
 [30Dec2024 03:31:21.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 has made the advancement [Best Friends Forever]
+[30Dec2024 03:35:48.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Gave 1 [Red Sleeping Bag] to TRY_KIMS]
+[30Dec2024 03:35:56.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Gave 1 [Pink Sleeping Bag] to TRY_KIMS]
+[30Dec2024 03:36:10.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 has made the advancement [Sweet Dreams]
+[30Dec2024 03:36:46.709] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[30Dec2024 03:37:00.097] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[30Dec2024 03:37:17.298] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[30Dec2024 03:37:28.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS has made the advancement [Hunt and Gather]
+[30Dec2024 03:38:03.549] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[30Dec2024 03:39:31.999] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[30Dec2024 03:40:28.506] [Server thread/WARN] [pointblank/]: Skipping loading of outdated or expired slot mappings.
+[30Dec2024 03:40:51.597] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[30Dec2024 03:42:39.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: The difficulty has been set to Hard]
+[30Dec2024 03:43:00.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 has made the advancement [Disme A Dozen]
+[30Dec2024 03:43:03.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS has made the advancement [Disme A Dozen]
+[30Dec2024 03:43:41.049] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[30Dec2024 03:46:51.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 has made the advancement [Ice Bucket Challenge]
+[30Dec2024 03:53:56.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 has made the advancement [Hunt and Gather]
+[30Dec2024 04:04:21.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 has made the advancement [The Hoarding Begins]
+[30Dec2024 04:04:24.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS has made the advancement [The Hoarding Begins]
+[30Dec2024 04:08:42.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 was slain by Zombie
+[30Dec2024 04:08:43.785] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[30Dec2024 04:08:49.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Teleported Donita1 to TRY_KIMS]
+[30Dec2024 04:09:39.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 was slain by Zombie
+[30Dec2024 04:09:41.227] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[30Dec2024 04:09:44.673] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Donita1 lost connection: Disconnected
+[30Dec2024 04:09:44.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 left the game
+[30Dec2024 04:09:44.674] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Donita1
+[30Dec2024 04:09:45.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS has made the advancement [Stone Age]
+[30Dec2024 04:11:59.770] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Donita1 is 37023e91-faad-4e06-a200-e07907058232
+[30Dec2024 04:12:10.527] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Donita1[/127.200.165.114:56473] logged in with entity id 196941 at (-402.5, 68.5625, -215.5)
+[30Dec2024 04:12:10.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 joined the game
+[30Dec2024 04:12:10.594] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Donita1
+[30Dec2024 04:12:13.679] [Netty Epoll Server IO #1/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Donita1
+[30Dec2024 04:12:13.730] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Donita1 (18)
+[30Dec2024 04:12:13.731] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Donita1
