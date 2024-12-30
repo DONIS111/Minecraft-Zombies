@@ -1097,3 +1097,32 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Dec2024 04:20:00.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 was slain by TRY_KIMS
 [30Dec2024 04:20:02.232] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [30Dec2024 04:20:04.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Teleported Donita1 to TRY_KIMS]
+[30Dec2024 04:24:01.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS has made the advancement [Close Quarters]
+[30Dec2024 04:24:19.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 has made the advancement [Close Quarters]
+[30Dec2024 04:26:45.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 has made the advancement [Stone Age]
+[30Dec2024 04:34:04.553] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TRY_KIMS lost connection: Disconnected
+[30Dec2024 04:34:04.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS left the game
+[30Dec2024 04:34:04.554] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TRY_KIMS
+[30Dec2024 04:34:04.752] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Donita1 lost connection: Disconnected
+[30Dec2024 04:34:04.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 left the game
+[30Dec2024 04:34:04.752] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Donita1
+[30Dec2024 04:34:23.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[30Dec2024 04:34:23.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[30Dec2024 04:34:23.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[30Dec2024 04:34:23.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[30Dec2024 04:34:24.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[30Dec2024 04:34:25.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[30Dec2024 04:34:25.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_deep_void:deep_void
+[30Dec2024 04:34:25.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[30Dec2024 04:34:25.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[30Dec2024 04:34:25.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[30Dec2024 04:34:25.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[30Dec2024 04:34:25.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (deep_void): All chunks are saved
+[30Dec2024 04:34:25.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[30Dec2024 04:34:25.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[30Dec2024 04:34:25.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[30Dec2024 04:34:25.398] [Server thread/INFO] [Framework/]: Unloading server configs...
+[30Dec2024 04:34:25.399] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[30Dec2024 04:34:25.402] [Server thread/INFO] [Framework/]: Sending config unload event for mighty_mail.server.toml
+[30Dec2024 04:34:25.402] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[30Dec2024 04:34:25.413] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

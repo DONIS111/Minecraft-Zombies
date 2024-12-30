@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "bbb:recipes/quartz_moulding": {
+    "criteria": {
+      "has_block": "2024-12-30 04:22:22 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/azalea_boat": {
     "criteria": {
       "in_water": "2024-12-30 02:57:01 +0000"
@@ -98,6 +104,12 @@
   "bbb:recipes/acacia_lantern": {
     "criteria": {
       "has_torch": "2024-12-30 03:06:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2024-12-30 04:22:30 +0000"
     },
     "done": true
   },
@@ -209,6 +221,12 @@
     },
     "done": true
   },
+  "bbb:recipes/diorite_layer": {
+    "criteria": {
+      "has_block": "2024-12-30 04:22:30 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/chicken_soup": {
     "criteria": {
       "has_any_ingredient": "2024-12-30 03:11:09 +0000"
@@ -278,6 +296,12 @@
   "create:recipes/misc/crafting/kinetics/steam_engine": {
     "criteria": {
       "has_item": "2024-12-30 03:11:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-30 04:21:16 +0000"
     },
     "done": true
   },
@@ -431,6 +455,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-30 04:22:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/andesite_alloy": {
     "criteria": {
       "has_item": "2024-12-30 02:58:20 +0000"
@@ -533,6 +563,12 @@
     },
     "done": true
   },
+  "bbb:recipes/quartz_urn": {
+    "criteria": {
+      "has_block": "2024-12-30 04:22:22 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/brown_cooler": {
     "criteria": {
       "has_planks": "2024-12-30 03:12:38 +0000"
@@ -542,6 +578,12 @@
   "bbb:recipes/oak_frame": {
     "criteria": {
       "has_log": "2024-12-30 04:14:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-30 04:21:16 +0000"
     },
     "done": true
   },
@@ -623,6 +665,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2024-12-30 04:22:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-12-30 04:17:39 +0000"
@@ -662,6 +710,12 @@
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2024-12-30 03:11:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-30 04:22:30 +0000"
     },
     "done": true
   },
@@ -761,6 +815,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2024-12-30 04:21:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2024-12-30 03:31:13 +0000"
@@ -770,6 +830,12 @@
   "farmersdelight:recipes/cooking/pasta_with_meatballs": {
     "criteria": {
       "has_any_ingredient": "2024-12-30 03:37:24 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/mossy_cobblestone_layer": {
+    "criteria": {
+      "has_block": "2024-12-30 04:21:16 +0000"
     },
     "done": true
   },
@@ -815,15 +881,33 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/quartz_pillar_trim": {
+    "criteria": {
+      "has_quartz_pillar_trim": "2024-12-30 04:22:22 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/goat_trophy": {
     "criteria": {
       "has_goat_trophy": "2024-12-30 03:12:38 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-30 04:22:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-30 03:16:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-30 04:22:30 +0000"
     },
     "done": true
   },
@@ -848,6 +932,12 @@
   "securitycraft:recipes/redstone/reinforced_dark_oak_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-30 03:00:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2024-12-30 04:26:12 +0000"
     },
     "done": true
   },
@@ -878,6 +968,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 02:58:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-12-30 04:22:22 +0000"
     },
     "done": true
   },
@@ -935,6 +1031,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-30 04:26:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2024-12-30 03:15:35 +0000"
@@ -989,6 +1091,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2024-12-30 04:26:12 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_toilet": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 02:58:20 +0000"
@@ -1016,6 +1124,12 @@
   "securitycraft:recipes/redstone/reinforced_oak_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-30 03:00:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-30 04:22:30 +0000"
     },
     "done": true
   },
@@ -1103,9 +1217,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2024-12-30 04:26:12 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/dog_food": {
     "criteria": {
       "has_any_ingredient": "2024-12-30 03:10:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-30 04:22:30 +0000"
     },
     "done": true
   },
@@ -1133,6 +1259,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_diorite_bricks_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-30 04:22:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-30 04:22:30 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2024-12-30 03:12:38 +0000"
@@ -1148,6 +1286,12 @@
   "decorative_blocks:recipes/decorations/chandelier": {
     "criteria": {
       "has_torch": "2024-12-30 03:06:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-30 04:22:30 +0000"
     },
     "done": true
   },
@@ -1169,9 +1313,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/plate": {
+    "criteria": {
+      "has_quartz_block": "2024-12-30 04:22:22 +0000"
+    },
+    "done": true
+  },
   "table_top_craft:root": {
     "criteria": {
       "get_chess_piece": "2024-12-30 04:04:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-30 04:22:30 +0000"
     },
     "done": true
   },
@@ -1208,6 +1364,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2024-12-30 04:09:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2024-12-30 04:26:12 +0000"
     },
     "done": true
   },
@@ -1283,6 +1445,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2024-12-30 04:22:30 +0000"
+    },
+    "done": true
+  },
   "walkietalkie:recipes/golden_walkietalkie": {
     "criteria": {
       "has_redstone": "2024-12-30 03:15:42 +0000"
@@ -1292,6 +1460,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2024-12-30 03:02:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_bricks_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-30 04:22:30 +0000"
     },
     "done": true
   },
@@ -1457,6 +1631,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2024-12-30 04:23:30 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_gray_trampoline": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 02:58:20 +0000"
@@ -1484,6 +1664,12 @@
   "refurbished_furniture:recipes/misc/constructing/green_trampoline": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 02:58:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-12-30 04:22:22 +0000"
     },
     "done": true
   },
@@ -1523,6 +1709,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/diorite_pillar_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-30 04:22:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-30 04:09:45 +0000"
@@ -1553,9 +1745,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2024-12-30 04:22:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-30 03:16:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2024-12-30 04:22:22 +0000"
     },
     "done": true
   },
@@ -1664,6 +1868,12 @@
   "table_top_craft:the_hoarding_begins": {
     "criteria": {
       "ChessPieceFigure": "2024-12-30 04:04:24 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/quartz_layer": {
+    "criteria": {
+      "has_block": "2024-12-30 04:22:22 +0000"
     },
     "done": true
   },
@@ -1793,6 +2003,12 @@
     },
     "done": true
   },
+  "immersive_weathering:recipes/moss_clump": {
+    "criteria": {
+      "has_copper_block": "2024-12-30 04:21:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-30 04:09:45 +0000"
@@ -1847,6 +2063,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-12-30 04:22:22 +0000"
+    },
+    "done": true
+  },
   "walkietalkie:recipes/wooden_walkietalkie": {
     "criteria": {
       "has_redstone": "2024-12-30 03:15:42 +0000"
@@ -1871,9 +2093,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-30 04:21:16 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/gray_cooler": {
     "criteria": {
       "has_planks": "2024-12-30 03:12:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-30 04:22:30 +0000"
     },
     "done": true
   },
@@ -1886,6 +2120,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-30 04:09:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-30 04:22:30 +0000"
     },
     "done": true
   },
@@ -1991,9 +2231,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-30 04:22:30 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_cupboard": {
     "criteria": {
       "has_oak_cupboard": "2024-12-30 04:14:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2024-12-30 04:31:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-30 04:22:30 +0000"
     },
     "done": true
   },
@@ -2015,6 +2273,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2024-12-30 04:22:13 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/pink_cooler": {
     "criteria": {
       "has_planks": "2024-12-30 03:12:38 +0000"
@@ -2030,6 +2294,12 @@
   "createdeco:recipes/building_blocks/copper_window": {
     "criteria": {
       "has_item": "2024-12-30 03:11:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-30 04:22:30 +0000"
     },
     "done": true
   },
@@ -2099,6 +2369,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-30 04:21:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/rose_quartz": {
     "criteria": {
       "has_item": "2024-12-30 03:15:42 +0000"
@@ -2150,6 +2426,18 @@
   "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2024-12-30 03:11:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2024-12-30 04:22:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-30 04:21:25 +0000"
     },
     "done": true
   },
@@ -2303,6 +2591,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2024-12-30 04:22:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/steam_whistle": {
     "criteria": {
       "has_item": "2024-12-30 03:11:00 +0000"
@@ -2318,6 +2612,12 @@
   "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
       "has_any_ingredient": "2024-12-30 03:11:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2024-12-30 04:22:22 +0000"
     },
     "done": true
   },
@@ -2381,6 +2681,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2024-12-30 04:22:22 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/polished_diorite_layer": {
+    "criteria": {
+      "has_block": "2024-12-30 04:22:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-30 03:16:42 +0000"
@@ -2414,6 +2726,12 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-30 03:00:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-30 04:22:30 +0000"
     },
     "done": true
   },
@@ -2537,6 +2855,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-30 04:22:30 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_spruce_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-30 03:00:32 +0000"
@@ -2609,6 +2933,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-30 04:26:12 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/gray_grill": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 02:58:20 +0000"
@@ -2678,6 +3008,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-30 03:00:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2024-12-30 04:26:12 +0000"
     },
     "done": true
   },
@@ -2795,6 +3131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-30 04:22:30 +0000"
+    },
+    "done": true
+  },
   "mighty_mail:recipes/decorations/post_box": {
     "criteria": {
       "has_ingots": "2024-12-30 02:58:20 +0000"
@@ -2894,6 +3236,12 @@
   "create:recipes/misc/crafting/kinetics/mechanical_pump": {
     "criteria": {
       "has_item": "2024-12-30 03:11:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-30 04:21:16 +0000"
     },
     "done": true
   },
@@ -3125,6 +3473,12 @@
     },
     "done": true
   },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2024-12-30 04:24:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2024-12-30 03:15:35 +0000"
@@ -3152,6 +3506,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_kitchen_storage_cabinet": {
     "criteria": {
       "has_oak_planks": "2024-12-30 04:14:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2024-12-30 04:22:30 +0000"
     },
     "done": true
   },
@@ -3185,6 +3545,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-30 04:21:16 +0000"
+    },
+    "done": true
+  },
   "bbb:recipes/acacia_beam": {
     "criteria": {
       "has_log": "2024-12-30 03:13:37 +0000"
@@ -3194,6 +3560,12 @@
   "refurbished_furniture:recipes/misc/constructing/post_box": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 02:58:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2024-12-30 04:21:25 +0000"
     },
     "done": true
   },
@@ -3257,6 +3629,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-12-30 04:22:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 02:58:20 +0000"
@@ -3281,9 +3659,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-30 04:22:30 +0000"
+    },
+    "done": true
+  },
   "bbb:recipes/acacia_wall": {
     "criteria": {
       "has_logs": "2024-12-30 03:13:37 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/diorite_corner_trim": {
+    "criteria": {
+      "has_diorite_corner_trim": "2024-12-30 04:22:30 +0000"
     },
     "done": true
   },
@@ -3332,6 +3722,12 @@
   "securitycraft:recipes/misc/camera_monitor": {
     "criteria": {
       "has_iron": "2024-12-30 02:58:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-30 04:22:30 +0000"
     },
     "done": true
   },
@@ -3612,6 +4008,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-30 04:23:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
     "criteria": {
       "has_wool": "2024-12-30 03:40:37 +0000"
@@ -3624,9 +4026,21 @@
     },
     "done": true
   },
+  "ecologics:recipes/ecologics/surface_moss": {
+    "criteria": {
+      "has_moss_block": "2024-12-30 04:21:25 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/flint_knife": {
     "criteria": {
       "has_stick": "2024-12-30 03:00:32 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/quartz_fence": {
+    "criteria": {
+      "has_block": "2024-12-30 04:22:22 +0000"
     },
     "done": true
   },
@@ -3663,6 +4077,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2024-12-30 03:15:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/diorite_pillar_trim": {
+    "criteria": {
+      "has_diorite_pillar_trim": "2024-12-30 04:22:30 +0000"
     },
     "done": true
   },
@@ -3744,6 +4164,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/quartz_corner_trim": {
+    "criteria": {
+      "has_quartz_corner_trim": "2024-12-30 04:22:22 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/lime_sofa": {
     "criteria": {
       "has_planks": "2024-12-30 03:12:38 +0000"
@@ -3759,6 +4185,12 @@
   "securitycraft:recipes/misc/reinforced_jungle_fence": {
     "criteria": {
       "has_stick": "2024-12-30 03:00:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2024-12-30 04:23:30 +0000"
     },
     "done": true
   },
@@ -3834,6 +4266,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/diorite_stepping_stones": {
+    "criteria": {
+      "has_diorite": "2024-12-30 04:22:30 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_bath": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 02:58:20 +0000"
@@ -3864,6 +4302,12 @@
     },
     "done": true
   },
+  "bbb:recipes/cobblestone_layer": {
+    "criteria": {
+      "has_block": "2024-12-30 04:26:12 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/black_trampoline": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 02:58:20 +0000"
@@ -3879,6 +4323,12 @@
   "handcrafted:recipes/misc/fox_trophy": {
     "criteria": {
       "has_fox_trophy": "2024-12-30 03:12:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-12-30 04:22:22 +0000"
     },
     "done": true
   },
@@ -3972,6 +4422,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-30 04:21:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2024-12-30 03:37:26 +0000"
@@ -4014,6 +4470,18 @@
     },
     "done": true
   },
+  "immersive_weathering:recipes/moss_block": {
+    "criteria": {
+      "has_copper_block": "2024-12-30 04:21:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2024-12-30 04:23:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2024-12-30 04:14:47 +0000"
@@ -4029,6 +4497,12 @@
   "createdeco:recipes/decorations/iron_support": {
     "criteria": {
       "has_item": "2024-12-30 02:58:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-30 04:22:30 +0000"
     },
     "done": true
   },
@@ -4080,6 +4554,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-30 04:22:30 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_cherry_fence": {
     "criteria": {
       "has_stick": "2024-12-30 03:00:32 +0000"
@@ -4092,6 +4572,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2024-12-30 04:23:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2024-12-30 04:22:13 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/brown_grill": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 02:58:20 +0000"
@@ -4101,6 +4593,12 @@
   "bbb:recipes/birch_lantern": {
     "criteria": {
       "has_torch": "2024-12-30 03:06:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2024-12-30 04:22:22 +0000"
     },
     "done": true
   },
@@ -4143,6 +4641,12 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_basin": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 02:58:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2024-12-30 04:22:22 +0000"
     },
     "done": true
   },
@@ -4380,6 +4884,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2024-12-30 04:22:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-30 03:16:57 +0000"
@@ -4395,6 +4905,12 @@
   "comforts:hammock_white": {
     "criteria": {
       "has_white_wool": "2024-12-30 03:40:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2024-12-30 04:21:25 +0000"
     },
     "done": true
   },
@@ -4425,6 +4941,12 @@
   "create:recipes/building_blocks/oak_window": {
     "criteria": {
       "has_ingredient": "2024-12-30 04:14:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-30 04:23:30 +0000"
     },
     "done": true
   },
@@ -4481,6 +5003,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-30 04:26:12 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/yellow_cooler": {
     "criteria": {
       "has_planks": "2024-12-30 03:12:38 +0000"
@@ -4502,6 +5030,12 @@
   "railways:recipes/misc/stonecutting/riveted_locometal": {
     "criteria": {
       "has_item": "2024-12-30 03:12:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-30 04:22:30 +0000"
     },
     "done": true
   },
