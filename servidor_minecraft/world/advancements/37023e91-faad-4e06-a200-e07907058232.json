@@ -6615,6 +6615,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_birch_sign_item": {
+    "criteria": {
+      "has_sign": "2024-12-31 21:34:37 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_cutting_board": {
     "criteria": {
       "has_birch_planks": "2024-12-31 20:09:08 +0000"
@@ -6630,6 +6636,12 @@
   "handcrafted:recipes/misc/birch_shelf": {
     "criteria": {
       "has_birch_shelf": "2024-12-31 20:09:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_birch_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-12-31 21:34:37 +0000"
     },
     "done": true
   },
@@ -6654,6 +6666,12 @@
   "decorative_blocks:recipes/building_blocks/birch_seat": {
     "criteria": {
       "has_plank": "2024-12-31 20:09:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_cherry_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-12-31 21:34:37 +0000"
     },
     "done": true
   },
@@ -6693,6 +6711,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_acacia_sign_item": {
+    "criteria": {
+      "has_sign": "2024-12-31 21:34:37 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_cupboard": {
     "criteria": {
       "has_birch_cupboard": "2024-12-31 20:09:08 +0000"
@@ -6711,6 +6735,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_jungle_sign_item": {
+    "criteria": {
+      "has_sign": "2024-12-31 21:34:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_acacia_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-12-31 21:34:37 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_desk": {
     "criteria": {
       "has_birch_desk": "2024-12-31 20:09:08 +0000"
@@ -6720,6 +6756,12 @@
   "refurbished_furniture:recipes/misc/constructing/birch_desk": {
     "criteria": {
       "has_birch_planks": "2024-12-31 20:09:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_sign_item": {
+    "criteria": {
+      "has_sign": "2024-12-31 21:34:37 +0000"
     },
     "done": true
   },
@@ -6735,6 +6777,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_mangrove_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-12-31 21:34:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_warped_sign_item": {
+    "criteria": {
+      "has_sign": "2024-12-31 21:34:37 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/birch_support": {
     "criteria": {
       "has_plank": "2024-12-31 20:09:08 +0000"
@@ -6747,9 +6801,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_jungle_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-12-31 21:34:37 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_fancy_bed": {
     "criteria": {
       "has_birch_fancy_bed": "2024-12-31 20:09:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_dark_oak_sign_item": {
+    "criteria": {
+      "has_sign": "2024-12-31 21:34:37 +0000"
     },
     "done": true
   },
@@ -6768,6 +6834,12 @@
   "refurbished_furniture:recipes/misc/constructing/birch_table": {
     "criteria": {
       "has_birch_planks": "2024-12-31 20:09:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_cherry_sign_item": {
+    "criteria": {
+      "has_sign": "2024-12-31 21:34:37 +0000"
     },
     "done": true
   },
@@ -6795,6 +6867,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-12-31 21:34:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_spruce_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-12-31 21:34:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/birch_window": {
     "criteria": {
       "has_ingredient": "2024-12-31 20:09:08 +0000"
@@ -6819,6 +6903,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_warped_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-12-31 21:34:37 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/baking/baked_potato": {
     "criteria": {
       "has_ingredient": "2024-12-31 21:23:14 +0000"
@@ -6837,9 +6927,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_dark_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-12-31 21:34:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_crimson_sign_item": {
+    "criteria": {
+      "has_sign": "2024-12-31 21:34:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2024-12-31 20:09:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_crimson_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-12-31 21:34:37 +0000"
     },
     "done": true
   },
@@ -6852,6 +6960,12 @@
   "refurbished_furniture:recipes/misc/constructing/birch_kitchen_cabinetry": {
     "criteria": {
       "has_birch_planks": "2024-12-31 20:09:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_spruce_sign_item": {
+    "criteria": {
+      "has_sign": "2024-12-31 21:34:37 +0000"
     },
     "done": true
   },
@@ -6915,6 +7029,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_mangrove_sign_item": {
+    "criteria": {
+      "has_sign": "2024-12-31 21:34:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/sand_paper": {
     "criteria": {
       "has_item": "2024-12-31 21:19:17 +0000"
@@ -6939,6 +7059,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_bamboo_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-12-31 21:34:37 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_bench": {
     "criteria": {
       "has_birch_bench": "2024-12-31 20:09:08 +0000"
@@ -6960,6 +7086,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2024-12-31 21:19:17 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_bamboo_sign_item": {
+    "criteria": {
+      "has_sign": "2024-12-31 21:34:37 +0000"
     },
     "done": true
   },
