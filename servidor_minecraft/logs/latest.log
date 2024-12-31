@@ -1335,3 +1335,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31Dec2024 07:23:08.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS has made the advancement [Into Fire]
 [31Dec2024 07:23:08.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Gave 1 [Blaze Rod] to TRY_KIMS]
 [31Dec2024 07:28:19.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS has made the advancement [Local Brewery]
+[31Dec2024 07:54:52.081] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/838162, l='ServerLevel[world]', x=-384.74, y=76.00, z=-220.24] died, message: 'Librarian was slain by TRY_KIMS'
+[31Dec2024 07:56:57.846] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/844072, l='ServerLevel[world]', x=-407.44, y=76.00, z=-232.25] died, message: 'Librarian was slain by TRY_KIMS'
