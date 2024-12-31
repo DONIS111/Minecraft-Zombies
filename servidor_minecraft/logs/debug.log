@@ -21671,3 +21671,382 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31Dec2024 06:26:27.173] [IO-Worker-85/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-87
 [31Dec2024 06:26:56.807] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [31Dec2024 06:26:56.821] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 06:30:57.771] [IO-Worker-86/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-88
+[31Dec2024 06:31:56.798] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 06:31:56.812] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 06:31:56.963] [IO-Worker-85/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-89
+[31Dec2024 06:34:09.154] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2097323375 to 6
+[31Dec2024 06:34:48.870] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Donita1 lost connection: Disconnected
+[31Dec2024 06:34:48.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 left the game
+[31Dec2024 06:34:48.872] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Donita1
+[31Dec2024 06:34:48.872] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Donita1
+[31Dec2024 06:35:00.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[31Dec2024 06:35:00.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
+[31Dec2024 06:35:10.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /advancement (grant|revoke)
+[31Dec2024 06:35:10.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /attribute <target> <attribute> (get|base|modifier)
+[31Dec2024 06:35:10.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
+[31Dec2024 06:35:10.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /bossbar (add|remove|list|set|get)
+[31Dec2024 06:35:10.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clear [<targets>]
+[31Dec2024 06:35:10.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clone (<begin>|from)
+[31Dec2024 06:35:10.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /damage <target> <amount> [<damageType>]
+[31Dec2024 06:35:10.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /data (merge|get|remove|modify)
+[31Dec2024 06:35:10.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /datapack (enable|disable|list)
+[31Dec2024 06:35:10.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /debug (start|stop|function)
+[31Dec2024 06:35:10.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /defaultgamemode <gamemode>
+[31Dec2024 06:35:10.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /difficulty [peaceful|easy|normal|hard]
+[31Dec2024 06:35:10.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /effect (clear|give)
+[31Dec2024 06:35:10.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /me <action>
+[31Dec2024 06:35:10.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /enchant <targets> <enchantment> [<level>]
+[31Dec2024 06:35:10.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /experience (add|set|query)
+[31Dec2024 06:35:10.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /xp -> experience
+[31Dec2024 06:35:10.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[31Dec2024 06:35:10.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fillbiome <from> <to> <biome> [replace]
+[31Dec2024 06:35:10.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forceload (add|remove|query)
+[31Dec2024 06:35:10.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /function <name>
+[31Dec2024 06:35:10.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamemode <gamemode> [<target>]
+[31Dec2024 06:35:10.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamerule (ageingSpawners|announceAdvancements|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|decorative_blocks:disableThatch|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doPotassiumBlockExplode|doPotassiumBlockFumesWhenRainy|doSeasonCycle|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|fakeLavaSourceConversion|fakeWaterSourceConversion|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|gibCulling|globalSoundEvents|hordeMultiplying|hordeStacking|ironGolemRegenPower|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnRadius|spectatorsGenerateChunks|tntExplosionDropDecay|universalAnger|waterSourceConversion)
+[31Dec2024 06:35:10.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /give <targets> <item> [<count>]
+[31Dec2024 06:35:10.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /help [<command>]
+[31Dec2024 06:35:10.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /item (replace|modify)
+[31Dec2024 06:35:10.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kick <targets> [<reason>]
+[31Dec2024 06:35:10.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kill [<targets>]
+[31Dec2024 06:35:10.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /list [uuids]
+[31Dec2024 06:35:10.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /locate (structure|biome|poi)
+[31Dec2024 06:35:10.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /loot (replace|insert|give|spawn)
+[31Dec2024 06:35:10.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /msg <targets> <message>
+[31Dec2024 06:35:10.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tell -> msg
+[31Dec2024 06:35:10.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /w -> msg
+[31Dec2024 06:35:10.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /particle <name> [<pos>]
+[31Dec2024 06:35:10.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /place (feature|jigsaw|structure|template)
+[31Dec2024 06:35:10.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
+[31Dec2024 06:35:10.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /reload
+[31Dec2024 06:35:10.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /recipe (give|take)
+[31Dec2024 06:35:10.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /return <value>
+[31Dec2024 06:35:10.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ride <target> (mount|dismount)
+[31Dec2024 06:35:10.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /say <message>
+[31Dec2024 06:35:10.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /schedule (function|clear)
+[31Dec2024 06:35:10.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /scoreboard (objectives|players)
+[31Dec2024 06:35:10.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /seed
+[31Dec2024 06:35:10.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setblock <pos> <block> [destroy|keep|replace]
+[31Dec2024 06:35:10.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spawnpoint [<targets>]
+[31Dec2024 06:35:10.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setworldspawn [<pos>]
+[31Dec2024 06:35:10.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spectate [<target>]
+[31Dec2024 06:35:10.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[31Dec2024 06:35:10.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[31Dec2024 06:35:10.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /summon <entity> [<pos>]
+[31Dec2024 06:35:10.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tag <targets> (add|remove|list)
+[31Dec2024 06:35:10.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /team (list|add|remove|empty|join|leave|modify)
+[31Dec2024 06:35:10.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teammsg <message>
+[31Dec2024 06:35:10.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tm -> teammsg
+[31Dec2024 06:35:10.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teleport (<location>|<destination>|<targets>)
+[31Dec2024 06:35:10.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tp -> teleport
+[31Dec2024 06:35:10.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tellraw <targets> <message>
+[31Dec2024 06:35:10.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /time (set|add|query)
+[31Dec2024 06:35:10.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[31Dec2024 06:35:10.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /trigger <objective> [add|set]
+[31Dec2024 06:35:10.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /weather (clear|rain|thunder)
+[31Dec2024 06:35:10.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /worldborder (add|set|center|damage|get|warning)
+[31Dec2024 06:35:10.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /jfr (start|stop)
+[31Dec2024 06:35:10.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ban-ip <target> [<reason>]
+[31Dec2024 06:35:10.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /banlist [ips|players]
+[31Dec2024 06:35:10.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ban <targets> [<reason>]
+[31Dec2024 06:35:10.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /deop <targets>
+[31Dec2024 06:35:10.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /op <targets>
+[31Dec2024 06:35:10.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pardon <targets>
+[31Dec2024 06:35:10.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pardon-ip <target>
+[31Dec2024 06:35:10.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /perf (start|stop)
+[31Dec2024 06:35:10.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-all [flush]
+[31Dec2024 06:35:10.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-off
+[31Dec2024 06:35:10.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-on
+[31Dec2024 06:35:10.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setidletimeout <minutes>
+[31Dec2024 06:35:10.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /stop
+[31Dec2024 06:35:10.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /whitelist (on|off|list|add|remove|reload)
+[31Dec2024 06:35:10.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ftblibrary (gamemode|rain|day|night|nbtedit|generate_loot_tables)
+[31Dec2024 06:35:10.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ftbteams (party|server|msg|info|list|force-disband)
+[31Dec2024 06:35:10.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /octolib config reload (all|<path>)
+[31Dec2024 06:35:10.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kubejs (help|custom_command|hand|offhand|inventory|hotbar|errors|reload|export|list_tag|dump_registry|stages|painter|generate_typings|packmode|dump_internals|persistent_data)
+[31Dec2024 06:35:10.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kjs -> kubejs
+[31Dec2024 06:35:10.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /summon2 <namespace> <entity> [<position>]
+[31Dec2024 06:35:10.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /give2 <targets> <mod> <item> [<count>]
+[31Dec2024 06:35:10.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /hordes (spawnZombie|listEntities|spawnWave|start|stop|debug|reset)
+[31Dec2024 06:35:10.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /biggerstacks quicksetup
+[31Dec2024 06:35:10.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /structure_gel (savestructures|getspawns|getstructures|getbiomes|viewbounds|building_tool|distance|getfeatures)
+[31Dec2024 06:35:10.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /curios (list|replace|set|add|remove|clear|drop|reset)
+[31Dec2024 06:35:10.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /itemblacklist (ban|unban|list)
+[31Dec2024 06:35:10.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /season (set|get)
+[31Dec2024 06:35:10.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /solonion (sync|clear|diversity|resetOrigin|resetAllOrigins)
+[31Dec2024 06:35:10.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forge (tps|track|entity|generate|dimensions|mods|tags)
+[31Dec2024 06:35:10.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /config showfile <mod> <type>
+[31Dec2024 06:35:10.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /cofh (crafting|workbench|enderchest|friend|heal|ignite|invis|invuln|recharge|repair|zap)
+[31Dec2024 06:35:10.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /sc (bug|connect|convert|dump|help|owner)
+[31Dec2024 06:35:10.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /securitycraft (bug|connect|convert|dump|help|owner)
+[31Dec2024 06:35:10.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setStalkerCount <stalkerCount>
+[31Dec2024 06:35:10.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setNightmareCount <nightmareCount>
+[31Dec2024 06:35:10.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /regrowth (debugLevel|info)
+[31Dec2024 06:35:10.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /lootr [barrel|trapped_chest|chest|shulker|clear|cart|custom|open_as|open_as_uuid|id|refresh|decay|openers]
+[31Dec2024 06:35:10.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /placebo (serialize_loot_table|hand|string_to_obj)
+[31Dec2024 06:35:10.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /bookshelf (font|hand)
+[31Dec2024 06:35:10.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ping [<target>]
+[31Dec2024 06:35:10.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /uteamcore (stackinfo|dimteleport|ping)
+[31Dec2024 06:35:10.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /sbp (list|give|removeNonPlayer)
+[31Dec2024 06:35:10.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /sophisticatedbackpacks -> sbp
+[31Dec2024 06:35:10.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /carryon (debug|clear|place)
+[31Dec2024 06:35:10.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /flan (reload|add|expand|menu|setHome|trapped|name|unlockDrops|personalGroups|info|transferClaim|delete|deleteAll|deleteSubClaim|deleteAllSubClaims|list|switchMode|bypass|readGriefPrevention|setAdminClaim|listAdminClaims|adminDelete|giveClaimBlocks|buy|sell|claimMessage|group|fakePlayer|teleport|permission|ignoreList|help|?)
+[31Dec2024 06:35:10.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /scalingmobs (health|damage|piercing|drops|mode|burnDay|get)
+[31Dec2024 06:35:10.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ct (block_info|conflicts|ctgui|discord|docs|dump|dump_brackets|entity_info|examples|give|hand|help|inventory|issues|log|mods|patreon|recipes|reload|scripts|syntax|wiki)
+[31Dec2024 06:35:10.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /crafttweaker -> ct
+[31Dec2024 06:35:10.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tacz (attachment_lock|debug|dummy|overwrite|reload|hide_tooltip_part)
+[31Dec2024 06:35:10.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /coro config common (reload|save|get|set)
+[31Dec2024 06:35:10.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /closeguiscreen [<target_players>]
+[31Dec2024 06:35:10.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /openguiscreen <screen_identifier> [<target_players>]
+[31Dec2024 06:35:10.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fmvariable (get|set)
+[31Dec2024 06:35:10.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /corgilib
+[31Dec2024 06:35:10.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /railways (split_train|train_uuid)
+[31Dec2024 06:35:10.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /snr (split_train|train_uuid)
+[31Dec2024 06:35:10.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /create (rainbowDebug|overlay|trains|fixLighting|debuginfo|highlight|killTrain|passenger|coupling|config|ponder|clone|glue|util|u)
+[31Dec2024 06:35:10.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /c (rainbowDebug|overlay|trains|fixLighting|debuginfo|highlight|killTrain|passenger|coupling|config|ponder|clone|glue|util|u)
+[31Dec2024 06:35:10.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /deathhistory (<player>|<player_uuid>)
+[31Dec2024 06:35:10.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /polymorph conflicts
+[31Dec2024 06:35:10.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /incontrol (debug|kill|reload|showmobs|showstats|clearstats|list|info|days|phases|numbers|area|setphase|setnumber|clearphase)
+[31Dec2024 06:35:10.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ctrl -> incontrol
+[31Dec2024 06:35:10.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /voicechat [help|test|invite|join|leave]
+[31Dec2024 06:35:10.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /open-patchouli-book <targets> <book> [<entry>]
+[31Dec2024 06:35:10.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /lostcities (createbuilding|debug|stats|map|saveprofile|createpart|locatepart|locate|editpart|resumeedit|listparts|exportpart|testfill)
+[31Dec2024 06:35:10.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /lost -> lostcities
+[31Dec2024 06:35:10.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /resetchunks [<range>]
+[31Dec2024 06:35:10.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /waypoint (create|delete)
+[31Dec2024 06:35:10.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /wp -> waypoint
+[31Dec2024 06:35:10.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /starterkit [help|info|choose|add|set|deactivate|activate|give|list|reload|reset]
+[31Dec2024 06:35:10.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /sk [help|info|choose|add|set|deactivate|activate|give|list|reload|reset]
+[31Dec2024 06:35:10.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /cemd [usage|list|reload|addhand|cleardrops]
+[31Dec2024 06:35:10.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /almanac reload [<config>]
+[31Dec2024 06:35:10.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /letmedespawn (add|remove)
+[31Dec2024 06:35:10.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /enhancedcelestials (setLunarEvent|lunarForecast)
+[31Dec2024 06:35:10.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ec (setLunarEvent|lunarForecast)
+[31Dec2024 06:35:10.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /cmdconfig
+[31Dec2024 06:35:49.767] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1049107934 to 20
+[31Dec2024 06:36:56.797] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 06:36:56.813] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 06:36:56.963] [IO-Worker-86/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-90
+[31Dec2024 06:36:56.963] [IO-Worker-85/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-91
+[31Dec2024 06:37:10.642] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 45 messages to dispatch.
+[31Dec2024 06:37:11.114] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Donita1 is 37023e91-faad-4e06-a200-e07907058232
+[31Dec2024 06:37:11.123] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'com.tacz.guns.network.message.handshake.ServerMessageSyncedEntityDataMapping' to 'tacz:handshake' sequence 0
+[31Dec2024 06:37:11.168] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 1
+[31Dec2024 06:37:11.219] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 2
+[31Dec2024 06:37:11.237] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel tacz:handshake with index 0
+[31Dec2024 06:37:11.237] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 0 of type com.tacz.guns.network.message.handshake.Acknowledge
+[31Dec2024 06:37:11.237] [Netty Epoll Server IO #4/DEBUG] [tacz/HANDSHAKE_ACKNOWLEDGE]: Received acknowledgement from client
+[31Dec2024 06:37:11.278] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 3
+[31Dec2024 06:37:11.323] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 4
+[31Dec2024 06:37:11.360] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[31Dec2024 06:37:11.360] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[31Dec2024 06:37:11.360] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [betterdungeons, auudio, almanac, createdeco, cure, playeranimator, gamemenuremovegfarb, satako, yungsapi, bbb, hordes, k_turrets, biggerstacks, jeresources, chat_heads, cloth_config, combatlog, embeddium, rubidium, athena, structure_gel, corpse, tenshilib, handcrafted, combatroll, warrior, gml, propertymodifier, philipsruins, overworld_netherite_ore, curios, rightclickharvest, oculus, itemblacklist, commongroovylibrary, searchables, attributeslib, noisium, pointblank, atlaslib, unilib, strayed_fates_forsaken, bettermineshafts, sliceanddice, mutantmonsters, jei, create_netherless, immersive_weathering, forgivingworld, glitchcore, sereneseasons, wegotrunnners, table_top_craft, solonion, crafttweaker, puzzlesaccessapi, forge, drippyloadingscreen, minecraft, cw_additions, the_deep_void, cofh_core, voicechat, sound_physics_remastered, psg, mousetweaks, shouldersurfing, cleanswing, spectrelib, fastpaintings, createtweaker, betterfpsdist, kotlinforforge, notenoughanimations, flywheel, ecologics, polymorph, securitycraft, sit, entityculling, regrowth, pillagers_gun, ambientenvironment, xray_snitch, appleskin, lootr, puzzleslib, money, responsiveshields, geckolib, incontrol, tipsmod, dynamiclights, immersive_aircraft, sophisticatedcore, insanelib, golemsarefriends, configurableextramobdrops, enhancedvisuals, controlling, placebo, citadel, alexsmobs, zombieawareness, mixinextras, bookshelf, sophisticatedbackpacks, uteamcore, railways, carryon, melody, dummmmmmy, konkrete, farmersdelight, entity_model_features, entity_texture_features, totem_fragments, ambientsounds, simpleshops, projectvibrantjourneys, nostartupmessages, arboria, jeffs_cursed_walking_structures, patchouli, collective, flan, lostcities, keerdm_zombie_essentials, resourcefullib, starterkit, scalingmobs, eatinganimation, architectury, nerb, ftblibrary, walkietalkie, ftbteams, pandalib, cupboard, ageingspawners, firstjoinmessage, refurbished_furniture, framework, letmedespawn, no_ruined_nether_portals, fallingtrees, craftpresence, rhino, kubejs, octolib, copycats, tacz, map_atlases, create, marbledsarsenal, journeymap, comforts, mcore, decorative_blocks, myserveriscompatible, badmobs, better_mob_food, mighty_mail, toastcontrol, jeffsgibbing, experimentalsettingsdisabler, watut, enchdesc, moonlight, extragore, toolbelt, creativecore, smoothboot, voidfog, easy_villagers, marbledsmelees, accessdenied, better_zombie_drops, fancymenu, lios_overhauled_villages, coroutil, nobz, automobility, ferritecore, enhancedcelestials, corgilib, justzoom, charmofundying, packetfixer, horde_hoard, openloader]
+[31Dec2024 06:37:11.360] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'watut:main' : Version test of '4' from client : ACCEPTED
+[31Dec2024 06:37:11.360] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'structure_gel:main' : Version test of '7' from client : ACCEPTED
+[31Dec2024 06:37:11.360] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'dummmmmmy:channel' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.360] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:create_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[31Dec2024 06:37:11.360] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[31Dec2024 06:37:11.360] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[31Dec2024 06:37:11.360] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'enhancedvisuals:main' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.360] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'corgilib:network' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.360] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'table_top_craft:net' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.360] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tacz:handshake' : Version test of '1.0.3' from client : ACCEPTED
+[31Dec2024 06:37:11.360] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'better_zombie_drops:better_zombie_drops' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.360] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:update_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[31Dec2024 06:37:11.360] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'enhancedcelestials:network' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.360] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'create_netherless:create_netherless' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.360] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'attributeslib:attributeslib' : Version test of '1.0.0' from client : ACCEPTED
+[31Dec2024 06:37:11.360] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:admin_req' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.360] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:waypoint' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.360] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spectrelib:main' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.361] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'automobility:main' : Version test of '0.3' from client : ACCEPTED
+[31Dec2024 06:37:11.361] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[31Dec2024 06:37:11.361] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexsmobs:main_channel' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.361] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jeffsgibbing:jeffsgibbing' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.361] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[31Dec2024 06:37:11.361] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'creativecore:main' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.361] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:teleport_req' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.361] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tenshilib:packets' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.361] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sereneseasons:main' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.361] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'toolbelt:general' : Version test of '1.0' from client : ACCEPTED
+[31Dec2024 06:37:11.361] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'hordes:infection' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.361] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lootr:main_network_channel' : Version test of '2' from client : ACCEPTED
+[31Dec2024 06:37:11.361] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[31Dec2024 06:37:11.361] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'hordes:hordeevent' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.361] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.361] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'moonlight:channel' : Version test of '0' from client : ACCEPTED
+[31Dec2024 06:37:11.361] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'refurbished_furniture:play' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.361] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'arboria:arboria' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.361] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'corpse:default' : Version test of '1.0.0' from client : ACCEPTED
+[31Dec2024 06:37:11.361] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:leave_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[31Dec2024 06:37:11.361] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'charmofundying:main' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.361] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'starterkit:to_server_send_kit_choice_packet' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.361] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'puzzleslib:1' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.361] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ic_air:main' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.361] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lostcities:lostcities' : Version test of '1.0' from client : ACCEPTED
+[31Dec2024 06:37:11.361] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cw_additions:cw_additions' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.361] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fancymenu:play' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.361] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:joined_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[31Dec2024 06:37:11.361] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldinfo:world_id' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.361] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'polymorph:main' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.361] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'starterkit:to_server_announce_mod_is_installed_packet' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.361] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:mp_options_req' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.361] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'starterkit:to_client_receive_kit_data_packet' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.361] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'k_turrets:network' : Version test of '1.0' from client : ACCEPTED
+[31Dec2024 06:37:11.361] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'totem_fragments:totem_fragments' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.361] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'wegotrunnners:wegotrunnners' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.361] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:admin_save' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.361] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:request_secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[31Dec2024 06:37:11.361] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'uteamcore:network' : Version test of '1.20.1-1' from client : ACCEPTED
+[31Dec2024 06:37:11.361] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[31Dec2024 06:37:11.361] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[31Dec2024 06:37:11.361] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'map_atlases:channel' : Version test of '0' from client : ACCEPTED
+[31Dec2024 06:37:11.361] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cure:cure' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.361] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[31Dec2024 06:37:11.361] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tacz:network' : Version test of '1.0.3' from client : ACCEPTED
+[31Dec2024 06:37:11.361] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mighty_mail:play' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.361] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'money:money' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.361] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[31Dec2024 06:37:11.361] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'pointblank:pointblank' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.362] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xray_snitch:network' : Version test of '1.0' from client : ACCEPTED
+[31Dec2024 06:37:11.362] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedbackpacks:channel' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.362] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:play' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.362] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:version' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.362] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cofh_core:general' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.362] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'the_deep_void:the_deep_void' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.362] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'easy_villagers:default' : Version test of '1.0.0' from client : ACCEPTED
+[31Dec2024 06:37:11.362] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[31Dec2024 06:37:11.362] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[31Dec2024 06:37:11.362] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'starterkit:to_client_select_first_slot_packet' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.362] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'biggerstacks:rules' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.362] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'insanelib:simple_channel' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.362] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'immersive_weathering:channel' : Version test of '0' from client : ACCEPTED
+[31Dec2024 06:37:11.362] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[31Dec2024 06:37:11.362] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'psg:psg' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.362] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'crafttweaker:main' : Version test of '1.0.0' from client : ACCEPTED
+[31Dec2024 06:37:11.362] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:common' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.362] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mutantmonsters:1' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.362] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[31Dec2024 06:37:11.362] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'create:main' : Version test of '3' from client : ACCEPTED
+[31Dec2024 06:37:11.362] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'comforts:main' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.362] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jeffs_cursed_walking_structures:jeffs_cursed_walking_structures' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.362] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.362] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'starterkit:to_client_ask_if_mod_is_installed_packet' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.362] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'carryon:carryonpackets' : Version test of '1.0' from client : ACCEPTED
+[31Dec2024 06:37:11.362] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'overworld_netherite_ore:overworld_netherite_ore' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.362] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.362] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'securitycraft:securitycraft' : Version test of 'v1.9.11' from client : ACCEPTED
+[31Dec2024 06:37:11.362] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:set_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[31Dec2024 06:37:11.362] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'uteamcore:network_forge' : Version test of '1.20.1-1' from client : ACCEPTED
+[31Dec2024 06:37:11.362] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'better_mob_food:better_mob_food' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.362] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.362] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'placebo:placebo' : Version test of '1.0.0' from client : ACCEPTED
+[31Dec2024 06:37:11.362] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_states' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[31Dec2024 06:37:11.362] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'extragore:main' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.362] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:handshake' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.362] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[31Dec2024 06:37:11.362] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'glitchcore:config_sync' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.362] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:player_loc' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.362] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedcore:channel' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.362] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'patchouli:main' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.362] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'combatroll:network' : Version test of '1.0' from client : ACCEPTED
+[31Dec2024 06:37:11.362] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'horde_hoard:horde_hoard' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.362] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:perm_req' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.362] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'solonion:main' : Version test of '1' from client : ACCEPTED
+[31Dec2024 06:37:11.362] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[31Dec2024 06:37:11.363] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[31Dec2024 06:37:11.374] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 5
+[31Dec2024 06:37:11.381] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[31Dec2024 06:37:11.381] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31Dec2024 06:37:11.382] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31Dec2024 06:37:11.423] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 6
+[31Dec2024 06:37:11.424] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[31Dec2024 06:37:11.424] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31Dec2024 06:37:11.424] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31Dec2024 06:37:11.472] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 7
+[31Dec2024 06:37:11.523] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 8
+[31Dec2024 06:37:11.572] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 9
+[31Dec2024 06:37:11.582] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[31Dec2024 06:37:11.582] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31Dec2024 06:37:11.582] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31Dec2024 06:37:11.583] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[31Dec2024 06:37:11.583] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31Dec2024 06:37:11.583] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31Dec2024 06:37:11.584] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[31Dec2024 06:37:11.584] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31Dec2024 06:37:11.584] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31Dec2024 06:37:11.623] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 10
+[31Dec2024 06:37:11.676] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 11
+[31Dec2024 06:37:11.724] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 12
+[31Dec2024 06:37:11.776] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 13
+[31Dec2024 06:37:11.825] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 14
+[31Dec2024 06:37:11.874] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 15
+[31Dec2024 06:37:11.901] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[31Dec2024 06:37:11.901] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31Dec2024 06:37:11.902] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31Dec2024 06:37:11.904] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[31Dec2024 06:37:11.904] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31Dec2024 06:37:11.904] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31Dec2024 06:37:11.906] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[31Dec2024 06:37:11.906] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31Dec2024 06:37:11.906] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31Dec2024 06:37:11.907] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[31Dec2024 06:37:11.907] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31Dec2024 06:37:11.907] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31Dec2024 06:37:11.913] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[31Dec2024 06:37:11.913] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31Dec2024 06:37:11.914] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31Dec2024 06:37:11.914] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[31Dec2024 06:37:11.914] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31Dec2024 06:37:11.915] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31Dec2024 06:37:11.921] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 16
+[31Dec2024 06:37:11.979] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 17
+[31Dec2024 06:37:12.025] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 18
+[31Dec2024 06:37:12.067] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[31Dec2024 06:37:12.067] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31Dec2024 06:37:12.067] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31Dec2024 06:37:12.073] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 19
+[31Dec2024 06:37:12.073] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[31Dec2024 06:37:12.073] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31Dec2024 06:37:12.073] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31Dec2024 06:37:12.073] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[31Dec2024 06:37:12.073] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31Dec2024 06:37:12.073] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31Dec2024 06:37:12.114] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[31Dec2024 06:37:12.114] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31Dec2024 06:37:12.114] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31Dec2024 06:37:12.114] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[31Dec2024 06:37:12.114] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31Dec2024 06:37:12.114] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31Dec2024 06:37:12.125] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 20
+[31Dec2024 06:37:12.170] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 21
+[31Dec2024 06:37:12.177] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[31Dec2024 06:37:12.178] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31Dec2024 06:37:12.178] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31Dec2024 06:37:12.223] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config securitycraft-server.toml' to 'fml:handshake' sequence 22
+[31Dec2024 06:37:12.239] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[31Dec2024 06:37:12.239] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31Dec2024 06:37:12.239] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31Dec2024 06:37:12.297] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sit-server.toml' to 'fml:handshake' sequence 23
+[31Dec2024 06:37:12.327] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config easy_villagers-server.toml' to 'fml:handshake' sequence 24
+[31Dec2024 06:37:12.375] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config mutantmonsters-server.toml' to 'fml:handshake' sequence 25
+[31Dec2024 06:37:12.423] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 26
+[31Dec2024 06:37:12.471] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 27
+[31Dec2024 06:37:12.523] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config journeymap-server.toml' to 'fml:handshake' sequence 28
+[31Dec2024 06:37:12.573] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config k_turrets-server.toml' to 'fml:handshake' sequence 29
+[31Dec2024 06:37:12.622] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config toolbelt-server.toml' to 'fml:handshake' sequence 30
+[31Dec2024 06:37:12.673] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config create-server.toml' to 'fml:handshake' sequence 31
+[31Dec2024 06:37:12.721] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config biggerstacks-server.toml' to 'fml:handshake' sequence 32
+[31Dec2024 06:37:12.769] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config foxmods/accessdenied.toml' to 'fml:handshake' sequence 33
+[31Dec2024 06:37:12.817] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sophisticatedbackpacks-server.toml' to 'fml:handshake' sequence 34
+[31Dec2024 06:37:12.868] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config lostcities-server.toml' to 'fml:handshake' sequence 35
+[31Dec2024 06:37:12.919] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config corpse-server.toml' to 'fml:handshake' sequence 36
+[31Dec2024 06:37:12.967] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config warrior-server.toml' to 'fml:handshake' sequence 37
+[31Dec2024 06:37:13.017] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config cofh_core-server.toml' to 'fml:handshake' sequence 38
+[31Dec2024 06:37:13.070] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config railways-server.toml' to 'fml:handshake' sequence 39
+[31Dec2024 06:37:13.119] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 40
+[31Dec2024 06:37:13.169] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config tacz-server.toml' to 'fml:handshake' sequence 41
+[31Dec2024 06:37:13.217] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'portb.biggerstacks.net.ClientboundRulesHandshakePacket' to 'biggerstacks:rules' sequence 42
+[31Dec2024 06:37:13.266] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'FrameworkConfig refurbished_furniture:server' to 'framework:handshake' sequence 43
+[31Dec2024 06:37:13.318] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'FrameworkConfig mighty_mail:server' to 'framework:handshake' sequence 44
