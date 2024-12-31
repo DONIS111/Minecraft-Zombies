@@ -68,6 +68,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2024-12-31 19:53:41 +0000",
       "minecraft:dark_forest": "2024-12-30 02:55:35 +0000",
       "minecraft:sparse_jungle": "2024-12-31 03:18:19 +0000",
       "minecraft:river": "2024-12-30 02:56:59 +0000",
@@ -6253,6 +6254,102 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2024-12-31 06:41:52 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/acacia_palisade": {
+    "criteria": {
+      "has_log": "2024-12-31 06:41:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2024-12-31 06:41:52 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/acacia_pallet": {
+    "criteria": {
+      "has_planks": "2024-12-31 06:41:52 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/acacia_beam": {
+    "criteria": {
+      "has_log": "2024-12-31 06:41:52 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/acacia_wall": {
+    "criteria": {
+      "has_logs": "2024-12-31 06:41:52 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/acacia_frame": {
+    "criteria": {
+      "has_planks": "2024-12-31 06:41:52 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/acacia_blossom": {
+    "criteria": {
+      "acacia_blossom": "2024-12-31 06:44:14 +0000"
+    },
+    "done": true
+  },
+  "projectvibrantjourneys:recipes/building_blocks/acacia_planks_from_acacia_hollow_log": {
+    "criteria": {
+      "has_acacia_hollow_log": "2024-12-31 06:46:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-31 07:15:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-31 07:15:33 +0000"
+    },
+    "done": true
+  },
+  "regrowth:rgroot/teardown": {
+    "criteria": {
+      "has_traded": "2024-12-31 07:22:12 +0000"
+    },
+    "done": false
+  },
+  "regrowth:rgroot/rgroot": {
+    "criteria": {
+      "has_traded": "2024-12-31 07:22:12 +0000"
+    },
+    "done": true
+  },
+  "regrowth:rgroot/saferhedges": {
+    "criteria": {
+      "has_traded": "2024-12-31 07:22:12 +0000"
+    },
+    "done": false
+  },
+  "regrowth:rgroot/offlimits": {
+    "criteria": {
+      "has_traded": "2024-12-31 07:22:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-31 07:22:12 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/acacia_table": {
     "criteria": {
       "has_acacia_table": "2024-12-31 07:45:29 +0000"
@@ -6337,12 +6434,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_wood": {
-    "criteria": {
-      "has_log": "2024-12-31 06:41:52 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/acacia_pillar_trim": {
     "criteria": {
       "has_acacia_pillar_trim": "2024-12-31 07:45:29 +0000"
@@ -6379,36 +6470,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/paper": {
-    "criteria": {
-      "has_reeds": "2024-12-31 07:15:33 +0000"
-    },
-    "done": true
-  },
-  "regrowth:rgroot/teardown": {
-    "criteria": {
-      "has_traded": "2024-12-31 07:22:12 +0000"
-    },
-    "done": false
-  },
-  "projectvibrantjourneys:recipes/building_blocks/acacia_planks_from_acacia_hollow_log": {
-    "criteria": {
-      "has_acacia_hollow_log": "2024-12-31 06:46:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sugar_from_sugar_cane": {
-    "criteria": {
-      "has_sugar_cane": "2024-12-31 07:15:33 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/acacia_blossom": {
-    "criteria": {
-      "acacia_blossom": "2024-12-31 06:44:14 +0000"
-    },
-    "done": true
-  },
   "bbb:recipes/acacia_ladder": {
     "criteria": {
       "has_planks": "2024-12-31 07:45:29 +0000"
@@ -6421,39 +6482,15 @@
     },
     "done": true
   },
-  "decorative_blocks:recipes/building_blocks/acacia_palisade": {
-    "criteria": {
-      "has_log": "2024-12-31 06:41:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_planks": {
-    "criteria": {
-      "has_log": "2024-12-31 06:41:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/acacia_button": {
     "criteria": {
       "has_planks": "2024-12-31 07:45:29 +0000"
     },
     "done": true
   },
-  "bbb:recipes/acacia_pallet": {
-    "criteria": {
-      "has_planks": "2024-12-31 06:41:52 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/acacia_shelf": {
     "criteria": {
       "has_acacia_shelf": "2024-12-31 07:45:29 +0000"
-    },
-    "done": true
-  },
-  "regrowth:rgroot/rgroot": {
-    "criteria": {
-      "has_traded": "2024-12-31 07:22:12 +0000"
     },
     "done": true
   },
@@ -6487,21 +6524,9 @@
     },
     "done": true
   },
-  "bbb:recipes/acacia_beam": {
-    "criteria": {
-      "has_log": "2024-12-31 06:41:52 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/acacia_couch": {
     "criteria": {
       "has_acacia_couch": "2024-12-31 07:45:29 +0000"
-    },
-    "done": true
-  },
-  "bbb:recipes/acacia_wall": {
-    "criteria": {
-      "has_logs": "2024-12-31 06:41:52 +0000"
     },
     "done": true
   },
@@ -6514,24 +6539,6 @@
   "handcrafted:recipes/misc/acacia_bench": {
     "criteria": {
       "has_acacia_bench": "2024-12-31 07:45:29 +0000"
-    },
-    "done": true
-  },
-  "regrowth:rgroot/saferhedges": {
-    "criteria": {
-      "has_traded": "2024-12-31 07:22:12 +0000"
-    },
-    "done": false
-  },
-  "regrowth:rgroot/offlimits": {
-    "criteria": {
-      "has_traded": "2024-12-31 07:22:12 +0000"
-    },
-    "done": false
-  },
-  "bbb:recipes/acacia_frame": {
-    "criteria": {
-      "has_planks": "2024-12-31 06:41:52 +0000"
     },
     "done": true
   },
@@ -6565,12 +6572,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2024-12-31 07:22:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-31 07:45:29 +0000"
@@ -6598,6 +6599,288 @@
   "bbb:recipes/acacia_support": {
     "criteria": {
       "has_block": "2024-12-31 07:45:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2024-12-31 20:09:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_cutting_board": {
+    "criteria": {
+      "has_birch_planks": "2024-12-31 20:09:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2024-12-31 20:09:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_shelf": {
+    "criteria": {
+      "has_birch_shelf": "2024-12-31 20:09:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2024-12-31 20:06:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2024-12-31 20:09:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_nightstand": {
+    "criteria": {
+      "has_birch_nightstand": "2024-12-31 20:09:08 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/birch_seat": {
+    "criteria": {
+      "has_plank": "2024-12-31 20:09:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-31 20:06:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2024-12-31 20:09:08 +0000"
+    },
+    "done": true
+  },
+  "mighty_mail:recipes/decorations/birch_mail_box": {
+    "criteria": {
+      "has_planks": "2024-12-31 20:09:08 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/birch_ladder": {
+    "criteria": {
+      "has_planks": "2024-12-31 20:09:08 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/birch_layer": {
+    "criteria": {
+      "has_block": "2024-12-31 20:09:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_cupboard": {
+    "criteria": {
+      "has_birch_cupboard": "2024-12-31 20:09:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_counter": {
+    "criteria": {
+      "has_birch_counter": "2024-12-31 20:09:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_desk": {
+    "criteria": {
+      "has_birch_desk": "2024-12-31 20:09:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_desk": {
+    "criteria": {
+      "has_birch_planks": "2024-12-31 20:09:08 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/birch_support": {
+    "criteria": {
+      "has_block": "2024-12-31 20:09:08 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/birch_support": {
+    "criteria": {
+      "has_plank": "2024-12-31 20:09:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_fancy_bed": {
+    "criteria": {
+      "has_birch_fancy_bed": "2024-12-31 20:09:08 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/birch_trim": {
+    "criteria": {
+      "has_block": "2024-12-31 20:09:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_drawer": {
+    "criteria": {
+      "has_birch_planks": "2024-12-31 20:09:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_table": {
+    "criteria": {
+      "has_birch_planks": "2024-12-31 20:09:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_birch_planks": "2024-12-31 20:09:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-31 20:09:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_drawer": {
+    "criteria": {
+      "has_birch_drawer": "2024-12-31 20:09:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/birch_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-31 20:09:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_crate": {
+    "criteria": {
+      "has_birch_planks": "2024-12-31 20:09:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2024-12-31 20:09:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_drawer": {
+    "criteria": {
+      "has_birch_planks": "2024-12-31 20:09:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-31 20:09:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_table": {
+    "criteria": {
+      "has_birch_table": "2024-12-31 20:09:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-31 20:09:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_side_table": {
+    "criteria": {
+      "has_birch_side_table": "2024-12-31 20:09:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_cabinetry": {
+    "criteria": {
+      "has_birch_planks": "2024-12-31 20:09:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_corner_trim": {
+    "criteria": {
+      "has_birch_corner_trim": "2024-12-31 20:09:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2024-12-31 20:06:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-12-31 20:06:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_couch": {
+    "criteria": {
+      "has_birch_couch": "2024-12-31 20:09:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2024-12-31 20:09:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_pillar_trim": {
+    "criteria": {
+      "has_birch_pillar_trim": "2024-12-31 20:09:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_dining_bench": {
+    "criteria": {
+      "has_birch_dining_bench": "2024-12-31 20:09:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_chair": {
+    "criteria": {
+      "has_birch_chair": "2024-12-31 20:09:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_bench": {
+    "criteria": {
+      "has_birch_bench": "2024-12-31 20:09:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_mail_box": {
+    "criteria": {
+      "has_birch_planks": "2024-12-31 20:09:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-31 20:09:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2024-12-31 20:06:14 +0000"
     },
     "done": true
   },

@@ -1000,3 +1000,51 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31Dec2024 18:35:30.805] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TRY_KIMS (18)
 [31Dec2024 18:35:30.806] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TRY_KIMS
 [31Dec2024 18:35:30.808] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3226ms or 64 ticks behind
+[31Dec2024 19:23:31.958] [Server thread/WARN] [pointblank/]: Skipping loading of outdated or expired slot mappings.
+[31Dec2024 19:25:58.398] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@6ebb5e65]Trying to start horde event on day 30 with nextDay 30 and time 10000
+[31Dec2024 19:25:58.402] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@5e28a04b
+[31Dec2024 19:25:58.404] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[31Dec2024 19:25:58.405] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[31Dec2024 19:25:58.405] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[31Dec2024 19:25:58.405] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[31Dec2024 19:25:58.452] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 30
+[31Dec2024 19:25:58.452] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 30
+[31Dec2024 19:25:58.453] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}]}} to hordespawn on day 30
+[31Dec2024 19:26:48.447] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 30
+[31Dec2024 19:26:48.448] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 30
+[31Dec2024 19:26:48.448] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}]}} to hordespawn on day 30
+[31Dec2024 19:27:38.458] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 30
+[31Dec2024 19:27:38.458] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 30
+[31Dec2024 19:27:38.459] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 30
+[31Dec2024 19:28:28.452] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 30
+[31Dec2024 19:28:28.453] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 30
+[31Dec2024 19:28:28.453] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 30
+[31Dec2024 19:29:18.447] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 30
+[31Dec2024 19:29:18.448] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 30
+[31Dec2024 19:29:18.448] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 30
+[31Dec2024 19:30:08.455] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 30
+[31Dec2024 19:30:08.456] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 30
+[31Dec2024 19:30:08.456] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 30
+[31Dec2024 19:32:27.672] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 325061377, path: 07b68d6a-434e-43b3-a634-0c11015329dc/cantedrail/air, elements: {}} attempted to update empty stack 0 air
+[31Dec2024 19:32:27.673] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 668209688, path: 07b68d6a-434e-43b3-a634-0c11015329dc/air, elements: {}} attempted to update empty stack 0 air
+[31Dec2024 19:32:28.179] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 325061377, path: 07b68d6a-434e-43b3-a634-0c11015329dc/cantedrail/air, elements: {}} attempted to update empty stack 0 air
+[31Dec2024 19:32:28.179] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 668209688, path: 07b68d6a-434e-43b3-a634-0c11015329dc/air, elements: {}} attempted to update empty stack 0 air
+[31Dec2024 19:32:39.356] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 1462055207, path: 07b68d6a-434e-43b3-a634-0c11015329dc/air, elements: {}} attempted to update empty stack 0 air
+[31Dec2024 19:32:43.952] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 217472224, path: 07b68d6a-434e-43b3-a634-0c11015329dc/cantedrail/air, elements: {}} attempted to update empty stack 0 air
+[31Dec2024 19:32:43.953] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 1404153685, path: 07b68d6a-434e-43b3-a634-0c11015329dc/air, elements: {}} attempted to update empty stack 0 air
+[31Dec2024 19:32:43.956] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 217472224, path: 07b68d6a-434e-43b3-a634-0c11015329dc/cantedrail/air, elements: {}} attempted to update empty stack 0 air
+[31Dec2024 19:32:43.956] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 1404153685, path: 07b68d6a-434e-43b3-a634-0c11015329dc/air, elements: {}} attempted to update empty stack 0 air
+[31Dec2024 19:32:46.203] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 217472224, path: 07b68d6a-434e-43b3-a634-0c11015329dc/cantedrail/air, elements: {}} attempted to update empty stack 0 air
+[31Dec2024 19:32:46.203] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 1404153685, path: 07b68d6a-434e-43b3-a634-0c11015329dc/air, elements: {}} attempted to update empty stack 0 air
+[31Dec2024 19:32:47.021] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 217472224, path: 07b68d6a-434e-43b3-a634-0c11015329dc/cantedrail/air, elements: {}} attempted to update empty stack 0 air
+[31Dec2024 19:32:47.021] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 1404153685, path: 07b68d6a-434e-43b3-a634-0c11015329dc/air, elements: {}} attempted to update empty stack 0 air
+[31Dec2024 19:37:28.476] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Donita1 is 37023e91-faad-4e06-a200-e07907058232
+[31Dec2024 19:37:40.846] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Donita1[/127.200.165.114:57369] logged in with entity id 92214 at (-421.5374483589114, 76.0, -219.09610035969428)
+[31Dec2024 19:37:40.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 joined the game
+[31Dec2024 19:37:41.052] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Donita1
+[31Dec2024 19:37:46.395] [Netty Epoll Server IO #2/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Donita1
+[31Dec2024 19:37:46.510] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Donita1 (18)
+[31Dec2024 19:37:46.511] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Donita1
+[31Dec2024 19:43:39.646] [Server thread/WARN] [pointblank/]: Skipping loading of outdated or expired slot mappings.
+[31Dec2024 20:08:20.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 was slain by TRY_KIMS
+[31Dec2024 20:08:22.226] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
