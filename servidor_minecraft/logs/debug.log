@@ -20882,3 +20882,19 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31Dec2024 22:04:19.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 left the game
 [31Dec2024 22:04:19.412] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Donita1
 [31Dec2024 22:04:19.413] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Donita1
+[31Dec2024 22:04:35.426] [IO-Worker-66/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-76
+[31Dec2024 22:04:35.427] [IO-Worker-66/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-77
+[31Dec2024 22:04:35.429] [IO-Worker-66/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-78
+[31Dec2024 22:04:35.431] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 22:04:35.445] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 22:04:56.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Iron Ingot] to TRY_KIMS
+[31Dec2024 22:06:11.300] [IO-Worker-77/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-79
+[31Dec2024 22:08:18.103] [IO-Worker-66/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-80
+[31Dec2024 22:09:35.428] [IO-Worker-80/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-81
+[31Dec2024 22:09:35.429] [IO-Worker-80/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-82
+[31Dec2024 22:09:35.431] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 22:09:35.445] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 22:09:43.914] [Worker-Main-14/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-14 shutdown
+[31Dec2024 22:12:02.151] [IO-Worker-81/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-83
+[31Dec2024 22:13:05.560] [Worker-Main-4/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-4 shutdown
+[31Dec2024 22:13:29.218] [IO-Worker-81/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-84
