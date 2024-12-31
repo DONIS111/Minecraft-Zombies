@@ -6090,15 +6090,33 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/mushroom_rice": {
+  "create:recipes/misc/crafting/appliances/crafting_blueprint": {
     "criteria": {
-      "has_any_ingredient": "2024-12-31 04:04:13 +0000"
+      "has_item": "2024-12-31 03:39:55 +0000"
     },
     "done": true
   },
-  "decorative_blocks:recipes/building_blocks/birch_palisade": {
+  "minecraft:story/root": {
     "criteria": {
-      "has_log": "2024-12-31 04:02:39 +0000"
+      "crafting_table": "2024-12-31 03:39:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2024-12-31 03:44:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-31 03:55:07 +0000"
+    },
+    "done": true
+  },
+  "projectvibrantjourneys:recipes/misc/orange_dye_from_orange_bark_mushroom": {
+    "criteria": {
+      "has_orange_bark_mushroom": "2024-12-31 03:59:11 +0000"
     },
     "done": true
   },
@@ -6114,48 +6132,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dripstone_block": {
-    "criteria": {
-      "has_pointed_dripstone": "2024-12-31 03:44:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/mushroom_stew": {
-    "criteria": {
-      "has_brown_mushroom": "2024-12-31 04:04:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/fletching_table": {
-    "criteria": {
-      "has_flint": "2024-12-31 04:10:27 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/mushroom_stew": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-31 04:04:13 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/appliances/crafting_blueprint": {
-    "criteria": {
-      "has_item": "2024-12-31 03:39:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_wood": {
-    "criteria": {
-      "has_log": "2024-12-31 04:02:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/coarse_dirt": {
-    "criteria": {
-      "has_gravel": "2024-12-31 03:55:07 +0000"
-    },
-    "done": true
-  },
   "bbb:recipes/birch_beam": {
     "criteria": {
       "has_log": "2024-12-31 04:02:31 +0000"
@@ -6168,27 +6144,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_brown_mushroom": "2024-12-31 04:04:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/arrow": {
-    "criteria": {
-      "has_flint": "2024-12-31 04:10:27 +0000"
-    },
-    "done": true
-  },
   "bbb:recipes/birch_wall": {
     "criteria": {
       "has_logs": "2024-12-31 04:02:31 +0000"
     },
     "done": true
   },
-  "projectvibrantjourneys:recipes/misc/orange_dye_from_orange_bark_mushroom": {
+  "decorative_blocks:recipes/building_blocks/birch_palisade": {
     "criteria": {
-      "has_orange_bark_mushroom": "2024-12-31 03:59:11 +0000"
+      "has_log": "2024-12-31 04:02:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2024-12-31 04:02:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-31 04:04:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-31 04:04:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-31 04:04:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-31 04:04:13 +0000"
     },
     "done": true
   },
@@ -6198,9 +6192,15 @@
     },
     "done": true
   },
-  "minecraft:story/root": {
+  "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
-      "crafting_table": "2024-12-31 03:39:55 +0000"
+      "has_flint": "2024-12-31 04:10:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2024-12-31 04:10:27 +0000"
     },
     "done": true
   },
