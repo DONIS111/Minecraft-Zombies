@@ -1006,3 +1006,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31Dec2024 02:53:50.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 was slain by TRY_KIMS
 [31Dec2024 02:53:52.261] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [31Dec2024 02:53:56.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Teleported Donita1 to TRY_KIMS]
+[31Dec2024 03:00:09.121] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Donita1 lost connection: Timed out
+[31Dec2024 03:00:09.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 left the game
+[31Dec2024 03:00:09.127] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Donita1
+[31Dec2024 03:01:07.726] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@33514dbd[id=<null>,name=Donita1,properties={},legacy=false] (/127.200.165.114:58939) lost connection: Disconnected
+[31Dec2024 03:01:17.235] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Donita1 is 37023e91-faad-4e06-a200-e07907058232
+[31Dec2024 03:01:28.379] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Donita1[/127.200.165.114:37999] logged in with entity id 37716 at (-220.22769297348827, -33.0, -96.55548976338106)
+[31Dec2024 03:01:28.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 joined the game
+[31Dec2024 03:01:28.500] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Donita1
+[31Dec2024 03:01:30.684] [Netty Epoll Server IO #7/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Donita1
+[31Dec2024 03:01:30.685] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Donita1 (18)
+[31Dec2024 03:01:30.686] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Donita1
