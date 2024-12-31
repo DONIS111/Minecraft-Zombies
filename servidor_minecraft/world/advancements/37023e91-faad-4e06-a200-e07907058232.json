@@ -6253,5 +6253,59 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2024-12-31 06:41:52 +0000"
+    },
+    "done": true
+  },
+  "projectvibrantjourneys:recipes/building_blocks/acacia_planks_from_acacia_hollow_log": {
+    "criteria": {
+      "has_acacia_hollow_log": "2024-12-31 06:46:57 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/acacia_blossom": {
+    "criteria": {
+      "acacia_blossom": "2024-12-31 06:44:14 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/acacia_palisade": {
+    "criteria": {
+      "has_log": "2024-12-31 06:41:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2024-12-31 06:41:52 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/acacia_pallet": {
+    "criteria": {
+      "has_planks": "2024-12-31 06:41:52 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/acacia_beam": {
+    "criteria": {
+      "has_log": "2024-12-31 06:41:52 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/acacia_wall": {
+    "criteria": {
+      "has_logs": "2024-12-31 06:41:52 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/acacia_frame": {
+    "criteria": {
+      "has_planks": "2024-12-31 06:41:52 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

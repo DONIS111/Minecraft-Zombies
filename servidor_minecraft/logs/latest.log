@@ -1305,3 +1305,24 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31Dec2024 06:35:10.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ec (setLunarEvent|lunarForecast)
 [31Dec2024 06:35:10.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /cmdconfig
 [31Dec2024 06:37:11.114] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Donita1 is 37023e91-faad-4e06-a200-e07907058232
+[31Dec2024 06:37:22.888] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Donita1[/127.200.165.114:51743] logged in with entity id 607588 at (-416.95409165919557, 74.85489329934836, -215.87301355086456)
+[31Dec2024 06:37:22.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 joined the game
+[31Dec2024 06:37:22.982] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Donita1
+[31Dec2024 06:37:25.986] [Netty Epoll Server IO #4/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Donita1
+[31Dec2024 06:37:26.037] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Donita1 (18)
+[31Dec2024 06:37:26.038] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Donita1
+[31Dec2024 06:44:14.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 has reached the goal [Flowers of the Savanna]
+[31Dec2024 06:45:57.073] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[31Dec2024 06:48:14.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Set own game mode to Creative Mode]
+[31Dec2024 06:48:16.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Set own game mode to Survival Mode]
+[31Dec2024 06:49:19.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[31Dec2024 06:49:19.918] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TRY_KIMS lost connection: Disconnected
+[31Dec2024 06:49:19.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS left the game
+[31Dec2024 06:49:19.919] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TRY_KIMS
+[31Dec2024 06:51:01.158] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TRY_KIMS is 5f3199fd-6670-4090-b2bc-f7f58130ab00
+[31Dec2024 06:51:10.045] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TRY_KIMS[/127.95.164.225:58997] logged in with entity id 646008 at (-287.3592997020086, 72.0, -146.57181710421656)
+[31Dec2024 06:51:10.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS joined the game
+[31Dec2024 06:51:10.146] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to TRY_KIMS
+[31Dec2024 06:51:12.040] [Netty Epoll Server IO #7/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from TRY_KIMS
+[31Dec2024 06:51:12.087] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TRY_KIMS (18)
+[31Dec2024 06:51:12.087] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TRY_KIMS
