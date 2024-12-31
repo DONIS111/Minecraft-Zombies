@@ -20873,3 +20873,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31Dec2024 21:51:22.157] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-410.83, y=70.00, z=-204.93] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-404.26, y=68.00, z=-219.53]
 [31Dec2024 21:51:22.157] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-410.83, y=70.00, z=-204.93] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-410.83, y=70.00, z=-204.93]
 [31Dec2024 21:51:23.558] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 694272537 to 8
+[31Dec2024 21:54:35.429] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 21:54:35.443] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 21:59:35.425] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 21:59:35.439] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 22:02:25.300] [IO-Worker-66/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-75
+[31Dec2024 22:04:19.407] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Donita1 lost connection: Disconnected
+[31Dec2024 22:04:19.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 left the game
+[31Dec2024 22:04:19.412] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Donita1
+[31Dec2024 22:04:19.413] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Donita1
