@@ -1003,3 +1003,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31Dec2024 02:42:39.936] [Netty Epoll Server IO #5/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Donita1
 [31Dec2024 02:42:39.984] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Donita1 (18)
 [31Dec2024 02:42:39.986] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Donita1
+[31Dec2024 02:53:50.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 was slain by TRY_KIMS
+[31Dec2024 02:53:52.261] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[31Dec2024 02:53:56.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Teleported Donita1 to TRY_KIMS]
