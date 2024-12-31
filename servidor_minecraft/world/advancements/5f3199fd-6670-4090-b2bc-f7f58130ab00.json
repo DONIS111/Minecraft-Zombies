@@ -7078,6 +7078,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/building_blocks/birch_palisade": {
+    "criteria": {
+      "has_log": "2024-12-31 03:59:22 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dripstone_pillar_trim": {
     "criteria": {
       "has_dripstone_pillar_trim": "2024-12-31 03:03:08 +0000"
@@ -7174,9 +7180,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2024-12-31 03:59:03 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/granite_corner_trim": {
     "criteria": {
       "has_granite_corner_trim": "2024-12-31 03:23:36 +0000"
+    },
+    "done": true
+  },
+  "projectvibrantjourneys:recipes/misc/brown_dye_from_bark_mushroom": {
+    "criteria": {
+      "has_bark_mushroom": "2024-12-31 04:00:41 +0000"
     },
     "done": true
   },
@@ -7252,6 +7270,12 @@
     },
     "done": true
   },
+  "bbb:recipes/birch_pallet": {
+    "criteria": {
+      "has_planks": "2024-12-31 03:59:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-31 03:23:36 +0000"
@@ -7321,6 +7345,12 @@
   "create:recipes/building_blocks/cut_granite_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-31 03:23:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2024-12-31 03:59:22 +0000"
     },
     "done": true
   },
@@ -7408,9 +7438,21 @@
     },
     "done": true
   },
+  "bbb:recipes/birch_beam": {
+    "criteria": {
+      "has_log": "2024-12-31 03:59:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_brick_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-31 03:23:36 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/birch_frame": {
+    "criteria": {
+      "has_planks": "2024-12-31 03:59:03 +0000"
     },
     "done": true
   },
@@ -7423,6 +7465,12 @@
   "create:recipes/building_blocks/layered_granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-31 03:23:36 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/birch_wall": {
+    "criteria": {
+      "has_logs": "2024-12-31 03:59:03 +0000"
     },
     "done": true
   },
