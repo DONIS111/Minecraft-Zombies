@@ -6340,9 +6340,10 @@
   },
   "regrowth:rgroot/offlimits": {
     "criteria": {
-      "has_traded": "2024-12-31 07:22:12 +0000"
+      "has_traded": "2024-12-31 07:22:12 +0000",
+      "has_shovel": "2024-12-31 20:50:59 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:adventure/trade": {
     "criteria": {
