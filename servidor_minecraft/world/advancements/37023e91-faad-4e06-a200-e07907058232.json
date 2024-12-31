@@ -6259,9 +6259,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-31 07:15:33 +0000"
+    },
+    "done": true
+  },
+  "regrowth:rgroot/teardown": {
+    "criteria": {
+      "has_traded": "2024-12-31 07:22:12 +0000"
+    },
+    "done": false
+  },
   "projectvibrantjourneys:recipes/building_blocks/acacia_planks_from_acacia_hollow_log": {
     "criteria": {
       "has_acacia_hollow_log": "2024-12-31 06:46:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-31 07:15:33 +0000"
     },
     "done": true
   },
@@ -6289,6 +6307,12 @@
     },
     "done": true
   },
+  "regrowth:rgroot/rgroot": {
+    "criteria": {
+      "has_traded": "2024-12-31 07:22:12 +0000"
+    },
+    "done": true
+  },
   "bbb:recipes/acacia_beam": {
     "criteria": {
       "has_log": "2024-12-31 06:41:52 +0000"
@@ -6301,9 +6325,27 @@
     },
     "done": true
   },
+  "regrowth:rgroot/saferhedges": {
+    "criteria": {
+      "has_traded": "2024-12-31 07:22:12 +0000"
+    },
+    "done": false
+  },
+  "regrowth:rgroot/offlimits": {
+    "criteria": {
+      "has_traded": "2024-12-31 07:22:12 +0000"
+    },
+    "done": false
+  },
   "bbb:recipes/acacia_frame": {
     "criteria": {
       "has_planks": "2024-12-31 06:41:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-31 07:22:12 +0000"
     },
     "done": true
   },
