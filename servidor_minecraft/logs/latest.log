@@ -1076,3 +1076,27 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31Dec2024 22:04:19.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 left the game
 [31Dec2024 22:04:19.413] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Donita1
 [31Dec2024 22:04:56.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Iron Ingot] to TRY_KIMS
+[31Dec2024 22:46:45.351] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TRY_KIMS lost connection: Disconnected
+[31Dec2024 22:46:45.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS left the game
+[31Dec2024 22:46:45.352] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TRY_KIMS
+[31Dec2024 22:47:04.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[31Dec2024 22:47:04.482] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
+[31Dec2024 22:47:04.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[31Dec2024 22:47:04.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[31Dec2024 22:47:04.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[31Dec2024 22:47:05.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[31Dec2024 22:47:05.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_deep_void:deep_void
+[31Dec2024 22:47:05.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[31Dec2024 22:47:05.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[31Dec2024 22:47:05.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[31Dec2024 22:47:05.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[31Dec2024 22:47:05.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (deep_void): All chunks are saved
+[31Dec2024 22:47:05.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[31Dec2024 22:47:05.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[31Dec2024 22:47:05.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[31Dec2024 22:47:05.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[31Dec2024 22:47:05.982] [Server thread/INFO] [Framework/]: Unloading server configs...
+[31Dec2024 22:47:05.986] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[31Dec2024 22:47:05.993] [Server thread/INFO] [Framework/]: Sending config unload event for mighty_mail.server.toml
+[31Dec2024 22:47:05.993] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[31Dec2024 22:47:06.032] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
