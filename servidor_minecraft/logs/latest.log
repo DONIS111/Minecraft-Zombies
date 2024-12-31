@@ -1066,3 +1066,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31Dec2024 03:56:17.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
 [31Dec2024 04:05:55.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 was slain by Zombie
 [31Dec2024 04:05:57.170] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[31Dec2024 04:05:59.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Teleported Donita1 to TRY_KIMS]
+[31Dec2024 04:07:36.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS was slain by Donita1
+[31Dec2024 04:07:37.923] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[31Dec2024 04:07:39.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
