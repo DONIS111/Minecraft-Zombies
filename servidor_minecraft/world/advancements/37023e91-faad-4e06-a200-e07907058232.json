@@ -6669,6 +6669,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/display_case": {
+    "criteria": {
+      "has_item_frame": "2024-12-31 21:16:50 +0000"
+    },
+    "done": true
+  },
   "mighty_mail:recipes/decorations/birch_mail_box": {
     "criteria": {
       "has_planks": "2024-12-31 20:09:08 +0000"
@@ -6693,6 +6699,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/heating/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2024-12-31 21:23:14 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_counter": {
     "criteria": {
       "has_birch_counter": "2024-12-31 20:09:08 +0000"
@@ -6711,6 +6723,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-31 21:23:14 +0000"
+    },
+    "done": true
+  },
   "bbb:recipes/birch_support": {
     "criteria": {
       "has_block": "2024-12-31 20:09:08 +0000"
@@ -6720,6 +6738,12 @@
   "decorative_blocks:recipes/building_blocks/birch_support": {
     "criteria": {
       "has_plank": "2024-12-31 20:09:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2024-12-31 21:19:17 +0000"
     },
     "done": true
   },
@@ -6750,6 +6774,12 @@
   "refurbished_furniture:recipes/misc/constructing/birch_kitchen_storage_cabinet": {
     "criteria": {
       "has_birch_planks": "2024-12-31 20:09:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-31 21:23:14 +0000"
     },
     "done": true
   },
@@ -6789,6 +6819,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/baking/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2024-12-31 21:23:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-31 20:09:08 +0000"
@@ -6819,6 +6855,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-31 21:19:51 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_corner_trim": {
     "criteria": {
       "has_birch_corner_trim": "2024-12-31 20:09:08 +0000"
@@ -6843,9 +6885,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-31 21:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-31 21:23:14 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_chair": {
     "criteria": {
       "has_birch_planks": "2024-12-31 20:09:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2024-12-31 21:19:17 +0000"
     },
     "done": true
   },
@@ -6855,9 +6915,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2024-12-31 21:19:17 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_dining_bench": {
     "criteria": {
       "has_birch_dining_bench": "2024-12-31 20:09:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2024-12-31 21:19:17 +0000"
     },
     "done": true
   },
@@ -6876,6 +6948,18 @@
   "refurbished_furniture:recipes/misc/constructing/birch_mail_box": {
     "criteria": {
       "has_birch_planks": "2024-12-31 20:09:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-31 21:19:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-31 21:19:17 +0000"
     },
     "done": true
   },

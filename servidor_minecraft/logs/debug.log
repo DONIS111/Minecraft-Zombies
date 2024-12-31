@@ -19781,3 +19781,1057 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31Dec2024 21:02:26.502] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 30
 [31Dec2024 21:02:26.503] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 30
 [31Dec2024 21:02:26.503] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 30
+[31Dec2024 21:04:06.153] [Server thread/DEBUG] [pointblank/]: 46153 handling client fire request
+[31Dec2024 21:04:06.153] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 19
+[31Dec2024 21:04:06.153] [Server thread/DEBUG] [pointblank/]: 46153 - obtained hit result in 0ms
+[31Dec2024 21:04:06.153] [Server thread/DEBUG] [pointblank/]: 46153 obtained hit results
+[31Dec2024 21:04:06.153] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@36adfa3e
+[31Dec2024 21:04:06.154] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.36, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-424.25, y=76.00, z=-213.96]
+[31Dec2024 21:04:06.154] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.36, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.36, y=58.50, z=-215.30]
+[31Dec2024 21:04:06.597] [Server thread/DEBUG] [pointblank/]: 46597 handling client fire request
+[31Dec2024 21:04:06.597] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 18
+[31Dec2024 21:04:06.598] [Server thread/DEBUG] [pointblank/]: 46598 - obtained hit result in 0ms
+[31Dec2024 21:04:06.598] [Server thread/DEBUG] [pointblank/]: 46598 obtained hit results
+[31Dec2024 21:04:06.598] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1e72afcc
+[31Dec2024 21:04:06.598] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.36, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-424.25, y=76.00, z=-213.96]
+[31Dec2024 21:04:06.598] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.36, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.36, y=58.50, z=-215.30]
+[31Dec2024 21:04:07.749] [Server thread/DEBUG] [pointblank/]: 47749 handling client fire request
+[31Dec2024 21:04:07.749] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 17
+[31Dec2024 21:04:07.749] [Server thread/DEBUG] [pointblank/]: 47749 - obtained hit result in 0ms
+[31Dec2024 21:04:07.749] [Server thread/DEBUG] [pointblank/]: 47749 obtained hit results
+[31Dec2024 21:04:07.749] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5ce6875
+[31Dec2024 21:04:07.750] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.36, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-424.25, y=76.00, z=-213.96]
+[31Dec2024 21:04:07.750] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.36, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.36, y=58.50, z=-215.30]
+[31Dec2024 21:04:08.304] [Server thread/DEBUG] [pointblank/]: 48304 handling client fire request
+[31Dec2024 21:04:08.304] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 16
+[31Dec2024 21:04:08.304] [Server thread/DEBUG] [pointblank/]: 48304 - obtained hit result in 0ms
+[31Dec2024 21:04:08.304] [Server thread/DEBUG] [pointblank/]: 48304 obtained hit results
+[31Dec2024 21:04:08.304] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@29ba3ef9
+[31Dec2024 21:04:08.305] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.36, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-424.25, y=76.00, z=-213.96]
+[31Dec2024 21:04:08.305] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.36, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.36, y=58.50, z=-215.30]
+[31Dec2024 21:04:09.100] [Server thread/DEBUG] [pointblank/]: 49100 handling client fire request
+[31Dec2024 21:04:09.100] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 15
+[31Dec2024 21:04:09.101] [Server thread/DEBUG] [pointblank/]: 49101 - obtained hit result in 1ms
+[31Dec2024 21:04:09.101] [Server thread/DEBUG] [pointblank/]: 49101 obtained hit results
+[31Dec2024 21:04:09.101] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7489f5f8
+[31Dec2024 21:04:09.101] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.36, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-424.25, y=76.00, z=-213.96]
+[31Dec2024 21:04:09.102] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.36, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.36, y=58.50, z=-215.30]
+[31Dec2024 21:04:09.949] [Server thread/DEBUG] [pointblank/]: 49949 handling client fire request
+[31Dec2024 21:04:09.950] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 14
+[31Dec2024 21:04:09.950] [Server thread/DEBUG] [pointblank/]: 49950 - obtained hit result in 0ms
+[31Dec2024 21:04:09.950] [Server thread/DEBUG] [pointblank/]: 49950 obtained hit results
+[31Dec2024 21:04:09.950] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@684904f2
+[31Dec2024 21:04:09.950] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.36, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-424.25, y=76.00, z=-213.96]
+[31Dec2024 21:04:09.950] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.36, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.36, y=58.50, z=-215.30]
+[31Dec2024 21:04:10.448] [Server thread/DEBUG] [pointblank/]: 50448 handling client fire request
+[31Dec2024 21:04:10.448] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 13
+[31Dec2024 21:04:10.448] [Server thread/DEBUG] [pointblank/]: 50448 - obtained hit result in 0ms
+[31Dec2024 21:04:10.448] [Server thread/DEBUG] [pointblank/]: 50448 obtained hit results
+[31Dec2024 21:04:10.448] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@641ab772
+[31Dec2024 21:04:10.449] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.36, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-424.25, y=76.00, z=-213.96]
+[31Dec2024 21:04:10.449] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.36, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.36, y=58.50, z=-215.30]
+[31Dec2024 21:04:10.803] [Server thread/DEBUG] [pointblank/]: 50803 handling client fire request
+[31Dec2024 21:04:10.803] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 12
+[31Dec2024 21:04:10.803] [Server thread/DEBUG] [pointblank/]: 50803 - obtained hit result in 0ms
+[31Dec2024 21:04:10.803] [Server thread/DEBUG] [pointblank/]: 50803 obtained hit results
+[31Dec2024 21:04:10.803] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@470d4570
+[31Dec2024 21:04:10.803] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.36, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-424.25, y=76.00, z=-213.96]
+[31Dec2024 21:04:10.803] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.36, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.36, y=58.50, z=-215.30]
+[31Dec2024 21:04:11.180] [Server thread/DEBUG] [pointblank/]: 51180 handling client fire request
+[31Dec2024 21:04:11.180] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 11
+[31Dec2024 21:04:11.180] [Server thread/DEBUG] [pointblank/]: 51180 - obtained hit result in 0ms
+[31Dec2024 21:04:11.180] [Server thread/DEBUG] [pointblank/]: 51180 obtained hit results
+[31Dec2024 21:04:11.180] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@796407d8
+[31Dec2024 21:04:11.180] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.36, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-424.25, y=76.00, z=-213.96]
+[31Dec2024 21:04:11.180] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.36, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.36, y=58.50, z=-215.30]
+[31Dec2024 21:04:11.557] [Server thread/DEBUG] [pointblank/]: 51557 handling client fire request
+[31Dec2024 21:04:11.557] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 10
+[31Dec2024 21:04:11.557] [Server thread/DEBUG] [pointblank/]: 51557 - obtained hit result in 0ms
+[31Dec2024 21:04:11.557] [Server thread/DEBUG] [pointblank/]: 51557 obtained hit results
+[31Dec2024 21:04:11.557] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2b00a43c
+[31Dec2024 21:04:11.559] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.36, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-424.25, y=76.00, z=-213.96]
+[31Dec2024 21:04:11.559] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.36, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.36, y=58.50, z=-215.30]
+[31Dec2024 21:04:12.057] [Server thread/DEBUG] [pointblank/]: 52057 handling client fire request
+[31Dec2024 21:04:12.057] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 9
+[31Dec2024 21:04:12.058] [Server thread/DEBUG] [pointblank/]: 52058 - obtained hit result in 0ms
+[31Dec2024 21:04:12.058] [Server thread/DEBUG] [pointblank/]: 52058 obtained hit results
+[31Dec2024 21:04:12.058] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@839094c
+[31Dec2024 21:04:12.058] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.36, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-424.25, y=76.00, z=-213.96]
+[31Dec2024 21:04:12.058] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.36, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.36, y=58.50, z=-215.30]
+[31Dec2024 21:04:12.444] [Server thread/DEBUG] [pointblank/]: 52444 handling client fire request
+[31Dec2024 21:04:12.444] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 8
+[31Dec2024 21:04:12.445] [Server thread/DEBUG] [pointblank/]: 52445 - obtained hit result in 0ms
+[31Dec2024 21:04:12.445] [Server thread/DEBUG] [pointblank/]: 52445 obtained hit results
+[31Dec2024 21:04:12.445] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@63653111
+[31Dec2024 21:04:12.448] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.36, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-424.25, y=76.00, z=-213.96]
+[31Dec2024 21:04:12.449] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.36, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.36, y=58.50, z=-215.30]
+[31Dec2024 21:04:12.803] [Server thread/DEBUG] [pointblank/]: 52803 handling client fire request
+[31Dec2024 21:04:12.803] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 7
+[31Dec2024 21:04:12.803] [Server thread/DEBUG] [pointblank/]: 52803 - obtained hit result in 0ms
+[31Dec2024 21:04:12.803] [Server thread/DEBUG] [pointblank/]: 52803 obtained hit results
+[31Dec2024 21:04:12.803] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@66359e5e
+[31Dec2024 21:04:12.803] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.36, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-424.25, y=76.00, z=-213.96]
+[31Dec2024 21:04:12.804] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.36, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.36, y=58.50, z=-215.30]
+[31Dec2024 21:04:21.000] [Server thread/DEBUG] [pointblank/]: 61000 handling client fire request
+[31Dec2024 21:04:21.000] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 6
+[31Dec2024 21:04:21.000] [Server thread/DEBUG] [pointblank/]: 61000 - obtained hit result in 0ms
+[31Dec2024 21:04:21.000] [Server thread/DEBUG] [pointblank/]: 61000 obtained hit results
+[31Dec2024 21:04:21.000] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7b5b0340
+[31Dec2024 21:04:21.001] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.70, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-424.25, y=76.00, z=-213.96]
+[31Dec2024 21:04:21.001] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.70, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.70, y=58.50, z=-215.30]
+[31Dec2024 21:04:21.449] [Server thread/DEBUG] [pointblank/]: 61449 handling client fire request
+[31Dec2024 21:04:21.449] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 5
+[31Dec2024 21:04:21.449] [Server thread/DEBUG] [pointblank/]: 61449 - obtained hit result in 0ms
+[31Dec2024 21:04:21.449] [Server thread/DEBUG] [pointblank/]: 61449 obtained hit results
+[31Dec2024 21:04:21.449] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@18177c7f
+[31Dec2024 21:04:21.449] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.70, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-424.25, y=76.00, z=-213.96]
+[31Dec2024 21:04:21.449] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.70, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.70, y=58.50, z=-215.30]
+[31Dec2024 21:04:22.055] [Server thread/DEBUG] [pointblank/]: 62055 handling client fire request
+[31Dec2024 21:04:22.056] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 4
+[31Dec2024 21:04:22.056] [Server thread/DEBUG] [pointblank/]: 62056 - obtained hit result in 0ms
+[31Dec2024 21:04:22.056] [Server thread/DEBUG] [pointblank/]: 62056 obtained hit results
+[31Dec2024 21:04:22.056] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@d94a265
+[31Dec2024 21:04:22.056] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.70, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-424.25, y=76.00, z=-213.96]
+[31Dec2024 21:04:22.056] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.70, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.70, y=58.50, z=-215.30]
+[31Dec2024 21:04:23.002] [Server thread/DEBUG] [pointblank/]: 63001 handling client fire request
+[31Dec2024 21:04:23.002] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 3
+[31Dec2024 21:04:23.002] [Server thread/DEBUG] [pointblank/]: 63002 - obtained hit result in 0ms
+[31Dec2024 21:04:23.002] [Server thread/DEBUG] [pointblank/]: 63002 obtained hit results
+[31Dec2024 21:04:23.002] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3b03c537
+[31Dec2024 21:04:23.003] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.70, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-424.25, y=76.00, z=-213.96]
+[31Dec2024 21:04:23.003] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.70, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.70, y=58.50, z=-215.30]
+[31Dec2024 21:04:23.399] [Server thread/DEBUG] [pointblank/]: 63399 handling client fire request
+[31Dec2024 21:04:23.399] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 2
+[31Dec2024 21:04:23.399] [Server thread/DEBUG] [pointblank/]: 63399 - obtained hit result in 0ms
+[31Dec2024 21:04:23.399] [Server thread/DEBUG] [pointblank/]: 63399 obtained hit results
+[31Dec2024 21:04:23.399] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@124a75e1
+[31Dec2024 21:04:23.399] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.70, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-424.25, y=76.00, z=-213.96]
+[31Dec2024 21:04:23.399] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.70, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.70, y=58.50, z=-215.30]
+[31Dec2024 21:04:23.999] [Server thread/DEBUG] [pointblank/]: 63999 handling client fire request
+[31Dec2024 21:04:23.999] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 1
+[31Dec2024 21:04:23.999] [Server thread/DEBUG] [pointblank/]: 63999 - obtained hit result in 0ms
+[31Dec2024 21:04:23.999] [Server thread/DEBUG] [pointblank/]: 63999 obtained hit results
+[31Dec2024 21:04:23.999] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3f993c47
+[31Dec2024 21:04:23.999] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.70, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-424.25, y=76.00, z=-213.96]
+[31Dec2024 21:04:23.999] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.70, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.70, y=58.50, z=-215.30]
+[31Dec2024 21:04:24.547] [Server thread/DEBUG] [pointblank/]: 64547 handling client fire request
+[31Dec2024 21:04:24.547] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 0
+[31Dec2024 21:04:24.547] [Server thread/DEBUG] [pointblank/]: 64547 - obtained hit result in 0ms
+[31Dec2024 21:04:24.547] [Server thread/DEBUG] [pointblank/]: 64547 obtained hit results
+[31Dec2024 21:04:24.547] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2c8d0e13
+[31Dec2024 21:04:24.548] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.70, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-424.25, y=76.00, z=-213.96]
+[31Dec2024 21:04:24.548] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.70, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.70, y=58.50, z=-215.30]
+[31Dec2024 21:04:27.104] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 20
+[31Dec2024 21:04:29.749] [Server thread/DEBUG] [pointblank/]: 69749 handling client fire request
+[31Dec2024 21:04:29.749] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 19
+[31Dec2024 21:04:29.749] [Server thread/DEBUG] [pointblank/]: 69749 - obtained hit result in 0ms
+[31Dec2024 21:04:29.749] [Server thread/DEBUG] [pointblank/]: 69749 obtained hit results
+[31Dec2024 21:04:29.749] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@49f14a03
+[31Dec2024 21:04:29.750] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.70, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-424.25, y=76.00, z=-213.96]
+[31Dec2024 21:04:29.750] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.70, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.70, y=58.50, z=-215.30]
+[31Dec2024 21:04:30.255] [Server thread/DEBUG] [pointblank/]: 70255 handling client fire request
+[31Dec2024 21:04:30.255] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 18
+[31Dec2024 21:04:30.255] [Server thread/DEBUG] [pointblank/]: 70255 - obtained hit result in 0ms
+[31Dec2024 21:04:30.255] [Server thread/DEBUG] [pointblank/]: 70255 obtained hit results
+[31Dec2024 21:04:30.255] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1ef23c87
+[31Dec2024 21:04:30.256] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.70, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-424.25, y=76.00, z=-213.96]
+[31Dec2024 21:04:30.256] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.70, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.70, y=58.50, z=-215.30]
+[31Dec2024 21:04:30.747] [Server thread/DEBUG] [pointblank/]: 70747 handling client fire request
+[31Dec2024 21:04:30.747] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 17
+[31Dec2024 21:04:30.747] [Server thread/DEBUG] [pointblank/]: 70747 - obtained hit result in 0ms
+[31Dec2024 21:04:30.747] [Server thread/DEBUG] [pointblank/]: 70747 obtained hit results
+[31Dec2024 21:04:30.747] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@43644e80
+[31Dec2024 21:04:30.747] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.70, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-424.25, y=76.00, z=-213.96]
+[31Dec2024 21:04:30.748] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.70, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.70, y=58.50, z=-215.30]
+[31Dec2024 21:04:32.349] [Server thread/DEBUG] [pointblank/]: 72349 handling client fire request
+[31Dec2024 21:04:32.350] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 16
+[31Dec2024 21:04:32.350] [Server thread/DEBUG] [pointblank/]: 72350 - obtained hit result in 0ms
+[31Dec2024 21:04:32.350] [Server thread/DEBUG] [pointblank/]: 72350 obtained hit results
+[31Dec2024 21:04:32.350] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5c16b799
+[31Dec2024 21:04:32.351] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.70, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-422.36, y=76.00, z=-214.40]
+[31Dec2024 21:04:32.352] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.70, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.70, y=58.50, z=-215.30]
+[31Dec2024 21:04:33.546] [Server thread/DEBUG] [pointblank/]: 73546 handling client fire request
+[31Dec2024 21:04:33.546] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 15
+[31Dec2024 21:04:33.546] [Server thread/DEBUG] [pointblank/]: 73546 - obtained hit result in 0ms
+[31Dec2024 21:04:33.546] [Server thread/DEBUG] [pointblank/]: 73546 obtained hit results
+[31Dec2024 21:04:33.546] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@362dbdd2
+[31Dec2024 21:04:33.548] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.70, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-421.88, y=76.00, z=-214.74]
+[31Dec2024 21:04:33.548] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.70, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.70, y=58.50, z=-215.30]
+[31Dec2024 21:04:35.429] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 21:04:35.443] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 21:04:41.346] [Server thread/DEBUG] [pointblank/]: 81346 handling client fire request
+[31Dec2024 21:04:41.346] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 14
+[31Dec2024 21:04:41.346] [Server thread/DEBUG] [pointblank/]: 81346 - obtained hit result in 0ms
+[31Dec2024 21:04:41.346] [Server thread/DEBUG] [pointblank/]: 81346 obtained hit results
+[31Dec2024 21:04:41.346] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@38291dd
+[31Dec2024 21:04:41.347] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.70, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-406.59, y=76.00, z=-230.98]
+[31Dec2024 21:04:41.347] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.70, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.70, y=58.50, z=-215.30]
+[31Dec2024 21:04:42.002] [Server thread/DEBUG] [pointblank/]: 82002 handling client fire request
+[31Dec2024 21:04:42.002] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 13
+[31Dec2024 21:04:42.002] [Server thread/DEBUG] [pointblank/]: 82002 - obtained hit result in 0ms
+[31Dec2024 21:04:42.002] [Server thread/DEBUG] [pointblank/]: 82002 obtained hit results
+[31Dec2024 21:04:42.002] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@5030f0e0
+[31Dec2024 21:04:42.002] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.70, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-405.12, y=76.00, z=-232.18]
+[31Dec2024 21:04:42.002] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.70, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.70, y=58.50, z=-215.30]
+[31Dec2024 21:04:43.897] [Server thread/DEBUG] [pointblank/]: 83897 handling client fire request
+[31Dec2024 21:04:43.897] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 12
+[31Dec2024 21:04:43.897] [Server thread/DEBUG] [pointblank/]: 83897 - obtained hit result in 0ms
+[31Dec2024 21:04:43.897] [Server thread/DEBUG] [pointblank/]: 83897 obtained hit results
+[31Dec2024 21:04:43.897] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@aeb953f
+[31Dec2024 21:04:43.897] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.70, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-404.87, y=76.00, z=-232.06]
+[31Dec2024 21:04:43.897] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.70, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.70, y=58.50, z=-215.30]
+[31Dec2024 21:04:45.346] [Server thread/DEBUG] [pointblank/]: 85346 handling client fire request
+[31Dec2024 21:04:45.346] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 11
+[31Dec2024 21:04:45.346] [Server thread/DEBUG] [pointblank/]: 85346 - obtained hit result in 0ms
+[31Dec2024 21:04:45.346] [Server thread/DEBUG] [pointblank/]: 85346 obtained hit results
+[31Dec2024 21:04:45.346] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@28fe51f4
+[31Dec2024 21:04:45.346] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.70, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-404.87, y=76.00, z=-232.06]
+[31Dec2024 21:04:45.346] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.70, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.70, y=58.50, z=-215.30]
+[31Dec2024 21:04:46.448] [Server thread/DEBUG] [pointblank/]: 86448 handling client fire request
+[31Dec2024 21:04:46.448] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 10
+[31Dec2024 21:04:46.448] [Server thread/DEBUG] [pointblank/]: 86448 - obtained hit result in 0ms
+[31Dec2024 21:04:46.448] [Server thread/DEBUG] [pointblank/]: 86448 obtained hit results
+[31Dec2024 21:04:46.448] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3b1930ea
+[31Dec2024 21:04:46.449] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.70, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-404.87, y=76.00, z=-232.06]
+[31Dec2024 21:04:46.449] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.70, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.70, y=58.50, z=-215.30]
+[31Dec2024 21:04:47.780] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 20
+[31Dec2024 21:04:57.147] [Server thread/DEBUG] [pointblank/]: 97147 handling client fire request
+[31Dec2024 21:04:57.147] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 19
+[31Dec2024 21:04:57.147] [Server thread/DEBUG] [pointblank/]: 97147 - obtained hit result in 0ms
+[31Dec2024 21:04:57.147] [Server thread/DEBUG] [pointblank/]: 97147 obtained hit results
+[31Dec2024 21:04:57.147] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@524c657e
+[31Dec2024 21:04:57.149] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.70, y=58.50, z=-217.70] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-404.37, y=76.00, z=-231.68]
+[31Dec2024 21:04:57.149] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.70, y=58.50, z=-217.70] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.70, y=58.50, z=-217.70]
+[31Dec2024 21:04:57.898] [Server thread/DEBUG] [pointblank/]: 97898 handling client fire request
+[31Dec2024 21:04:57.898] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 18
+[31Dec2024 21:04:57.898] [Server thread/DEBUG] [pointblank/]: 97898 - obtained hit result in 0ms
+[31Dec2024 21:04:57.898] [Server thread/DEBUG] [pointblank/]: 97898 obtained hit results
+[31Dec2024 21:04:57.898] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2777f109
+[31Dec2024 21:04:57.898] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.70, y=58.50, z=-217.70] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-404.37, y=76.00, z=-231.68]
+[31Dec2024 21:04:57.898] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.70, y=58.50, z=-217.70] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.70, y=58.50, z=-217.70]
+[31Dec2024 21:04:58.599] [Server thread/DEBUG] [pointblank/]: 98599 handling client fire request
+[31Dec2024 21:04:58.600] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 17
+[31Dec2024 21:04:58.600] [Server thread/DEBUG] [pointblank/]: 98600 - obtained hit result in 0ms
+[31Dec2024 21:04:58.600] [Server thread/DEBUG] [pointblank/]: 98600 obtained hit results
+[31Dec2024 21:04:58.600] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3dab604b
+[31Dec2024 21:04:58.601] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.70, y=58.50, z=-217.70] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-404.37, y=76.00, z=-231.68]
+[31Dec2024 21:04:58.601] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.70, y=58.50, z=-217.70] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.70, y=58.50, z=-217.70]
+[31Dec2024 21:05:26.149] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 20
+[31Dec2024 21:09:35.433] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 21:09:35.449] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 21:14:35.426] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 21:14:35.440] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 21:19:35.431] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 21:19:35.445] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 21:21:26.749] [Server thread/DEBUG] [pointblank/]: 86749 handling client fire request
+[31Dec2024 21:21:26.749] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 19
+[31Dec2024 21:21:26.750] [Server thread/DEBUG] [pointblank/]: 86750 - obtained hit result in 1ms
+[31Dec2024 21:21:26.750] [Server thread/DEBUG] [pointblank/]: 86750 obtained hit results
+[31Dec2024 21:21:26.750] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@45d15195
+[31Dec2024 21:21:26.751] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-401.93, y=70.00, z=-204.93] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-423.05, y=76.00, z=-216.59]
+[31Dec2024 21:21:26.751] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-401.93, y=70.00, z=-204.93] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-401.93, y=70.00, z=-204.93]
+[31Dec2024 21:21:27.153] [Server thread/DEBUG] [pointblank/]: 87153 handling client fire request
+[31Dec2024 21:21:27.153] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 18
+[31Dec2024 21:21:27.153] [Server thread/DEBUG] [pointblank/]: 87153 - obtained hit result in 0ms
+[31Dec2024 21:21:27.153] [Server thread/DEBUG] [pointblank/]: 87153 obtained hit results
+[31Dec2024 21:21:27.153] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@e46bd22
+[31Dec2024 21:21:27.154] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-401.93, y=70.00, z=-204.93] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-423.05, y=76.00, z=-216.59]
+[31Dec2024 21:21:27.154] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-401.93, y=70.00, z=-204.93] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-401.93, y=70.00, z=-204.93]
+[31Dec2024 21:21:27.849] [Server thread/DEBUG] [pointblank/]: 87849 handling client fire request
+[31Dec2024 21:21:27.849] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 17
+[31Dec2024 21:21:27.849] [Server thread/DEBUG] [pointblank/]: 87849 - obtained hit result in 0ms
+[31Dec2024 21:21:27.849] [Server thread/DEBUG] [pointblank/]: 87849 obtained hit results
+[31Dec2024 21:21:27.849] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1ea94384
+[31Dec2024 21:21:27.849] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-401.93, y=70.00, z=-204.93] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-423.05, y=76.00, z=-216.59]
+[31Dec2024 21:21:27.849] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-401.93, y=70.00, z=-204.93] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-401.93, y=70.00, z=-204.93]
+[31Dec2024 21:21:28.351] [Server thread/DEBUG] [pointblank/]: 88351 handling client fire request
+[31Dec2024 21:21:28.351] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 16
+[31Dec2024 21:21:28.351] [Server thread/DEBUG] [pointblank/]: 88351 - obtained hit result in 0ms
+[31Dec2024 21:21:28.351] [Server thread/DEBUG] [pointblank/]: 88351 obtained hit results
+[31Dec2024 21:21:28.351] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7e4f977c
+[31Dec2024 21:21:28.351] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-401.93, y=70.00, z=-204.93] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-423.05, y=76.00, z=-216.59]
+[31Dec2024 21:21:28.351] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-401.93, y=70.00, z=-204.93] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-401.93, y=70.00, z=-204.93]
+[31Dec2024 21:21:29.006] [Server thread/DEBUG] [pointblank/]: 89006 handling client fire request
+[31Dec2024 21:21:29.006] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 15
+[31Dec2024 21:21:29.006] [Server thread/DEBUG] [pointblank/]: 89006 - obtained hit result in 0ms
+[31Dec2024 21:21:29.006] [Server thread/DEBUG] [pointblank/]: 89006 obtained hit results
+[31Dec2024 21:21:29.006] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1fa74f9e
+[31Dec2024 21:21:29.007] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-401.93, y=70.00, z=-204.93] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-423.05, y=76.00, z=-216.59]
+[31Dec2024 21:21:29.007] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-401.93, y=70.00, z=-204.93] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-401.93, y=70.00, z=-204.93]
+[31Dec2024 21:21:29.649] [Server thread/DEBUG] [pointblank/]: 89649 handling client fire request
+[31Dec2024 21:21:29.649] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 14
+[31Dec2024 21:21:29.649] [Server thread/DEBUG] [pointblank/]: 89649 - obtained hit result in 0ms
+[31Dec2024 21:21:29.649] [Server thread/DEBUG] [pointblank/]: 89649 obtained hit results
+[31Dec2024 21:21:29.649] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2d6920ff
+[31Dec2024 21:21:29.649] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-401.93, y=70.00, z=-204.93] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-423.05, y=76.00, z=-216.59]
+[31Dec2024 21:21:29.650] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-401.93, y=70.00, z=-204.93] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-401.93, y=70.00, z=-204.93]
+[31Dec2024 21:21:30.502] [Server thread/DEBUG] [pointblank/]: 90502 handling client fire request
+[31Dec2024 21:21:30.502] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 13
+[31Dec2024 21:21:30.502] [Server thread/DEBUG] [pointblank/]: 90502 - obtained hit result in 0ms
+[31Dec2024 21:21:30.502] [Server thread/DEBUG] [pointblank/]: 90502 obtained hit results
+[31Dec2024 21:21:30.502] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@bc537fd
+[31Dec2024 21:21:30.502] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-401.93, y=70.00, z=-204.93] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-424.01, y=76.00, z=-217.00]
+[31Dec2024 21:21:30.502] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-401.93, y=70.00, z=-204.93] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-401.93, y=70.00, z=-204.93]
+[31Dec2024 21:21:30.954] [Server thread/DEBUG] [pointblank/]: 90954 handling client fire request
+[31Dec2024 21:21:30.954] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 12
+[31Dec2024 21:21:30.954] [Server thread/DEBUG] [pointblank/]: 90954 - obtained hit result in 0ms
+[31Dec2024 21:21:30.954] [Server thread/DEBUG] [pointblank/]: 90954 obtained hit results
+[31Dec2024 21:21:30.954] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3a92ec6d
+[31Dec2024 21:21:30.954] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-401.93, y=70.00, z=-204.93] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-425.10, y=76.00, z=-215.20]
+[31Dec2024 21:21:30.954] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-401.93, y=70.00, z=-204.93] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-401.93, y=70.00, z=-204.93]
+[31Dec2024 21:21:31.611] [Server thread/DEBUG] [pointblank/]: 91611 handling client fire request
+[31Dec2024 21:21:31.611] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 11
+[31Dec2024 21:21:31.611] [Server thread/DEBUG] [pointblank/]: 91611 - obtained hit result in 0ms
+[31Dec2024 21:21:31.611] [Server thread/DEBUG] [pointblank/]: 91611 obtained hit results
+[31Dec2024 21:21:31.611] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2e50a47d
+[31Dec2024 21:21:31.613] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-401.93, y=70.00, z=-204.93] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-425.29, y=76.00, z=-214.13]
+[31Dec2024 21:21:31.613] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-401.93, y=70.00, z=-204.93] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-401.93, y=70.00, z=-204.93]
+[31Dec2024 21:21:32.206] [Server thread/DEBUG] [pointblank/]: 92206 handling client fire request
+[31Dec2024 21:21:32.206] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 10
+[31Dec2024 21:21:32.206] [Server thread/DEBUG] [pointblank/]: 92206 - obtained hit result in 0ms
+[31Dec2024 21:21:32.206] [Server thread/DEBUG] [pointblank/]: 92206 obtained hit results
+[31Dec2024 21:21:32.206] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@35542c94
+[31Dec2024 21:21:32.207] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-401.93, y=70.00, z=-204.93] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-425.29, y=76.00, z=-214.13]
+[31Dec2024 21:21:32.207] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-401.93, y=70.00, z=-204.93] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-401.93, y=70.00, z=-204.93]
+[31Dec2024 21:21:32.806] [Server thread/DEBUG] [pointblank/]: 92806 handling client fire request
+[31Dec2024 21:21:32.806] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 9
+[31Dec2024 21:21:32.807] [Server thread/DEBUG] [pointblank/]: 92807 - obtained hit result in 1ms
+[31Dec2024 21:21:32.807] [Server thread/DEBUG] [pointblank/]: 92807 obtained hit results
+[31Dec2024 21:21:32.807] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7569fb35
+[31Dec2024 21:21:32.809] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-401.93, y=70.00, z=-204.93] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-425.29, y=76.00, z=-214.13]
+[31Dec2024 21:21:32.809] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-401.93, y=70.00, z=-204.93] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-401.93, y=70.00, z=-204.93]
+[31Dec2024 21:21:34.099] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 20
+[31Dec2024 21:22:30.401] [Server thread/DEBUG] [pointblank/]: 50401 handling client fire request
+[31Dec2024 21:22:30.401] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 19
+[31Dec2024 21:22:30.401] [Server thread/DEBUG] [pointblank/]: 50401 - obtained hit result in 0ms
+[31Dec2024 21:22:30.401] [Server thread/DEBUG] [pointblank/]: 50401 obtained hit results
+[31Dec2024 21:22:30.401] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1486434e
+[31Dec2024 21:22:30.403] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-424.59, y=76.00, z=-213.95]
+[31Dec2024 21:22:30.403] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50]
+[31Dec2024 21:22:31.001] [Server thread/DEBUG] [pointblank/]: 51001 handling client fire request
+[31Dec2024 21:22:31.001] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 18
+[31Dec2024 21:22:31.001] [Server thread/DEBUG] [pointblank/]: 51001 - obtained hit result in 0ms
+[31Dec2024 21:22:31.001] [Server thread/DEBUG] [pointblank/]: 51001 obtained hit results
+[31Dec2024 21:22:31.001] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@581e2d7f
+[31Dec2024 21:22:31.002] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-424.59, y=76.00, z=-213.95]
+[31Dec2024 21:22:31.002] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50]
+[31Dec2024 21:22:31.299] [Server thread/DEBUG] [pointblank/]: 51299 handling client fire request
+[31Dec2024 21:22:31.300] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 17
+[31Dec2024 21:22:31.300] [Server thread/DEBUG] [pointblank/]: 51300 - obtained hit result in 0ms
+[31Dec2024 21:22:31.300] [Server thread/DEBUG] [pointblank/]: 51300 obtained hit results
+[31Dec2024 21:22:31.300] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@19b94a06
+[31Dec2024 21:22:31.300] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-424.59, y=76.00, z=-213.95]
+[31Dec2024 21:22:31.300] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50]
+[31Dec2024 21:22:31.649] [Server thread/DEBUG] [pointblank/]: 51649 handling client fire request
+[31Dec2024 21:22:31.650] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 16
+[31Dec2024 21:22:31.650] [Server thread/DEBUG] [pointblank/]: 51650 - obtained hit result in 0ms
+[31Dec2024 21:22:31.650] [Server thread/DEBUG] [pointblank/]: 51650 obtained hit results
+[31Dec2024 21:22:31.650] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@64b601ea
+[31Dec2024 21:22:31.650] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-424.59, y=76.00, z=-213.95]
+[31Dec2024 21:22:31.650] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50]
+[31Dec2024 21:22:32.007] [Server thread/DEBUG] [pointblank/]: 52007 handling client fire request
+[31Dec2024 21:22:32.007] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 15
+[31Dec2024 21:22:32.007] [Server thread/DEBUG] [pointblank/]: 52007 - obtained hit result in 0ms
+[31Dec2024 21:22:32.007] [Server thread/DEBUG] [pointblank/]: 52007 obtained hit results
+[31Dec2024 21:22:32.007] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@70a76571
+[31Dec2024 21:22:32.007] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-424.59, y=76.00, z=-213.95]
+[31Dec2024 21:22:32.007] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50]
+[31Dec2024 21:22:32.352] [Server thread/DEBUG] [pointblank/]: 52352 handling client fire request
+[31Dec2024 21:22:32.352] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 14
+[31Dec2024 21:22:32.352] [Server thread/DEBUG] [pointblank/]: 52352 - obtained hit result in 0ms
+[31Dec2024 21:22:32.352] [Server thread/DEBUG] [pointblank/]: 52352 obtained hit results
+[31Dec2024 21:22:32.352] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4a6110f6
+[31Dec2024 21:22:32.352] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-424.59, y=76.00, z=-213.95]
+[31Dec2024 21:22:32.352] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50]
+[31Dec2024 21:22:32.652] [Server thread/DEBUG] [pointblank/]: 52652 handling client fire request
+[31Dec2024 21:22:32.652] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 13
+[31Dec2024 21:22:32.652] [Server thread/DEBUG] [pointblank/]: 52652 - obtained hit result in 0ms
+[31Dec2024 21:22:32.652] [Server thread/DEBUG] [pointblank/]: 52652 obtained hit results
+[31Dec2024 21:22:32.652] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@799ef64e
+[31Dec2024 21:22:32.652] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-424.59, y=76.00, z=-213.95]
+[31Dec2024 21:22:32.652] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50]
+[31Dec2024 21:22:32.900] [Server thread/DEBUG] [pointblank/]: 52900 handling client fire request
+[31Dec2024 21:22:32.900] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 12
+[31Dec2024 21:22:32.900] [Server thread/DEBUG] [pointblank/]: 52900 - obtained hit result in 0ms
+[31Dec2024 21:22:32.900] [Server thread/DEBUG] [pointblank/]: 52900 obtained hit results
+[31Dec2024 21:22:32.900] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7d558d1a
+[31Dec2024 21:22:32.900] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-424.59, y=76.00, z=-213.95]
+[31Dec2024 21:22:32.901] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50]
+[31Dec2024 21:22:33.199] [Server thread/DEBUG] [pointblank/]: 53199 handling client fire request
+[31Dec2024 21:22:33.199] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 11
+[31Dec2024 21:22:33.200] [Server thread/DEBUG] [pointblank/]: 53200 - obtained hit result in 1ms
+[31Dec2024 21:22:33.200] [Server thread/DEBUG] [pointblank/]: 53200 obtained hit results
+[31Dec2024 21:22:33.200] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@10a2bd9f
+[31Dec2024 21:22:33.200] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-424.59, y=76.00, z=-213.95]
+[31Dec2024 21:22:33.200] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50]
+[31Dec2024 21:22:33.498] [Server thread/DEBUG] [pointblank/]: 53498 handling client fire request
+[31Dec2024 21:22:33.498] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 10
+[31Dec2024 21:22:33.498] [Server thread/DEBUG] [pointblank/]: 53498 - obtained hit result in 0ms
+[31Dec2024 21:22:33.498] [Server thread/DEBUG] [pointblank/]: 53498 obtained hit results
+[31Dec2024 21:22:33.498] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1e6565c0
+[31Dec2024 21:22:33.499] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-424.59, y=76.00, z=-213.95]
+[31Dec2024 21:22:33.499] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50]
+[31Dec2024 21:22:33.863] [Server thread/DEBUG] [pointblank/]: 53863 handling client fire request
+[31Dec2024 21:22:33.863] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 9
+[31Dec2024 21:22:33.863] [Server thread/DEBUG] [pointblank/]: 53863 - obtained hit result in 0ms
+[31Dec2024 21:22:33.863] [Server thread/DEBUG] [pointblank/]: 53863 obtained hit results
+[31Dec2024 21:22:33.863] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@40812c7
+[31Dec2024 21:22:33.863] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-424.59, y=76.00, z=-213.95]
+[31Dec2024 21:22:33.863] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50]
+[31Dec2024 21:22:34.802] [Server thread/DEBUG] [pointblank/]: 54802 handling client fire request
+[31Dec2024 21:22:34.802] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 8
+[31Dec2024 21:22:34.802] [Server thread/DEBUG] [pointblank/]: 54802 - obtained hit result in 0ms
+[31Dec2024 21:22:34.802] [Server thread/DEBUG] [pointblank/]: 54802 obtained hit results
+[31Dec2024 21:22:34.802] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@161ab340
+[31Dec2024 21:22:34.802] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-424.59, y=76.00, z=-213.95]
+[31Dec2024 21:22:34.802] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50]
+[31Dec2024 21:22:35.204] [Server thread/DEBUG] [pointblank/]: 55204 handling client fire request
+[31Dec2024 21:22:35.204] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 7
+[31Dec2024 21:22:35.204] [Server thread/DEBUG] [pointblank/]: 55204 - obtained hit result in 0ms
+[31Dec2024 21:22:35.204] [Server thread/DEBUG] [pointblank/]: 55204 obtained hit results
+[31Dec2024 21:22:35.204] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@541e8502
+[31Dec2024 21:22:35.204] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-424.59, y=76.00, z=-213.95]
+[31Dec2024 21:22:35.204] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50]
+[31Dec2024 21:22:35.899] [Server thread/DEBUG] [pointblank/]: 55899 handling client fire request
+[31Dec2024 21:22:35.899] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 6
+[31Dec2024 21:22:35.899] [Server thread/DEBUG] [pointblank/]: 55899 - obtained hit result in 0ms
+[31Dec2024 21:22:35.899] [Server thread/DEBUG] [pointblank/]: 55899 obtained hit results
+[31Dec2024 21:22:35.899] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3c4aaf21
+[31Dec2024 21:22:35.899] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-424.59, y=76.00, z=-213.95]
+[31Dec2024 21:22:35.899] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50]
+[31Dec2024 21:22:36.554] [Server thread/DEBUG] [pointblank/]: 56554 handling client fire request
+[31Dec2024 21:22:36.554] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 5
+[31Dec2024 21:22:36.554] [Server thread/DEBUG] [pointblank/]: 56554 - obtained hit result in 0ms
+[31Dec2024 21:22:36.554] [Server thread/DEBUG] [pointblank/]: 56554 obtained hit results
+[31Dec2024 21:22:36.554] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2a9a2134
+[31Dec2024 21:22:36.554] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-424.59, y=76.00, z=-213.95]
+[31Dec2024 21:22:36.554] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50]
+[31Dec2024 21:22:37.754] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 20
+[31Dec2024 21:22:44.999] [Server thread/DEBUG] [pointblank/]: 64999 handling client fire request
+[31Dec2024 21:22:44.999] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 19
+[31Dec2024 21:22:44.999] [Server thread/DEBUG] [pointblank/]: 64999 - obtained hit result in 0ms
+[31Dec2024 21:22:44.999] [Server thread/DEBUG] [pointblank/]: 64999 obtained hit results
+[31Dec2024 21:22:44.999] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1e53b9b6
+[31Dec2024 21:22:44.999] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-422.88, y=76.00, z=-214.90]
+[31Dec2024 21:22:44.999] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50]
+[31Dec2024 21:22:46.001] [Server thread/DEBUG] [pointblank/]: 66001 handling client fire request
+[31Dec2024 21:22:46.001] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 18
+[31Dec2024 21:22:46.001] [Server thread/DEBUG] [pointblank/]: 66001 - obtained hit result in 0ms
+[31Dec2024 21:22:46.001] [Server thread/DEBUG] [pointblank/]: 66001 obtained hit results
+[31Dec2024 21:22:46.001] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@7f196f45
+[31Dec2024 21:22:46.001] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-422.88, y=76.00, z=-214.90]
+[31Dec2024 21:22:46.001] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50]
+[31Dec2024 21:22:46.850] [Server thread/DEBUG] [pointblank/]: 66850 handling client fire request
+[31Dec2024 21:22:46.850] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 17
+[31Dec2024 21:22:46.851] [Server thread/DEBUG] [pointblank/]: 66851 - obtained hit result in 0ms
+[31Dec2024 21:22:46.851] [Server thread/DEBUG] [pointblank/]: 66851 obtained hit results
+[31Dec2024 21:22:46.851] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@14a2d3e8
+[31Dec2024 21:22:46.851] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-424.12, y=76.00, z=-213.47]
+[31Dec2024 21:22:46.851] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50]
+[31Dec2024 21:22:47.650] [Server thread/DEBUG] [pointblank/]: 67650 handling client fire request
+[31Dec2024 21:22:47.650] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 16
+[31Dec2024 21:22:47.650] [Server thread/DEBUG] [pointblank/]: 67650 - obtained hit result in 0ms
+[31Dec2024 21:22:47.651] [Server thread/DEBUG] [pointblank/]: 67651 obtained hit results
+[31Dec2024 21:22:47.651] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@793725ea
+[31Dec2024 21:22:47.651] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-424.54, y=76.00, z=-213.39]
+[31Dec2024 21:22:47.651] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50]
+[31Dec2024 21:22:48.504] [Server thread/DEBUG] [pointblank/]: 68504 handling client fire request
+[31Dec2024 21:22:48.504] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 15
+[31Dec2024 21:22:48.504] [Server thread/DEBUG] [pointblank/]: 68504 - obtained hit result in 0ms
+[31Dec2024 21:22:48.504] [Server thread/DEBUG] [pointblank/]: 68504 obtained hit results
+[31Dec2024 21:22:48.504] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@878db9a
+[31Dec2024 21:22:48.505] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-424.54, y=76.00, z=-213.39]
+[31Dec2024 21:22:48.505] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50]
+[31Dec2024 21:22:49.553] [Server thread/DEBUG] [pointblank/]: 69553 handling client fire request
+[31Dec2024 21:22:49.553] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 14
+[31Dec2024 21:22:49.553] [Server thread/DEBUG] [pointblank/]: 69553 - obtained hit result in 0ms
+[31Dec2024 21:22:49.553] [Server thread/DEBUG] [pointblank/]: 69553 obtained hit results
+[31Dec2024 21:22:49.553] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@26b43957
+[31Dec2024 21:22:49.553] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-424.54, y=76.00, z=-213.39]
+[31Dec2024 21:22:49.553] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50]
+[31Dec2024 21:22:50.359] [Server thread/DEBUG] [pointblank/]: 70359 handling client fire request
+[31Dec2024 21:22:50.359] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 13
+[31Dec2024 21:22:50.359] [Server thread/DEBUG] [pointblank/]: 70359 - obtained hit result in 0ms
+[31Dec2024 21:22:50.359] [Server thread/DEBUG] [pointblank/]: 70359 obtained hit results
+[31Dec2024 21:22:50.359] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@222690c9
+[31Dec2024 21:22:50.359] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-424.54, y=76.00, z=-213.39]
+[31Dec2024 21:22:50.359] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.71, y=70.00, z=-204.50]
+[31Dec2024 21:22:52.699] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 20
+[31Dec2024 21:22:53.147] [IO-Worker-61/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-66
+[31Dec2024 21:23:29.756] [Server thread/DEBUG] [pointblank/]: 9756 handling client fire request
+[31Dec2024 21:23:29.756] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 19
+[31Dec2024 21:23:29.756] [Server thread/DEBUG] [pointblank/]: 9756 - obtained hit result in 0ms
+[31Dec2024 21:23:29.756] [Server thread/DEBUG] [pointblank/]: 9756 obtained hit results
+[31Dec2024 21:23:29.756] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@30330912
+[31Dec2024 21:23:29.757] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.31, y=70.50, z=-204.93] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-424.96, y=76.00, z=-214.16]
+[31Dec2024 21:23:29.757] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.31, y=70.50, z=-204.93] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.31, y=70.50, z=-204.93]
+[31Dec2024 21:23:36.646] [Server thread/DEBUG] [pointblank/]: 16646 handling client fire request
+[31Dec2024 21:23:36.646] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 18
+[31Dec2024 21:23:36.646] [Server thread/DEBUG] [pointblank/]: 16646 - obtained hit result in 0ms
+[31Dec2024 21:23:36.646] [Server thread/DEBUG] [pointblank/]: 16646 obtained hit results
+[31Dec2024 21:23:36.646] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@20e38e7a
+[31Dec2024 21:23:36.647] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-412.08, y=70.00, z=-203.98] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-424.96, y=76.00, z=-214.16]
+[31Dec2024 21:23:36.647] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-412.08, y=70.00, z=-203.98] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-412.08, y=70.00, z=-203.98]
+[31Dec2024 21:23:39.301] [Server thread/DEBUG] [pointblank/]: 19301 handling client fire request
+[31Dec2024 21:23:39.301] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 17
+[31Dec2024 21:23:39.301] [Server thread/DEBUG] [pointblank/]: 19301 - obtained hit result in 0ms
+[31Dec2024 21:23:39.301] [Server thread/DEBUG] [pointblank/]: 19301 obtained hit results
+[31Dec2024 21:23:39.301] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@134df37f
+[31Dec2024 21:23:39.303] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-412.08, y=70.00, z=-203.98] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-424.96, y=76.00, z=-214.16]
+[31Dec2024 21:23:39.303] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-412.08, y=70.00, z=-203.98] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-412.08, y=70.00, z=-203.98]
+[31Dec2024 21:23:40.002] [Server thread/DEBUG] [pointblank/]: 20002 handling client fire request
+[31Dec2024 21:23:40.002] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 16
+[31Dec2024 21:23:40.002] [Server thread/DEBUG] [pointblank/]: 20002 - obtained hit result in 0ms
+[31Dec2024 21:23:40.002] [Server thread/DEBUG] [pointblank/]: 20002 obtained hit results
+[31Dec2024 21:23:40.002] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@71306161
+[31Dec2024 21:23:40.003] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-412.08, y=70.00, z=-203.98] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-424.96, y=76.00, z=-214.16]
+[31Dec2024 21:23:40.003] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-412.08, y=70.00, z=-203.98] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-412.08, y=70.00, z=-203.98]
+[31Dec2024 21:23:40.596] [Server thread/DEBUG] [pointblank/]: 20596 handling client fire request
+[31Dec2024 21:23:40.596] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 15
+[31Dec2024 21:23:40.597] [Server thread/DEBUG] [pointblank/]: 20597 - obtained hit result in 0ms
+[31Dec2024 21:23:40.597] [Server thread/DEBUG] [pointblank/]: 20597 obtained hit results
+[31Dec2024 21:23:40.597] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@419b5b9b
+[31Dec2024 21:23:40.597] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-412.08, y=70.00, z=-203.98] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-424.96, y=76.00, z=-214.16]
+[31Dec2024 21:23:40.597] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-412.08, y=70.00, z=-203.98] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-412.08, y=70.00, z=-203.98]
+[31Dec2024 21:23:41.549] [Server thread/DEBUG] [pointblank/]: 21549 handling client fire request
+[31Dec2024 21:23:41.549] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 14
+[31Dec2024 21:23:41.549] [Server thread/DEBUG] [pointblank/]: 21549 - obtained hit result in 0ms
+[31Dec2024 21:23:41.549] [Server thread/DEBUG] [pointblank/]: 21549 obtained hit results
+[31Dec2024 21:23:41.549] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7087e2fe
+[31Dec2024 21:23:41.550] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-412.08, y=70.00, z=-203.98] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-424.96, y=76.00, z=-214.16]
+[31Dec2024 21:23:41.550] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-412.08, y=70.00, z=-203.98] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-412.08, y=70.00, z=-203.98]
+[31Dec2024 21:23:42.400] [Server thread/DEBUG] [pointblank/]: 22400 handling client fire request
+[31Dec2024 21:23:42.400] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 13
+[31Dec2024 21:23:42.400] [Server thread/DEBUG] [pointblank/]: 22400 - obtained hit result in 0ms
+[31Dec2024 21:23:42.400] [Server thread/DEBUG] [pointblank/]: 22400 obtained hit results
+[31Dec2024 21:23:42.400] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@69a48269
+[31Dec2024 21:23:42.400] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-412.08, y=70.00, z=-203.98] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-424.96, y=76.00, z=-214.16]
+[31Dec2024 21:23:42.400] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-412.08, y=70.00, z=-203.98] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-412.08, y=70.00, z=-203.98]
+[31Dec2024 21:23:43.408] [Server thread/DEBUG] [pointblank/]: 23408 handling client fire request
+[31Dec2024 21:23:43.408] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 12
+[31Dec2024 21:23:43.408] [Server thread/DEBUG] [pointblank/]: 23408 - obtained hit result in 0ms
+[31Dec2024 21:23:43.408] [Server thread/DEBUG] [pointblank/]: 23408 obtained hit results
+[31Dec2024 21:23:43.408] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@217c268e
+[31Dec2024 21:23:43.408] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-412.08, y=70.00, z=-203.98] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-424.96, y=76.00, z=-214.16]
+[31Dec2024 21:23:43.408] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-412.08, y=70.00, z=-203.98] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-412.08, y=70.00, z=-203.98]
+[31Dec2024 21:23:44.451] [Server thread/DEBUG] [pointblank/]: 24451 handling client fire request
+[31Dec2024 21:23:44.451] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 11
+[31Dec2024 21:23:44.451] [Server thread/DEBUG] [pointblank/]: 24451 - obtained hit result in 0ms
+[31Dec2024 21:23:44.451] [Server thread/DEBUG] [pointblank/]: 24451 obtained hit results
+[31Dec2024 21:23:44.451] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3de8f076
+[31Dec2024 21:23:44.451] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-412.08, y=70.00, z=-203.98] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-425.06, y=76.00, z=-214.58]
+[31Dec2024 21:23:44.451] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-412.08, y=70.00, z=-203.98] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-412.08, y=70.00, z=-203.98]
+[31Dec2024 21:23:45.060] [Server thread/DEBUG] [pointblank/]: 25060 handling client fire request
+[31Dec2024 21:23:45.061] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 10
+[31Dec2024 21:23:45.061] [Server thread/DEBUG] [pointblank/]: 25061 - obtained hit result in 0ms
+[31Dec2024 21:23:45.061] [Server thread/DEBUG] [pointblank/]: 25061 obtained hit results
+[31Dec2024 21:23:45.061] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@f6f025c
+[31Dec2024 21:23:45.062] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-412.08, y=70.00, z=-203.98] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-425.06, y=76.00, z=-214.58]
+[31Dec2024 21:23:45.063] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-412.08, y=70.00, z=-203.98] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-412.08, y=70.00, z=-203.98]
+[31Dec2024 21:23:45.804] [Server thread/DEBUG] [pointblank/]: 25804 handling client fire request
+[31Dec2024 21:23:45.804] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 9
+[31Dec2024 21:23:45.804] [Server thread/DEBUG] [pointblank/]: 25804 - obtained hit result in 0ms
+[31Dec2024 21:23:45.804] [Server thread/DEBUG] [pointblank/]: 25804 obtained hit results
+[31Dec2024 21:23:45.804] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@67fc2d5f
+[31Dec2024 21:23:45.805] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-412.08, y=70.00, z=-203.98] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-425.06, y=76.00, z=-214.58]
+[31Dec2024 21:23:45.805] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-412.08, y=70.00, z=-203.98] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-412.08, y=70.00, z=-203.98]
+[31Dec2024 21:23:46.506] [Server thread/DEBUG] [pointblank/]: 26506 handling client fire request
+[31Dec2024 21:23:46.506] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 8
+[31Dec2024 21:23:46.507] [Server thread/DEBUG] [pointblank/]: 26507 - obtained hit result in 0ms
+[31Dec2024 21:23:46.507] [Server thread/DEBUG] [pointblank/]: 26507 obtained hit results
+[31Dec2024 21:23:46.507] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7ebd6a5e
+[31Dec2024 21:23:46.509] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-412.08, y=70.00, z=-203.98] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-425.06, y=76.00, z=-214.58]
+[31Dec2024 21:23:46.509] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-412.08, y=70.00, z=-203.98] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-412.08, y=70.00, z=-203.98]
+[31Dec2024 21:23:47.051] [Server thread/DEBUG] [pointblank/]: 27051 handling client fire request
+[31Dec2024 21:23:47.051] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 7
+[31Dec2024 21:23:47.052] [Server thread/DEBUG] [pointblank/]: 27052 - obtained hit result in 0ms
+[31Dec2024 21:23:47.052] [Server thread/DEBUG] [pointblank/]: 27052 obtained hit results
+[31Dec2024 21:23:47.052] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3fa2fed7
+[31Dec2024 21:23:47.052] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-412.08, y=70.00, z=-203.98] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-425.02, y=76.00, z=-214.19]
+[31Dec2024 21:23:47.052] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-412.08, y=70.00, z=-203.98] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-412.08, y=70.00, z=-203.98]
+[31Dec2024 21:23:47.699] [Server thread/DEBUG] [pointblank/]: 27699 handling client fire request
+[31Dec2024 21:23:47.699] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 6
+[31Dec2024 21:23:47.699] [Server thread/DEBUG] [pointblank/]: 27699 - obtained hit result in 0ms
+[31Dec2024 21:23:47.699] [Server thread/DEBUG] [pointblank/]: 27699 obtained hit results
+[31Dec2024 21:23:47.699] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@65a3fcca
+[31Dec2024 21:23:47.699] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-412.08, y=70.00, z=-203.98] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-425.02, y=76.00, z=-214.14]
+[31Dec2024 21:23:47.699] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-412.08, y=70.00, z=-203.98] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-412.08, y=70.00, z=-203.98]
+[31Dec2024 21:23:48.848] [Server thread/DEBUG] [pointblank/]: 28848 handling client fire request
+[31Dec2024 21:23:48.848] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 5
+[31Dec2024 21:23:48.848] [Server thread/DEBUG] [pointblank/]: 28848 - obtained hit result in 0ms
+[31Dec2024 21:23:48.848] [Server thread/DEBUG] [pointblank/]: 28848 obtained hit results
+[31Dec2024 21:23:48.848] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1de82934
+[31Dec2024 21:23:48.848] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-412.08, y=70.00, z=-203.98] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-425.02, y=76.00, z=-214.14]
+[31Dec2024 21:23:48.848] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-412.08, y=70.00, z=-203.98] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-412.08, y=70.00, z=-203.98]
+[31Dec2024 21:23:50.155] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 20
+[31Dec2024 21:24:35.430] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 21:24:35.445] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 21:25:37.098] [Server thread/DEBUG] [pointblank/]: 37098 handling client fire request
+[31Dec2024 21:25:37.098] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 694272537 to 7
+[31Dec2024 21:25:37.099] [Server thread/DEBUG] [pointblank/]: 37099 - obtained hit result in 1ms
+[31Dec2024 21:25:37.099] [Server thread/DEBUG] [pointblank/]: 37099 obtained hit results
+[31Dec2024 21:25:37.099] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2fbd0a50
+[31Dec2024 21:25:37.099] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.59, y=72.00, z=-220.85] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-424.28, y=76.00, z=-216.52]
+[31Dec2024 21:25:37.099] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.59, y=72.00, z=-220.85] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-411.59, y=72.00, z=-220.85]
+[31Dec2024 21:25:38.603] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 694272537 to 8
+[31Dec2024 21:25:54.751] [Server thread/DEBUG] [pointblank/]: 54751 handling client fire request
+[31Dec2024 21:25:54.751] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1033694079 to 9
+[31Dec2024 21:25:54.752] [Server thread/DEBUG] [pointblank/]: 54752 - obtained hit result in 0ms
+[31Dec2024 21:25:54.752] [Server thread/DEBUG] [pointblank/]: 54752 obtained hit results
+[31Dec2024 21:25:54.752] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3141a197
+[31Dec2024 21:25:54.752] [Server thread/DEBUG] [pointblank/]: ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-392.00, y=76.00, z=-215.94] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-392.00, y=76.00, z=-215.94]
+[31Dec2024 21:25:54.752] [Server thread/DEBUG] [pointblank/]: ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-392.00, y=76.00, z=-215.94] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-406.67, y=68.00, z=-217.29]
+[31Dec2024 21:25:54.809] [Server thread/DEBUG] [pointblank/]: 54809 handling client fire request
+[31Dec2024 21:25:54.809] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1033694079 to 8
+[31Dec2024 21:25:54.809] [Server thread/DEBUG] [pointblank/]: 54809 - obtained hit result in 0ms
+[31Dec2024 21:25:54.809] [Server thread/DEBUG] [pointblank/]: 54809 obtained hit results
+[31Dec2024 21:25:54.809] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@49c685e2
+[31Dec2024 21:25:54.810] [Server thread/DEBUG] [pointblank/]: ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-392.00, y=76.00, z=-215.94] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-392.00, y=76.00, z=-215.94]
+[31Dec2024 21:25:54.810] [Server thread/DEBUG] [pointblank/]: ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-392.00, y=76.00, z=-215.94] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-406.54, y=68.00, z=-217.08]
+[31Dec2024 21:26:01.598] [Server thread/DEBUG] [pointblank/]: 61598 handling client fire request
+[31Dec2024 21:26:01.599] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 956141915 to 5
+[31Dec2024 21:26:01.599] [Server thread/DEBUG] [pointblank/]: 61599 - obtained hit result in 0ms
+[31Dec2024 21:26:01.599] [Server thread/DEBUG] [pointblank/]: 61599 obtained hit results
+[31Dec2024 21:26:01.599] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@626f4204
+[31Dec2024 21:26:01.599] [Server thread/DEBUG] [pointblank/]: ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-391.91, y=76.00, z=-215.02] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-391.91, y=76.00, z=-215.02]
+[31Dec2024 21:26:01.599] [Server thread/DEBUG] [pointblank/]: ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-391.91, y=76.00, z=-215.02] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.29, y=58.50, z=-217.57]
+[31Dec2024 21:26:51.748] [Server thread/DEBUG] [pointblank/]: 11748 handling client fire request
+[31Dec2024 21:26:51.748] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 755584921 to 4
+[31Dec2024 21:26:51.749] [Server thread/DEBUG] [pointblank/]: 11749 - obtained hit result in 0ms
+[31Dec2024 21:26:51.749] [Server thread/DEBUG] [pointblank/]: 11749 obtained hit results
+[31Dec2024 21:26:51.749] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@31535a1a
+[31Dec2024 21:26:51.749] [Server thread/DEBUG] [pointblank/]: ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-423.92, y=76.00, z=-217.12] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-423.92, y=76.00, z=-217.12]
+[31Dec2024 21:26:51.749] [Server thread/DEBUG] [pointblank/]: ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-423.92, y=76.00, z=-217.12] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-425.12, y=76.00, z=-213.68]
+[31Dec2024 21:26:54.954] [Server thread/DEBUG] [pointblank/]: 14954 handling client fire request
+[31Dec2024 21:26:54.954] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1426593620 to 7
+[31Dec2024 21:26:54.954] [Server thread/DEBUG] [pointblank/]: 14954 - obtained hit result in 0ms
+[31Dec2024 21:26:54.954] [Server thread/DEBUG] [pointblank/]: 14954 obtained hit results
+[31Dec2024 21:26:54.954] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@41b13506
+[31Dec2024 21:26:54.954] [Server thread/DEBUG] [pointblank/]: ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-423.92, y=76.00, z=-217.12] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-423.92, y=76.00, z=-217.12]
+[31Dec2024 21:26:54.954] [Server thread/DEBUG] [pointblank/]: ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-423.92, y=76.00, z=-217.12] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-425.12, y=76.00, z=-213.68]
+[31Dec2024 21:26:55.008] [Server thread/DEBUG] [pointblank/]: 15008 handling client fire request
+[31Dec2024 21:26:55.008] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1426593620 to 6
+[31Dec2024 21:26:55.008] [Server thread/DEBUG] [pointblank/]: 15008 - obtained hit result in 0ms
+[31Dec2024 21:26:55.008] [Server thread/DEBUG] [pointblank/]: 15008 obtained hit results
+[31Dec2024 21:26:55.008] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@a0e4d4b
+[31Dec2024 21:26:55.008] [Server thread/DEBUG] [pointblank/]: ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-423.92, y=76.00, z=-217.12] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-423.92, y=76.00, z=-217.12]
+[31Dec2024 21:26:55.008] [Server thread/DEBUG] [pointblank/]: ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-423.92, y=76.00, z=-217.12] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-425.12, y=76.00, z=-213.68]
+[31Dec2024 21:27:25.201] [Server thread/DEBUG] [pointblank/]: 45201 handling client fire request
+[31Dec2024 21:27:25.201] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 694272537 to 7
+[31Dec2024 21:27:25.201] [Server thread/DEBUG] [pointblank/]: 45201 - obtained hit result in 0ms
+[31Dec2024 21:27:25.201] [Server thread/DEBUG] [pointblank/]: 45201 obtained hit results
+[31Dec2024 21:27:25.201] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2489eb67
+[31Dec2024 21:27:25.203] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-401.97, y=70.00, z=-204.93] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-419.31, y=76.00, z=-215.91]
+[31Dec2024 21:27:25.203] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-401.97, y=70.00, z=-204.93] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-401.97, y=70.00, z=-204.93]
+[31Dec2024 21:27:27.598] [Server thread/DEBUG] [pointblank/]: 47598 handling client fire request
+[31Dec2024 21:27:27.598] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 694272537 to 6
+[31Dec2024 21:27:27.598] [Server thread/DEBUG] [pointblank/]: 47598 - obtained hit result in 0ms
+[31Dec2024 21:27:27.598] [Server thread/DEBUG] [pointblank/]: 47598 obtained hit results
+[31Dec2024 21:27:27.598] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6db948ef
+[31Dec2024 21:27:27.599] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-401.97, y=70.00, z=-204.93] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-407.30, y=68.42, z=-216.63]
+[31Dec2024 21:27:27.599] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-401.97, y=70.00, z=-204.93] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-401.97, y=70.00, z=-204.93]
+[31Dec2024 21:27:29.099] [Server thread/DEBUG] [pointblank/]: 49099 handling client fire request
+[31Dec2024 21:27:29.099] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 694272537 to 5
+[31Dec2024 21:27:29.099] [Server thread/DEBUG] [pointblank/]: 49099 - obtained hit result in 0ms
+[31Dec2024 21:27:29.099] [Server thread/DEBUG] [pointblank/]: 49099 obtained hit results
+[31Dec2024 21:27:29.099] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@62fd94b3
+[31Dec2024 21:27:29.099] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-401.97, y=70.00, z=-204.93] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-404.03, y=68.00, z=-217.26]
+[31Dec2024 21:27:29.099] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-401.97, y=70.00, z=-204.93] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-401.97, y=70.00, z=-204.93]
+[31Dec2024 21:27:30.403] [Server thread/DEBUG] [pointblank/]: 50403 handling client fire request
+[31Dec2024 21:27:30.403] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 694272537 to 4
+[31Dec2024 21:27:30.403] [Server thread/DEBUG] [pointblank/]: 50403 - obtained hit result in 0ms
+[31Dec2024 21:27:30.403] [Server thread/DEBUG] [pointblank/]: 50403 obtained hit results
+[31Dec2024 21:27:30.403] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7fac5bee
+[31Dec2024 21:27:30.403] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-401.97, y=70.00, z=-204.93] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-404.03, y=68.00, z=-217.26]
+[31Dec2024 21:27:30.403] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-401.97, y=70.00, z=-204.93] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-401.97, y=70.00, z=-204.93]
+[31Dec2024 21:27:32.151] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 694272537 to 8
+[31Dec2024 21:27:36.757] [Server thread/DEBUG] [pointblank/]: 56757 handling client fire request
+[31Dec2024 21:27:36.757] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 694272537 to 7
+[31Dec2024 21:27:36.757] [Server thread/DEBUG] [pointblank/]: 56757 - obtained hit result in 0ms
+[31Dec2024 21:27:36.757] [Server thread/DEBUG] [pointblank/]: 56757 obtained hit results
+[31Dec2024 21:27:36.757] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@653bd2e1
+[31Dec2024 21:27:36.757] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-401.97, y=70.00, z=-204.93] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-402.99, y=68.00, z=-218.99]
+[31Dec2024 21:27:36.758] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-401.97, y=70.00, z=-204.93] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-401.97, y=70.00, z=-204.93]
+[31Dec2024 21:27:37.665] [Server thread/DEBUG] [pointblank/]: 57665 handling client fire request
+[31Dec2024 21:27:37.665] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 694272537 to 6
+[31Dec2024 21:27:37.665] [Server thread/DEBUG] [pointblank/]: 57665 - obtained hit result in 0ms
+[31Dec2024 21:27:37.665] [Server thread/DEBUG] [pointblank/]: 57665 obtained hit results
+[31Dec2024 21:27:37.665] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@21eb3470
+[31Dec2024 21:27:37.666] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-401.97, y=70.00, z=-204.93] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-402.99, y=68.00, z=-218.99]
+[31Dec2024 21:27:37.666] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-401.97, y=70.00, z=-204.93] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-401.97, y=70.00, z=-204.93]
+[31Dec2024 21:27:39.899] [Server thread/DEBUG] [pointblank/]: 59899 handling client fire request
+[31Dec2024 21:27:39.899] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 694272537 to 5
+[31Dec2024 21:27:39.900] [Server thread/DEBUG] [pointblank/]: 59900 - obtained hit result in 0ms
+[31Dec2024 21:27:39.900] [Server thread/DEBUG] [pointblank/]: 59900 obtained hit results
+[31Dec2024 21:27:39.900] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@10daab86
+[31Dec2024 21:27:39.901] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-400.70, y=70.00, z=-204.38] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-402.99, y=68.00, z=-218.99]
+[31Dec2024 21:27:39.901] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-400.70, y=70.00, z=-204.38] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-400.70, y=70.00, z=-204.38]
+[31Dec2024 21:27:41.350] [Server thread/DEBUG] [pointblank/]: 61350 handling client fire request
+[31Dec2024 21:27:41.350] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 694272537 to 4
+[31Dec2024 21:27:41.350] [Server thread/DEBUG] [pointblank/]: 61350 - obtained hit result in 0ms
+[31Dec2024 21:27:41.350] [Server thread/DEBUG] [pointblank/]: 61350 obtained hit results
+[31Dec2024 21:27:41.350] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@31248311
+[31Dec2024 21:27:41.351] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-400.70, y=70.00, z=-204.38] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-402.99, y=68.00, z=-218.99]
+[31Dec2024 21:27:41.351] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-400.70, y=70.00, z=-204.38] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-400.70, y=70.00, z=-204.38]
+[31Dec2024 21:27:42.302] [Server thread/DEBUG] [pointblank/]: 62302 handling client fire request
+[31Dec2024 21:27:42.302] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 694272537 to 3
+[31Dec2024 21:27:42.302] [Server thread/DEBUG] [pointblank/]: 62302 - obtained hit result in 0ms
+[31Dec2024 21:27:42.302] [Server thread/DEBUG] [pointblank/]: 62302 obtained hit results
+[31Dec2024 21:27:42.302] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7d2e4294
+[31Dec2024 21:27:42.302] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-400.70, y=70.00, z=-204.38] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-402.99, y=68.00, z=-218.99]
+[31Dec2024 21:27:42.303] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-400.70, y=70.00, z=-204.38] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-400.70, y=70.00, z=-204.38]
+[31Dec2024 21:27:43.559] [Server thread/DEBUG] [pointblank/]: 63559 handling client fire request
+[31Dec2024 21:27:43.559] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 694272537 to 2
+[31Dec2024 21:27:43.559] [Server thread/DEBUG] [pointblank/]: 63559 - obtained hit result in 0ms
+[31Dec2024 21:27:43.559] [Server thread/DEBUG] [pointblank/]: 63559 obtained hit results
+[31Dec2024 21:27:43.559] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2215cafe
+[31Dec2024 21:27:43.559] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-400.70, y=70.00, z=-204.38] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-403.02, y=68.00, z=-218.89]
+[31Dec2024 21:27:43.559] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-400.70, y=70.00, z=-204.38] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-400.70, y=70.00, z=-204.38]
+[31Dec2024 21:27:44.402] [Server thread/DEBUG] [pointblank/]: 64402 handling client fire request
+[31Dec2024 21:27:44.402] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 694272537 to 1
+[31Dec2024 21:27:44.402] [Server thread/DEBUG] [pointblank/]: 64402 - obtained hit result in 0ms
+[31Dec2024 21:27:44.402] [Server thread/DEBUG] [pointblank/]: 64402 obtained hit results
+[31Dec2024 21:27:44.402] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2e5cc115
+[31Dec2024 21:27:44.402] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-400.70, y=70.00, z=-204.38] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-405.58, y=69.20, z=-216.00]
+[31Dec2024 21:27:44.402] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-400.70, y=70.00, z=-204.38] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-400.70, y=70.00, z=-204.38]
+[31Dec2024 21:27:45.101] [Server thread/DEBUG] [pointblank/]: 65101 handling client fire request
+[31Dec2024 21:27:45.101] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 694272537 to 0
+[31Dec2024 21:27:45.102] [Server thread/DEBUG] [pointblank/]: 65102 - obtained hit result in 0ms
+[31Dec2024 21:27:45.102] [Server thread/DEBUG] [pointblank/]: 65102 obtained hit results
+[31Dec2024 21:27:45.102] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2d6bb487
+[31Dec2024 21:27:45.102] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-400.70, y=70.00, z=-204.38] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-407.13, y=68.00, z=-214.58]
+[31Dec2024 21:27:45.102] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-400.70, y=70.00, z=-204.38] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-400.70, y=70.00, z=-204.38]
+[31Dec2024 21:27:46.853] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 694272537 to 8
+[31Dec2024 21:27:49.352] [Server thread/DEBUG] [pointblank/]: 69352 handling client fire request
+[31Dec2024 21:27:49.352] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 694272537 to 7
+[31Dec2024 21:27:49.352] [Server thread/DEBUG] [pointblank/]: 69352 - obtained hit result in 0ms
+[31Dec2024 21:27:49.352] [Server thread/DEBUG] [pointblank/]: 69352 obtained hit results
+[31Dec2024 21:27:49.352] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@478d31e5
+[31Dec2024 21:27:49.353] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-400.70, y=70.00, z=-204.38] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-407.89, y=68.00, z=-213.04]
+[31Dec2024 21:27:49.353] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-400.70, y=70.00, z=-204.38] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-400.70, y=70.00, z=-204.38]
+[31Dec2024 21:27:50.001] [Server thread/DEBUG] [pointblank/]: 70001 handling client fire request
+[31Dec2024 21:27:50.001] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 694272537 to 6
+[31Dec2024 21:27:50.001] [Server thread/DEBUG] [pointblank/]: 70001 - obtained hit result in 0ms
+[31Dec2024 21:27:50.001] [Server thread/DEBUG] [pointblank/]: 70001 obtained hit results
+[31Dec2024 21:27:50.001] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2a033f11
+[31Dec2024 21:27:50.001] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-400.70, y=70.00, z=-204.38] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-407.89, y=68.00, z=-213.04]
+[31Dec2024 21:27:50.001] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-400.70, y=70.00, z=-204.38] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-400.70, y=70.00, z=-204.38]
+[31Dec2024 21:27:50.658] [Server thread/DEBUG] [pointblank/]: 70658 handling client fire request
+[31Dec2024 21:27:50.658] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 694272537 to 5
+[31Dec2024 21:27:50.658] [Server thread/DEBUG] [pointblank/]: 70658 - obtained hit result in 0ms
+[31Dec2024 21:27:50.658] [Server thread/DEBUG] [pointblank/]: 70658 obtained hit results
+[31Dec2024 21:27:50.658] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@68d7cf3f
+[31Dec2024 21:27:50.658] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-400.70, y=70.00, z=-204.38] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-407.89, y=68.00, z=-213.04]
+[31Dec2024 21:27:50.658] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-400.70, y=70.00, z=-204.38] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-400.70, y=70.00, z=-204.38]
+[31Dec2024 21:27:51.255] [Server thread/DEBUG] [pointblank/]: 71255 handling client fire request
+[31Dec2024 21:27:51.255] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 694272537 to 4
+[31Dec2024 21:27:51.255] [Server thread/DEBUG] [pointblank/]: 71255 - obtained hit result in 0ms
+[31Dec2024 21:27:51.255] [Server thread/DEBUG] [pointblank/]: 71255 obtained hit results
+[31Dec2024 21:27:51.255] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@43aa84c0
+[31Dec2024 21:27:51.256] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-400.70, y=70.00, z=-204.38] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-408.51, y=68.00, z=-214.24]
+[31Dec2024 21:27:51.256] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-400.70, y=70.00, z=-204.38] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-400.70, y=70.00, z=-204.38]
+[31Dec2024 21:27:52.053] [Server thread/DEBUG] [pointblank/]: 72053 handling client fire request
+[31Dec2024 21:27:52.053] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 694272537 to 3
+[31Dec2024 21:27:52.053] [Server thread/DEBUG] [pointblank/]: 72053 - obtained hit result in 0ms
+[31Dec2024 21:27:52.053] [Server thread/DEBUG] [pointblank/]: 72053 obtained hit results
+[31Dec2024 21:27:52.053] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4bc7ea97
+[31Dec2024 21:27:52.054] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-400.70, y=70.00, z=-204.38] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-410.76, y=68.50, z=-215.86]
+[31Dec2024 21:27:52.055] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-400.70, y=70.00, z=-204.38] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-400.70, y=70.00, z=-204.38]
+[31Dec2024 21:27:52.957] [Server thread/DEBUG] [pointblank/]: 72957 handling client fire request
+[31Dec2024 21:27:52.957] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 694272537 to 2
+[31Dec2024 21:27:52.957] [Server thread/DEBUG] [pointblank/]: 72957 - obtained hit result in 0ms
+[31Dec2024 21:27:52.957] [Server thread/DEBUG] [pointblank/]: 72957 obtained hit results
+[31Dec2024 21:27:52.958] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2f61ba73
+[31Dec2024 21:27:52.958] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-400.70, y=70.00, z=-204.38] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-415.67, y=73.00, z=-216.12]
+[31Dec2024 21:27:52.958] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-400.70, y=70.00, z=-204.38] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-400.70, y=70.00, z=-204.38]
+[31Dec2024 21:27:54.403] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 694272537 to 8
+[31Dec2024 21:29:35.443] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 21:29:35.458] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 21:30:08.407] [Server thread/DEBUG] [pointblank/]: 8407 handling client fire request
+[31Dec2024 21:30:08.407] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 19
+[31Dec2024 21:30:08.407] [Server thread/DEBUG] [pointblank/]: 8407 - obtained hit result in 0ms
+[31Dec2024 21:30:08.407] [Server thread/DEBUG] [pointblank/]: 8407 obtained hit results
+[31Dec2024 21:30:08.407] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7444b545
+[31Dec2024 21:30:08.410] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-405.88, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-408.79, y=68.00, z=-214.78]
+[31Dec2024 21:30:08.410] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-405.88, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-405.88, y=58.50, z=-215.30]
+[31Dec2024 21:30:09.899] [Server thread/DEBUG] [pointblank/]: Set fire mode instance to translation{key='label.pointblank.fireMode.automatic', args=[]}, tag: {GeckoLibID:13L,aim:0b,ammo:19,ammox:{},as:[{id:"pointblank:foregrip",rmv:1b},{as:[],id:"pointblank:srs",rmv:1b}],fmid:[I;764080567,-1116983279,-1258468834,-2045204625],lid:-8635547386587241208L,mid:-4344092789775448728L,sa:{scope:"//srs"},seed:4716376662604698904L}
+[31Dec2024 21:30:10.859] [Server thread/DEBUG] [pointblank/]: 10859 handling client fire request
+[31Dec2024 21:30:10.859] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 18
+[31Dec2024 21:30:10.859] [Server thread/DEBUG] [pointblank/]: 10859 - obtained hit result in 0ms
+[31Dec2024 21:30:10.859] [Server thread/DEBUG] [pointblank/]: 10859 obtained hit results
+[31Dec2024 21:30:10.859] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7e7b584e
+[31Dec2024 21:30:10.859] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-405.88, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-408.79, y=68.00, z=-214.78]
+[31Dec2024 21:30:10.859] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-405.88, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-405.88, y=58.50, z=-215.30]
+[31Dec2024 21:30:10.928] [Server thread/DEBUG] [pointblank/]: 10928 handling client fire request
+[31Dec2024 21:30:10.928] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 17
+[31Dec2024 21:30:10.928] [Server thread/DEBUG] [pointblank/]: 10928 - obtained hit result in 0ms
+[31Dec2024 21:30:10.928] [Server thread/DEBUG] [pointblank/]: 10928 obtained hit results
+[31Dec2024 21:30:10.928] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5a226c61
+[31Dec2024 21:30:10.929] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-405.88, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-408.79, y=68.00, z=-214.78]
+[31Dec2024 21:30:10.929] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-405.88, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-405.88, y=58.50, z=-215.30]
+[31Dec2024 21:30:11.014] [Server thread/DEBUG] [pointblank/]: 11014 handling client fire request
+[31Dec2024 21:30:11.014] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 16
+[31Dec2024 21:30:11.014] [Server thread/DEBUG] [pointblank/]: 11014 - obtained hit result in 0ms
+[31Dec2024 21:30:11.014] [Server thread/DEBUG] [pointblank/]: 11014 obtained hit results
+[31Dec2024 21:30:11.014] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@274bc9db
+[31Dec2024 21:30:11.014] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-405.88, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-408.79, y=68.00, z=-214.78]
+[31Dec2024 21:30:11.015] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-405.88, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-405.88, y=58.50, z=-215.30]
+[31Dec2024 21:30:11.103] [Server thread/DEBUG] [pointblank/]: 11103 handling client fire request
+[31Dec2024 21:30:11.103] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 15
+[31Dec2024 21:30:11.103] [Server thread/DEBUG] [pointblank/]: 11103 - obtained hit result in 0ms
+[31Dec2024 21:30:11.103] [Server thread/DEBUG] [pointblank/]: 11103 obtained hit results
+[31Dec2024 21:30:11.103] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7dc68ade
+[31Dec2024 21:30:11.104] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-405.88, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-408.79, y=68.00, z=-214.78]
+[31Dec2024 21:30:11.104] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-405.88, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-405.88, y=58.50, z=-215.30]
+[31Dec2024 21:30:11.204] [Server thread/DEBUG] [pointblank/]: 11204 handling client fire request
+[31Dec2024 21:30:11.204] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 14
+[31Dec2024 21:30:11.204] [Server thread/DEBUG] [pointblank/]: 11204 - obtained hit result in 0ms
+[31Dec2024 21:30:11.204] [Server thread/DEBUG] [pointblank/]: 11204 obtained hit results
+[31Dec2024 21:30:11.205] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@46a0b9bc
+[31Dec2024 21:30:11.205] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-405.88, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-408.79, y=68.00, z=-214.78]
+[31Dec2024 21:30:11.205] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-405.88, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-405.88, y=58.50, z=-215.30]
+[31Dec2024 21:30:11.301] [Server thread/DEBUG] [pointblank/]: 11301 handling client fire request
+[31Dec2024 21:30:11.301] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 13
+[31Dec2024 21:30:11.301] [Server thread/DEBUG] [pointblank/]: 11301 - obtained hit result in 0ms
+[31Dec2024 21:30:11.302] [Server thread/DEBUG] [pointblank/]: 11302 obtained hit results
+[31Dec2024 21:30:11.302] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@755019ef
+[31Dec2024 21:30:11.302] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-405.88, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-408.79, y=68.00, z=-214.78]
+[31Dec2024 21:30:11.302] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-405.88, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-405.88, y=58.50, z=-215.30]
+[31Dec2024 21:30:11.379] [Server thread/DEBUG] [pointblank/]: 11379 handling client fire request
+[31Dec2024 21:30:11.379] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 12
+[31Dec2024 21:30:11.379] [Server thread/DEBUG] [pointblank/]: 11379 - obtained hit result in 0ms
+[31Dec2024 21:30:11.379] [Server thread/DEBUG] [pointblank/]: 11379 obtained hit results
+[31Dec2024 21:30:11.379] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5f94d0b9
+[31Dec2024 21:30:11.380] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-405.88, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-408.79, y=68.00, z=-214.78]
+[31Dec2024 21:30:11.380] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-405.88, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-405.88, y=58.50, z=-215.30]
+[31Dec2024 21:30:11.466] [Server thread/DEBUG] [pointblank/]: 11466 handling client fire request
+[31Dec2024 21:30:11.466] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 11
+[31Dec2024 21:30:11.466] [Server thread/DEBUG] [pointblank/]: 11466 - obtained hit result in 0ms
+[31Dec2024 21:30:11.466] [Server thread/DEBUG] [pointblank/]: 11466 obtained hit results
+[31Dec2024 21:30:11.466] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@164d31ef
+[31Dec2024 21:30:11.467] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-405.88, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-408.79, y=68.00, z=-214.78]
+[31Dec2024 21:30:11.467] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-405.88, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-405.88, y=58.50, z=-215.30]
+[31Dec2024 21:30:11.556] [Server thread/DEBUG] [pointblank/]: 11556 handling client fire request
+[31Dec2024 21:30:11.556] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 10
+[31Dec2024 21:30:11.556] [Server thread/DEBUG] [pointblank/]: 11556 - obtained hit result in 0ms
+[31Dec2024 21:30:11.556] [Server thread/DEBUG] [pointblank/]: 11556 obtained hit results
+[31Dec2024 21:30:11.556] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@556307c3
+[31Dec2024 21:30:11.557] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-405.88, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-408.79, y=68.00, z=-214.78]
+[31Dec2024 21:30:11.557] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-405.88, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-405.88, y=58.50, z=-215.30]
+[31Dec2024 21:30:11.656] [Server thread/DEBUG] [pointblank/]: 11656 handling client fire request
+[31Dec2024 21:30:11.656] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 9
+[31Dec2024 21:30:11.656] [Server thread/DEBUG] [pointblank/]: 11656 - obtained hit result in 0ms
+[31Dec2024 21:30:11.656] [Server thread/DEBUG] [pointblank/]: 11656 obtained hit results
+[31Dec2024 21:30:11.656] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@26dc6edb
+[31Dec2024 21:30:11.656] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-405.88, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-408.79, y=68.00, z=-214.78]
+[31Dec2024 21:30:11.657] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-405.88, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-405.88, y=58.50, z=-215.30]
+[31Dec2024 21:30:11.752] [Server thread/DEBUG] [pointblank/]: 11752 handling client fire request
+[31Dec2024 21:30:11.753] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 8
+[31Dec2024 21:30:11.753] [Server thread/DEBUG] [pointblank/]: 11753 - obtained hit result in 0ms
+[31Dec2024 21:30:11.753] [Server thread/DEBUG] [pointblank/]: 11753 obtained hit results
+[31Dec2024 21:30:11.753] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4b5c8bf
+[31Dec2024 21:30:11.753] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-405.88, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-408.79, y=68.00, z=-214.78]
+[31Dec2024 21:30:11.753] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-405.88, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-405.88, y=58.50, z=-215.30]
+[31Dec2024 21:30:11.851] [Server thread/DEBUG] [pointblank/]: 11851 handling client fire request
+[31Dec2024 21:30:11.851] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 7
+[31Dec2024 21:30:11.851] [Server thread/DEBUG] [pointblank/]: 11851 - obtained hit result in 0ms
+[31Dec2024 21:30:11.851] [Server thread/DEBUG] [pointblank/]: 11851 obtained hit results
+[31Dec2024 21:30:11.851] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@52f03d0e
+[31Dec2024 21:30:11.852] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-405.88, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-408.79, y=68.00, z=-214.78]
+[31Dec2024 21:30:11.852] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-405.88, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-405.88, y=58.50, z=-215.30]
+[31Dec2024 21:30:11.955] [Server thread/DEBUG] [pointblank/]: 11955 handling client fire request
+[31Dec2024 21:30:11.955] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 6
+[31Dec2024 21:30:11.955] [Server thread/DEBUG] [pointblank/]: 11955 - obtained hit result in 0ms
+[31Dec2024 21:30:11.955] [Server thread/DEBUG] [pointblank/]: 11955 obtained hit results
+[31Dec2024 21:30:11.955] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@171f2b3d
+[31Dec2024 21:30:11.956] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-405.88, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-408.79, y=68.00, z=-214.78]
+[31Dec2024 21:30:11.956] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-405.88, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-405.88, y=58.50, z=-215.30]
+[31Dec2024 21:30:12.051] [Server thread/DEBUG] [pointblank/]: 12051 handling client fire request
+[31Dec2024 21:30:12.051] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 5
+[31Dec2024 21:30:12.051] [Server thread/DEBUG] [pointblank/]: 12051 - obtained hit result in 0ms
+[31Dec2024 21:30:12.051] [Server thread/DEBUG] [pointblank/]: 12051 obtained hit results
+[31Dec2024 21:30:12.051] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1d9ffbda
+[31Dec2024 21:30:12.052] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-405.88, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-408.79, y=68.00, z=-214.78]
+[31Dec2024 21:30:12.052] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-405.88, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-405.88, y=58.50, z=-215.30]
+[31Dec2024 21:30:12.153] [Server thread/DEBUG] [pointblank/]: 12153 handling client fire request
+[31Dec2024 21:30:12.154] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 4
+[31Dec2024 21:30:12.154] [Server thread/DEBUG] [pointblank/]: 12154 - obtained hit result in 0ms
+[31Dec2024 21:30:12.154] [Server thread/DEBUG] [pointblank/]: 12154 obtained hit results
+[31Dec2024 21:30:12.154] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@73aab966
+[31Dec2024 21:30:12.154] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-405.88, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-408.79, y=68.00, z=-214.78]
+[31Dec2024 21:30:12.154] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-405.88, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-405.88, y=58.50, z=-215.30]
+[31Dec2024 21:30:12.209] [Server thread/DEBUG] [pointblank/]: 12209 handling client fire request
+[31Dec2024 21:30:12.209] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 3
+[31Dec2024 21:30:12.209] [Server thread/DEBUG] [pointblank/]: 12209 - obtained hit result in 0ms
+[31Dec2024 21:30:12.209] [Server thread/DEBUG] [pointblank/]: 12209 obtained hit results
+[31Dec2024 21:30:12.209] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@760b6436
+[31Dec2024 21:30:12.209] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-405.88, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-408.79, y=68.00, z=-214.78]
+[31Dec2024 21:30:12.210] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-405.88, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-405.88, y=58.50, z=-215.30]
+[31Dec2024 21:30:12.302] [Server thread/DEBUG] [pointblank/]: 12302 handling client fire request
+[31Dec2024 21:30:12.302] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 2
+[31Dec2024 21:30:12.302] [Server thread/DEBUG] [pointblank/]: 12302 - obtained hit result in 0ms
+[31Dec2024 21:30:12.302] [Server thread/DEBUG] [pointblank/]: 12302 obtained hit results
+[31Dec2024 21:30:12.302] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@59ab8820
+[31Dec2024 21:30:12.302] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-405.88, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-408.79, y=68.00, z=-214.78]
+[31Dec2024 21:30:12.302] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-405.88, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-405.88, y=58.50, z=-215.30]
+[31Dec2024 21:30:12.403] [Server thread/DEBUG] [pointblank/]: 12403 handling client fire request
+[31Dec2024 21:30:12.403] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 1
+[31Dec2024 21:30:12.403] [Server thread/DEBUG] [pointblank/]: 12403 - obtained hit result in 0ms
+[31Dec2024 21:30:12.403] [Server thread/DEBUG] [pointblank/]: 12403 obtained hit results
+[31Dec2024 21:30:12.403] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@385047b3
+[31Dec2024 21:30:12.403] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-405.88, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-408.79, y=68.00, z=-214.78]
+[31Dec2024 21:30:12.403] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-405.88, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-405.88, y=58.50, z=-215.30]
+[31Dec2024 21:30:12.505] [Server thread/DEBUG] [pointblank/]: 12505 handling client fire request
+[31Dec2024 21:30:12.505] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 0
+[31Dec2024 21:30:12.505] [Server thread/DEBUG] [pointblank/]: 12505 - obtained hit result in 0ms
+[31Dec2024 21:30:12.505] [Server thread/DEBUG] [pointblank/]: 12505 obtained hit results
+[31Dec2024 21:30:12.505] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1557ae5b
+[31Dec2024 21:30:12.505] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-405.88, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-408.79, y=68.00, z=-214.78]
+[31Dec2024 21:30:12.505] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-405.88, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-405.88, y=58.50, z=-215.30]
+[31Dec2024 21:30:13.505] [Server thread/DEBUG] [pointblank/]: Set fire mode instance to translation{key='label.pointblank.fireMode.single', args=[]}, tag: {GeckoLibID:13L,aim:0b,ammo:0,ammox:{},as:[{id:"pointblank:foregrip",rmv:1b},{as:[],id:"pointblank:srs",rmv:1b}],fmid:[I;-2143582260,612580706,-1211090114,1073202582],lid:-8635547386587241208L,mid:-4344092789775448728L,sa:{scope:"//srs"},seed:4716376662604698904L}
+[31Dec2024 21:30:14.757] [Server thread/DEBUG] [pointblank/]: Set fire mode instance to translation{key='label.pointblank.fireMode.automatic', args=[]}, tag: {GeckoLibID:13L,aim:0b,ammo:0,ammox:{},as:[{id:"pointblank:foregrip",rmv:1b},{as:[],id:"pointblank:srs",rmv:1b}],fmid:[I;764080567,-1116983279,-1258468834,-2045204625],lid:-8635547386587241208L,mid:-4344092789775448728L,sa:{scope:"//srs"},seed:4716376662604698904L}
+[31Dec2024 21:30:15.258] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 20
+[31Dec2024 21:30:18.716] [Server thread/DEBUG] [pointblank/]: 18716 handling client fire request
+[31Dec2024 21:30:18.716] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 19
+[31Dec2024 21:30:18.716] [Server thread/DEBUG] [pointblank/]: 18716 - obtained hit result in 0ms
+[31Dec2024 21:30:18.716] [Server thread/DEBUG] [pointblank/]: 18716 obtained hit results
+[31Dec2024 21:30:18.716] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@30d982cc
+[31Dec2024 21:30:18.719] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-406.01, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-406.10, y=72.00, z=-224.63]
+[31Dec2024 21:30:18.719] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-406.01, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-406.01, y=58.50, z=-215.30]
+[31Dec2024 21:30:18.812] [Server thread/DEBUG] [pointblank/]: 18812 handling client fire request
+[31Dec2024 21:30:18.812] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 18
+[31Dec2024 21:30:18.812] [Server thread/DEBUG] [pointblank/]: 18812 - obtained hit result in 0ms
+[31Dec2024 21:30:18.812] [Server thread/DEBUG] [pointblank/]: 18812 obtained hit results
+[31Dec2024 21:30:18.812] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@756759f4
+[31Dec2024 21:30:18.812] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-406.01, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-406.08, y=72.50, z=-224.91]
+[31Dec2024 21:30:18.812] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-406.01, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-406.01, y=58.50, z=-215.30]
+[31Dec2024 21:30:18.920] [Server thread/DEBUG] [pointblank/]: 18920 handling client fire request
+[31Dec2024 21:30:18.920] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 17
+[31Dec2024 21:30:18.920] [Server thread/DEBUG] [pointblank/]: 18920 - obtained hit result in 0ms
+[31Dec2024 21:30:18.920] [Server thread/DEBUG] [pointblank/]: 18920 obtained hit results
+[31Dec2024 21:30:18.920] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@79c0417
+[31Dec2024 21:30:18.921] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-406.01, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-406.05, y=73.00, z=-225.47]
+[31Dec2024 21:30:18.921] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-406.01, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-406.01, y=58.50, z=-215.30]
+[31Dec2024 21:30:19.013] [Server thread/DEBUG] [pointblank/]: 19013 handling client fire request
+[31Dec2024 21:30:19.013] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 16
+[31Dec2024 21:30:19.013] [Server thread/DEBUG] [pointblank/]: 19013 - obtained hit result in 0ms
+[31Dec2024 21:30:19.013] [Server thread/DEBUG] [pointblank/]: 19013 obtained hit results
+[31Dec2024 21:30:19.013] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6b52a149
+[31Dec2024 21:30:19.013] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-406.01, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-406.01, y=73.50, z=-226.03]
+[31Dec2024 21:30:19.013] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-406.01, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-406.01, y=58.50, z=-215.30]
+[31Dec2024 21:30:19.114] [Server thread/DEBUG] [pointblank/]: 19114 handling client fire request
+[31Dec2024 21:30:19.114] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 15
+[31Dec2024 21:30:19.114] [Server thread/DEBUG] [pointblank/]: 19114 - obtained hit result in 0ms
+[31Dec2024 21:30:19.114] [Server thread/DEBUG] [pointblank/]: 19114 obtained hit results
+[31Dec2024 21:30:19.114] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@50d5c2e6
+[31Dec2024 21:30:19.114] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-406.01, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-405.98, y=74.00, z=-226.59]
+[31Dec2024 21:30:19.114] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-406.01, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-406.01, y=58.50, z=-215.30]
+[31Dec2024 21:30:19.181] [Server thread/DEBUG] [pointblank/]: 19181 handling client fire request
+[31Dec2024 21:30:19.181] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 14
+[31Dec2024 21:30:19.182] [Server thread/DEBUG] [pointblank/]: 19182 - obtained hit result in 1ms
+[31Dec2024 21:30:19.182] [Server thread/DEBUG] [pointblank/]: 19182 obtained hit results
+[31Dec2024 21:30:19.182] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1f3289f1
+[31Dec2024 21:30:19.182] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-406.01, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-405.95, y=74.50, z=-227.15]
+[31Dec2024 21:30:19.182] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-406.01, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-406.01, y=58.50, z=-215.30]
+[31Dec2024 21:30:19.268] [Server thread/DEBUG] [pointblank/]: 19268 handling client fire request
+[31Dec2024 21:30:19.268] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 13
+[31Dec2024 21:30:19.269] [Server thread/DEBUG] [pointblank/]: 19269 - obtained hit result in 0ms
+[31Dec2024 21:30:19.269] [Server thread/DEBUG] [pointblank/]: 19269 obtained hit results
+[31Dec2024 21:30:19.269] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@787304dc
+[31Dec2024 21:30:19.269] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-406.01, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-405.93, y=75.00, z=-227.43]
+[31Dec2024 21:30:19.269] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-406.01, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-406.01, y=58.50, z=-215.30]
+[31Dec2024 21:30:19.383] [Server thread/DEBUG] [pointblank/]: 19383 handling client fire request
+[31Dec2024 21:30:19.383] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 12
+[31Dec2024 21:30:19.384] [Server thread/DEBUG] [pointblank/]: 19384 - obtained hit result in 0ms
+[31Dec2024 21:30:19.384] [Server thread/DEBUG] [pointblank/]: 19384 obtained hit results
+[31Dec2024 21:30:19.384] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@73056722
+[31Dec2024 21:30:19.384] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-406.01, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-405.91, y=75.50, z=-227.99]
+[31Dec2024 21:30:19.384] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-406.01, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-406.01, y=58.50, z=-215.30]
+[31Dec2024 21:30:19.458] [Server thread/DEBUG] [pointblank/]: 19458 handling client fire request
+[31Dec2024 21:30:19.458] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 11
+[31Dec2024 21:30:19.458] [Server thread/DEBUG] [pointblank/]: 19458 - obtained hit result in 0ms
+[31Dec2024 21:30:19.458] [Server thread/DEBUG] [pointblank/]: 19458 obtained hit results
+[31Dec2024 21:30:19.458] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@478dbf84
+[31Dec2024 21:30:19.459] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-406.01, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-405.90, y=76.00, z=-228.55]
+[31Dec2024 21:30:19.459] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-406.01, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-406.01, y=58.50, z=-215.30]
+[31Dec2024 21:30:19.554] [Server thread/DEBUG] [pointblank/]: 19554 handling client fire request
+[31Dec2024 21:30:19.554] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 10
+[31Dec2024 21:30:19.554] [Server thread/DEBUG] [pointblank/]: 19554 - obtained hit result in 0ms
+[31Dec2024 21:30:19.554] [Server thread/DEBUG] [pointblank/]: 19554 obtained hit results
+[31Dec2024 21:30:19.554] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@389de4c8
+[31Dec2024 21:30:19.554] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-406.01, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-405.91, y=76.00, z=-229.11]
+[31Dec2024 21:30:19.554] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-406.01, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-406.01, y=58.50, z=-215.30]
+[31Dec2024 21:30:19.662] [Server thread/DEBUG] [pointblank/]: 19662 handling client fire request
+[31Dec2024 21:30:19.662] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 9
+[31Dec2024 21:30:19.662] [Server thread/DEBUG] [pointblank/]: 19662 - obtained hit result in 0ms
+[31Dec2024 21:30:19.662] [Server thread/DEBUG] [pointblank/]: 19662 obtained hit results
+[31Dec2024 21:30:19.662] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@58a852e3
+[31Dec2024 21:30:19.662] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-406.01, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-405.93, y=76.00, z=-229.68]
+[31Dec2024 21:30:19.662] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-406.01, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-406.01, y=58.50, z=-215.30]
+[31Dec2024 21:30:21.705] [Server thread/DEBUG] [pointblank/]: 21705 handling client fire request
+[31Dec2024 21:30:21.705] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 8
+[31Dec2024 21:30:21.705] [Server thread/DEBUG] [pointblank/]: 21705 - obtained hit result in 0ms
+[31Dec2024 21:30:21.705] [Server thread/DEBUG] [pointblank/]: 21705 obtained hit results
+[31Dec2024 21:30:21.705] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2abe7e15
+[31Dec2024 21:30:21.706] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.59, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-407.35, y=76.00, z=-234.27]
+[31Dec2024 21:30:21.706] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.59, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.59, y=58.50, z=-215.30]
+[31Dec2024 21:30:21.804] [Server thread/DEBUG] [pointblank/]: 21804 handling client fire request
+[31Dec2024 21:30:21.804] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 7
+[31Dec2024 21:30:21.804] [Server thread/DEBUG] [pointblank/]: 21804 - obtained hit result in 0ms
+[31Dec2024 21:30:21.804] [Server thread/DEBUG] [pointblank/]: 21804 obtained hit results
+[31Dec2024 21:30:21.804] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@54463ad8
+[31Dec2024 21:30:21.805] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.61, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-407.35, y=76.00, z=-234.27]
+[31Dec2024 21:30:21.805] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.61, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.61, y=58.50, z=-215.30]
+[31Dec2024 21:30:21.902] [Server thread/DEBUG] [pointblank/]: 21902 handling client fire request
+[31Dec2024 21:30:21.902] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 6
+[31Dec2024 21:30:21.902] [Server thread/DEBUG] [pointblank/]: 21902 - obtained hit result in 0ms
+[31Dec2024 21:30:21.902] [Server thread/DEBUG] [pointblank/]: 21902 obtained hit results
+[31Dec2024 21:30:21.902] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@583d99a9
+[31Dec2024 21:30:21.902] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.64, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-407.35, y=76.00, z=-234.27]
+[31Dec2024 21:30:21.902] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.64, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.64, y=58.50, z=-215.30]
+[31Dec2024 21:30:21.968] [Server thread/DEBUG] [pointblank/]: 21968 handling client fire request
+[31Dec2024 21:30:21.968] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 5
+[31Dec2024 21:30:21.968] [Server thread/DEBUG] [pointblank/]: 21968 - obtained hit result in 0ms
+[31Dec2024 21:30:21.968] [Server thread/DEBUG] [pointblank/]: 21968 obtained hit results
+[31Dec2024 21:30:21.968] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1aa1a6d
+[31Dec2024 21:30:21.969] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.64, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-407.35, y=76.00, z=-234.27]
+[31Dec2024 21:30:21.969] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.64, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.64, y=58.50, z=-215.30]
+[31Dec2024 21:30:22.056] [Server thread/DEBUG] [pointblank/]: 22056 handling client fire request
+[31Dec2024 21:30:22.056] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 4
+[31Dec2024 21:30:22.056] [Server thread/DEBUG] [pointblank/]: 22056 - obtained hit result in 0ms
+[31Dec2024 21:30:22.056] [Server thread/DEBUG] [pointblank/]: 22056 obtained hit results
+[31Dec2024 21:30:22.056] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4fc32ea4
+[31Dec2024 21:30:22.056] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.64, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-407.35, y=76.00, z=-234.27]
+[31Dec2024 21:30:22.056] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.64, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.64, y=58.50, z=-215.30]
+[31Dec2024 21:30:22.154] [Server thread/DEBUG] [pointblank/]: 22154 handling client fire request
+[31Dec2024 21:30:22.154] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 3
+[31Dec2024 21:30:22.154] [Server thread/DEBUG] [pointblank/]: 22154 - obtained hit result in 0ms
+[31Dec2024 21:30:22.154] [Server thread/DEBUG] [pointblank/]: 22154 obtained hit results
+[31Dec2024 21:30:22.154] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2ab65d7e
+[31Dec2024 21:30:22.154] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.64, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-407.35, y=76.00, z=-234.27]
+[31Dec2024 21:30:22.154] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.64, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.64, y=58.50, z=-215.30]
+[31Dec2024 21:30:22.263] [Server thread/DEBUG] [pointblank/]: 22263 handling client fire request
+[31Dec2024 21:30:22.263] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 2
+[31Dec2024 21:30:22.263] [Server thread/DEBUG] [pointblank/]: 22263 - obtained hit result in 0ms
+[31Dec2024 21:30:22.263] [Server thread/DEBUG] [pointblank/]: 22263 obtained hit results
+[31Dec2024 21:30:22.263] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1e727950
+[31Dec2024 21:30:22.264] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.64, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-407.35, y=76.00, z=-234.27]
+[31Dec2024 21:30:22.264] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.64, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.64, y=58.50, z=-215.30]
+[31Dec2024 21:30:22.323] [Server thread/DEBUG] [pointblank/]: 22323 handling client fire request
+[31Dec2024 21:30:22.323] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 1
+[31Dec2024 21:30:22.323] [Server thread/DEBUG] [pointblank/]: 22323 - obtained hit result in 0ms
+[31Dec2024 21:30:22.324] [Server thread/DEBUG] [pointblank/]: 22323 obtained hit results
+[31Dec2024 21:30:22.324] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4f5a7181
+[31Dec2024 21:30:22.324] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.64, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-407.35, y=76.00, z=-234.27]
+[31Dec2024 21:30:22.324] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.64, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.64, y=58.50, z=-215.30]
+[31Dec2024 21:30:22.413] [Server thread/DEBUG] [pointblank/]: 22413 handling client fire request
+[31Dec2024 21:30:22.413] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 0
+[31Dec2024 21:30:22.413] [Server thread/DEBUG] [pointblank/]: 22413 - obtained hit result in 0ms
+[31Dec2024 21:30:22.413] [Server thread/DEBUG] [pointblank/]: 22413 obtained hit results
+[31Dec2024 21:30:22.413] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@cca62a2
+[31Dec2024 21:30:22.414] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.64, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['TRY_KIMS'/72, l='ServerLevel[world]', x=-407.35, y=76.00, z=-234.27]
+[31Dec2024 21:30:22.414] [Server thread/DEBUG] [pointblank/]: ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.64, y=58.50, z=-215.30] sends hit scan notification to ServerPlayer['Donita1'/92214, l='ServerLevel[world]', x=-407.64, y=58.50, z=-215.30]
+[31Dec2024 21:30:24.258] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 188341702 to 20
+[31Dec2024 21:31:27.250] [Server thread/DEBUG] [pointblank/]: Set fire mode instance to translation{key='label.pointblank.fireMode.automatic', args=[]}, tag: {GeckoLibID:12L,aim:0b,ammo:30,ammox:{},fmid:[I;-767500925,1775712795,-1824702485,-1350877652],lid:-7743002599863522242L,mid:-6178169567132367899L,sa:{scope:"/"},seed:820693868133049399L}
+[31Dec2024 21:31:27.900] [Server thread/DEBUG] [pointblank/]: Set fire mode instance to translation{key='label.pointblank.fireMode.single', args=[]}, tag: {GeckoLibID:12L,aim:0b,ammo:30,ammox:{},fmid:[I;750053067,-134467338,-1629129376,-519263583],lid:-7743002599863522242L,mid:-6178169567132367899L,sa:{scope:"/"},seed:820693868133049399L}
+[31Dec2024 21:31:28.903] [Server thread/DEBUG] [pointblank/]: Set fire mode instance to translation{key='label.pointblank.fireMode.single', args=[]}, tag: {GeckoLibID:13L,aim:0b,ammo:20,ammox:{},as:[{id:"pointblank:foregrip",rmv:1b},{as:[],id:"pointblank:srs",rmv:1b}],fmid:[I;-2143582260,612580706,-1211090114,1073202582],lid:-8635547386587241208L,mid:-4344092789775448728L,sa:{scope:"//srs"},seed:4716376662604698904L}
