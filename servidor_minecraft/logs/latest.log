@@ -1052,3 +1052,53 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02Jan2025 02:54:50.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 has made the advancement [Crops of the Wild]
 [02Jan2025 02:54:54.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS has made the advancement [Cobweb Entanglement]
 [02Jan2025 02:54:57.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 has made the advancement [Cobweb Entanglement]
+[02Jan2025 02:55:56.240] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Donita1 lost connection: Disconnected
+[02Jan2025 02:55:56.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 left the game
+[02Jan2025 02:55:56.245] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Donita1
+[02Jan2025 02:57:51.548] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Donita1 is 37023e91-faad-4e06-a200-e07907058232
+[02Jan2025 02:58:02.700] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Donita1[/127.200.165.114:44321] logged in with entity id 186914 at (-724.6830130012618, 43.92159999847412, 336.55707337968477)
+[02Jan2025 02:58:02.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 joined the game
+[02Jan2025 02:58:02.905] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Donita1
+[02Jan2025 02:58:06.095] [Netty Epoll Server IO #6/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Donita1
+[02Jan2025 02:58:06.166] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Donita1 (18)
+[02Jan2025 02:58:06.166] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Donita1
+[02Jan2025 02:58:45.606] [ForkJoinPool.commonPool-worker-3/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[02Jan2025 02:58:45.607] [ForkJoinPool.commonPool-worker-3/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[02Jan2025 02:58:45.608] [ForkJoinPool.commonPool-worker-3/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[02Jan2025 02:58:45.608] [ForkJoinPool.commonPool-worker-3/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[02Jan2025 02:58:45.608] [ForkJoinPool.commonPool-worker-3/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[02Jan2025 02:58:45.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TRY_KIMS> no te escucho
+[02Jan2025 02:59:14.060] [ForkJoinPool.commonPool-worker-3/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[02Jan2025 02:59:14.060] [ForkJoinPool.commonPool-worker-3/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[02Jan2025 02:59:14.060] [ForkJoinPool.commonPool-worker-3/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[02Jan2025 02:59:14.061] [ForkJoinPool.commonPool-worker-3/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[02Jan2025 02:59:14.061] [ForkJoinPool.commonPool-worker-3/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[02Jan2025 02:59:14.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TRY_KIMS> me escuchas?
+[02Jan2025 03:00:46.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Teleported TRY_KIMS to Donita1]
+[02Jan2025 03:04:09.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS has made the advancement [Best Friends Forever]
+[02Jan2025 03:18:08.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS has made the advancement [Penteconter]
+[02Jan2025 03:19:11.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 has made the advancement [Penteconter]
+[02Jan2025 03:26:01.545] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Donita1 lost connection: Disconnected
+[02Jan2025 03:26:01.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 left the game
+[02Jan2025 03:26:01.547] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Donita1
+[02Jan2025 03:28:19.169] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Donita1 is 37023e91-faad-4e06-a200-e07907058232
+[02Jan2025 03:28:29.538] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Donita1[/127.200.165.114:47501] logged in with entity id 280316 at (-483.5397294834339, 78.0, 369.43147297451344)
+[02Jan2025 03:28:29.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 joined the game
+[02Jan2025 03:28:29.690] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Donita1
+[02Jan2025 03:28:32.885] [Netty Epoll Server IO #3/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Donita1
+[02Jan2025 03:28:33.015] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Donita1 (18)
+[02Jan2025 03:28:33.016] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Donita1
+[02Jan2025 03:28:48.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Teleported Donita1 to TRY_KIMS]
+[02Jan2025 03:35:25.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[02Jan2025 03:41:50.437] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TRY_KIMS lost connection: Disconnected
+[02Jan2025 03:41:50.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS left the game
+[02Jan2025 03:41:50.438] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TRY_KIMS
+[02Jan2025 03:44:06.526] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TRY_KIMS is 5f3199fd-6670-4090-b2bc-f7f58130ab00
+[02Jan2025 03:44:14.651] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TRY_KIMS[/127.241.13.148:54935] logged in with entity id 325110 at (-567.5239496294535, 68.1212968405392, 305.52642944463264)
+[02Jan2025 03:44:14.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS joined the game
+[02Jan2025 03:44:14.784] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to TRY_KIMS
+[02Jan2025 03:44:16.694] [Netty Epoll Server IO #2/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from TRY_KIMS
+[02Jan2025 03:44:16.756] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TRY_KIMS (18)
+[02Jan2025 03:44:16.756] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TRY_KIMS
+[02Jan2025 03:49:30.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[02Jan2025 03:57:27.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS has completed the challenge [Perpetuate the Cycle?]
