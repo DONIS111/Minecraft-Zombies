@@ -1036,3 +1036,19 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02Jan2025 02:32:13.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS has made the advancement [It's an Emu!!!]
 [02Jan2025 02:34:17.233] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Arms Dealer'/92895, l='ServerLevel[world]', x=-729.18, y=66.18, z=318.85] died, message: 'Arms Dealer was slain by Zombie'
 [02Jan2025 02:34:56.736] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/96146, l='ServerLevel[world]', x=-779.07, y=111.17, z=337.31] died, message: 'Villager was slain by TRY_KIMS'
+[02Jan2025 02:35:29.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Teleported Donita1 to TRY_KIMS]
+[02Jan2025 02:37:28.523] [Worker-Main-12/ERROR] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: No starting jigsaw minecraft:bottom found in start pool minecraft:village/savanna/town_centers
+[02Jan2025 02:42:10.295] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-615, y=70, z=355} BlockPos{x=-616, y=69, z=355}
+[02Jan2025 02:42:10.306] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-615, y=70, z=355} BlockPos{x=-616, y=69, z=355}
+[02Jan2025 02:42:10.361] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-615, y=70, z=355} BlockPos{x=-616, y=69, z=355}
+[02Jan2025 02:42:10.413] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-615, y=70, z=355} BlockPos{x=-616, y=69, z=355}
+[02Jan2025 02:42:10.463] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-615, y=70, z=355} BlockPos{x=-616, y=69, z=355}
+[02Jan2025 02:42:11.167] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-611, y=69, z=356} BlockPos{x=-612, y=68, z=357}
+[02Jan2025 02:43:41.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 has made the advancement [Getting an Upgrade]
+[02Jan2025 02:43:46.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS has made the advancement [Getting an Upgrade]
+[02Jan2025 02:45:19.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS has made the advancement [Chompy]
+[02Jan2025 02:46:48.233] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/96799, l='ServerLevel[world]', x=-709.79, y=71.00, z=335.38] died, message: 'Villager was slain by Zombie'
+[02Jan2025 02:47:47.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TRY_KIMS: Teleported TRY_KIMS to Donita1]
+[02Jan2025 02:54:50.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 has made the advancement [Crops of the Wild]
+[02Jan2025 02:54:54.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS has made the advancement [Cobweb Entanglement]
+[02Jan2025 02:54:57.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 has made the advancement [Cobweb Entanglement]
