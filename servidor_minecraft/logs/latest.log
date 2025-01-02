@@ -1137,3 +1137,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02Jan2025 04:21:01.593] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 40
 [02Jan2025 04:21:01.593] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=40,maxDay=40] to hordespawn on day 40
 [02Jan2025 04:21:01.593] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 40
+[02Jan2025 04:43:08.295] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Donita1 lost connection: Disconnected
+[02Jan2025 04:43:08.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 left the game
+[02Jan2025 04:43:08.296] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Donita1
