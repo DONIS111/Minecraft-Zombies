@@ -7732,12 +7732,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/horse_feed": {
-    "criteria": {
-      "has_golden_carrot": "2024-12-31 20:29:21 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-31 19:34:20 +0000"
@@ -7891,6 +7885,12 @@
   "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-31 19:34:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2024-12-31 20:29:21 +0000"
     },
     "done": true
   },
