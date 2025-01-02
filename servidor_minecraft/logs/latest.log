@@ -1013,3 +1013,26 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02Jan2025 02:08:21.489] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [02Jan2025 02:13:18.608] [Server thread/WARN] [pointblank/]: Skipping loading of outdated or expired slot mappings.
 [02Jan2025 02:13:40.656] [Server thread/WARN] [pointblank/]: Skipping loading of outdated or expired slot mappings.
+[02Jan2025 02:23:20.136] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=866, y=-58, z=1289}
+[02Jan2025 02:23:24.878] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=866, y=-58, z=1289}
+[02Jan2025 02:23:28.165] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=866, y=-58, z=1289}
+[02Jan2025 02:23:50.159] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=665, y=-58, z=1290}
+[02Jan2025 02:23:51.822] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=387, y=-59, z=487}
+[02Jan2025 02:24:33.027] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=459, y=-58, z=482}
+[02Jan2025 02:24:33.028] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=460, y=-58, z=482}
+[02Jan2025 02:24:33.028] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=461, y=-58, z=482}
+[02Jan2025 02:24:33.041] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=436, y=-58, z=476}
+[02Jan2025 02:24:40.611] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=431, y=-58, z=484}
+[02Jan2025 02:24:40.789] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=435, y=-58, z=484}
+[02Jan2025 02:24:40.792] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=434, y=-58, z=484}
+[02Jan2025 02:24:40.792] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=432, y=-58, z=484}
+[02Jan2025 02:24:40.823] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=459, y=-58, z=482}
+[02Jan2025 02:24:40.823] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=460, y=-58, z=482}
+[02Jan2025 02:24:40.824] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=461, y=-58, z=482}
+[02Jan2025 02:24:59.260] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=577, y=-58, z=482}
+[02Jan2025 02:26:59.232] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[02Jan2025 02:32:03.821] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Donita1 moved too quickly! 3.6859402456367434,-0.5764407054569602,-9.371714760171585
+[02Jan2025 02:32:05.398] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3079ms or 61 ticks behind
+[02Jan2025 02:32:13.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS has made the advancement [It's an Emu!!!]
+[02Jan2025 02:34:17.233] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Arms Dealer'/92895, l='ServerLevel[world]', x=-729.18, y=66.18, z=318.85] died, message: 'Arms Dealer was slain by Zombie'
+[02Jan2025 02:34:56.736] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/96146, l='ServerLevel[world]', x=-779.07, y=111.17, z=337.31] died, message: 'Villager was slain by TRY_KIMS'
