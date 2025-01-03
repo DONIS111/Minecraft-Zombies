@@ -8438,24 +8438,6 @@
     },
     "done": true
   },
-  "copycats:recipes/misc/crafting/copycat_iron_door": {
-    "criteria": {
-      "has_item": "2025-01-02 05:11:57 +0000"
-    },
-    "done": true
-  },
-  "immersive_weathering:immersive_weathering/moss": {
-    "criteria": {
-      "apple": "2025-01-02 03:57:27 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/steak_and_potatoes": {
-    "criteria": {
-      "has_baked_potato": "2025-01-02 05:18:02 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
     "criteria": {
       "has_diamond_backpack": "2025-01-02 03:55:07 +0000"
@@ -8465,6 +8447,24 @@
   "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
     "criteria": {
       "has_feather": "2025-01-02 03:57:04 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:immersive_weathering/moss": {
+    "criteria": {
+      "apple": "2025-01-02 03:57:27 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/crafting/copycat_iron_door": {
+    "criteria": {
+      "has_item": "2025-01-02 05:11:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-01-02 05:18:02 +0000"
     },
     "done": true
   },
