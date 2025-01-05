@@ -70,6 +70,7 @@
     "criteria": {
       "minecraft:birch_forest": "2024-12-31 19:53:41 +0000",
       "minecraft:windswept_hills": "2025-01-02 04:51:11 +0000",
+      "minecraft:beach": "2025-01-05 05:58:33 +0000",
       "minecraft:dark_forest": "2024-12-30 02:55:35 +0000",
       "minecraft:mangrove_swamp": "2025-01-02 02:23:54 +0000",
       "minecraft:sparse_jungle": "2024-12-31 03:18:19 +0000",
@@ -8116,9 +8117,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/black_dye_from_dried_kelp": {
+    "criteria": {
+      "has_dried_kelp": "2025-01-05 06:03:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/andesite_door": {
     "criteria": {
       "has_item": "2025-01-05 05:27:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/spout": {
+    "criteria": {
+      "has_item": "2025-01-05 05:50:09 +0000"
     },
     "done": true
   },
@@ -8266,6 +8279,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-01-05 05:58:45 +0000"
+    },
+    "done": true
+  },
   "create:water_wheel": {
     "criteria": {
       "0": "2025-01-05 05:18:41 +0000"
@@ -8275,6 +8294,12 @@
   "createdeco:recipes/decorations/green_iron_lamp": {
     "criteria": {
       "has_item": "2025-01-05 05:47:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-01-05 05:58:45 +0000"
     },
     "done": true
   },
@@ -8351,6 +8376,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-01-05 06:03:01 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/blue_shipping_container": {
     "criteria": {
       "has_item": "2025-01-05 05:47:53 +0000"
@@ -8360,6 +8391,12 @@
   "create:recipes/misc/crafting/curiosities/brown_toolbox": {
     "criteria": {
       "has_item": "2025-01-05 05:35:18 +0000"
+    },
+    "done": true
+  },
+  "create:copper_casing": {
+    "criteria": {
+      "0": "2025-01-05 05:50:04 +0000"
     },
     "done": true
   },
@@ -8378,6 +8415,12 @@
   "create:recipes/misc/crafting/kinetics/mechanical_saw": {
     "criteria": {
       "has_item": "2025-01-05 05:27:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/portable_fluid_interface": {
+    "criteria": {
+      "has_item": "2025-01-05 05:50:09 +0000"
     },
     "done": true
   },
@@ -8411,9 +8454,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2025-01-05 06:03:01 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/decal_down_left": {
     "criteria": {
       "has_item": "2025-01-05 05:47:53 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/dark_oak_bark": {
+    "criteria": {
+      "has_copper_block": "2025-01-05 05:50:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-01-05 05:58:45 +0000"
     },
     "done": true
   },
@@ -8468,6 +8529,12 @@
   "createdeco:recipes/decorations/decal_radioactive": {
     "criteria": {
       "has_item": "2025-01-05 05:47:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_door": {
+    "criteria": {
+      "has_item": "2025-01-05 05:50:09 +0000"
     },
     "done": true
   },
@@ -8528,6 +8595,12 @@
   "immersive_weathering:recipes/oak_bark": {
     "criteria": {
       "has_copper_block": "2025-01-05 05:27:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_drain": {
+    "criteria": {
+      "has_item": "2025-01-05 05:50:09 +0000"
     },
     "done": true
   },
