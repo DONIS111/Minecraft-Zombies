@@ -8147,6 +8147,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-01-05 06:20:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-01-05 06:26:37 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/decal_up": {
     "criteria": {
       "has_item": "2025-01-05 05:47:53 +0000"
@@ -8225,6 +8237,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/deployer": {
+    "criteria": {
+      "has_item": "2025-01-05 06:23:43 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/white_shipping_container": {
     "criteria": {
       "has_item": "2025-01-05 05:47:53 +0000"
@@ -8300,6 +8318,12 @@
   "createdeco:recipes/decorations/copper_sheet_metal": {
     "criteria": {
       "has_item": "2025-01-05 06:09:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/electron_tube": {
+    "criteria": {
+      "has_item": "2025-01-05 06:22:16 +0000"
     },
     "done": true
   },
@@ -8394,6 +8418,12 @@
     },
     "done": true
   },
+  "create:rose_quartz": {
+    "criteria": {
+      "0": "2025-01-05 06:23:04 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/cyan_shipping_container": {
     "criteria": {
       "has_item": "2025-01-05 05:47:53 +0000"
@@ -8448,6 +8478,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-01-05 06:27:48 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/blue_shipping_container": {
     "criteria": {
       "has_item": "2025-01-05 05:47:53 +0000"
@@ -8472,9 +8508,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/adjustable_chain_gearshift": {
+    "criteria": {
+      "has_item": "2025-01-05 06:23:43 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/iron_catwalk_railing_forge": {
     "criteria": {
       "has_item": "2025-01-05 05:47:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-05 06:26:37 +0000"
     },
     "done": true
   },
@@ -8493,6 +8541,12 @@
   "create:recipes/misc/crafting/kinetics/portable_fluid_interface": {
     "criteria": {
       "has_item": "2025-01-05 05:50:09 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/semaphore": {
+    "criteria": {
+      "has_item": "2025-01-05 06:23:43 +0000"
     },
     "done": true
   },
@@ -8529,6 +8583,18 @@
   "createdeco:recipes/decorations/yellow_iron_lamp": {
     "criteria": {
       "has_item": "2025-01-05 05:47:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_polished_rose_quartz": "2025-01-05 06:23:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-01-05 06:27:48 +0000"
     },
     "done": true
   },
@@ -8640,6 +8706,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-01-05 06:27:48 +0000"
+    },
+    "done": true
+  },
   "railways:recipes/misc/crafting/fuel_tank": {
     "criteria": {
       "has_item": "2025-01-05 06:09:51 +0000"
@@ -8694,6 +8766,12 @@
     },
     "done": true
   },
+  "bbb:recipes/soul_brazier": {
+    "criteria": {
+      "has_soul_sand": "2025-01-05 06:27:48 +0000"
+    },
+    "done": true
+  },
   "immersive_weathering:immersive_weathering/bark_off": {
     "criteria": {
       "wax_off": "2025-01-05 05:27:19 +0000"
@@ -8718,6 +8796,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/rose_quartz_block_from_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_rose_quartz": "2025-01-05 06:22:16 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/black_shipping_container": {
     "criteria": {
       "has_item": "2025-01-05 05:47:53 +0000"
@@ -8739,6 +8823,18 @@
   "create:drain": {
     "criteria": {
       "0": "2025-01-05 06:15:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_polished_rose_quartz": "2025-01-05 06:23:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-05 06:26:37 +0000"
     },
     "done": true
   },

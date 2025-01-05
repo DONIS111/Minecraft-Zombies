@@ -9185,6 +9185,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2025-01-05 06:21:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/gearbox": {
     "criteria": {
       "has_item": "2025-01-05 06:18:20 +0000"
@@ -9209,6 +9215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-01-05 06:27:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_plough": {
     "criteria": {
       "has_item": "2025-01-05 05:27:59 +0000"
@@ -9224,6 +9236,12 @@
   "create:recipes/misc/crafting/kinetics/mechanical_harvester": {
     "criteria": {
       "has_item": "2025-01-05 05:27:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-01-05 06:21:38 +0000"
     },
     "done": true
   },
@@ -9272,6 +9290,12 @@
   "create:recipes/misc/crafting/kinetics/mechanical_piston": {
     "criteria": {
       "has_item": "2025-01-05 05:27:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/electron_tube": {
+    "criteria": {
+      "has_item": "2025-01-05 06:21:43 +0000"
     },
     "done": true
   },
@@ -9335,6 +9359,12 @@
     },
     "done": false
   },
+  "securitycraft:recipes/redstone/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2025-01-05 06:21:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/clipboard": {
     "criteria": {
       "has_item": "2025-01-05 05:26:47 +0000"
@@ -9362,6 +9392,12 @@
   "createdeco:recipes/decorations/andesite_door": {
     "criteria": {
       "has_item": "2025-01-05 05:26:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-01-05 06:21:38 +0000"
     },
     "done": true
   },
@@ -9434,6 +9470,24 @@
   "createdeco:recipes/decorations/green_andesite_lamp": {
     "criteria": {
       "has_item": "2025-01-05 05:26:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-01-05 06:21:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-01-05 06:21:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-01-05 06:21:38 +0000"
     },
     "done": true
   },
@@ -9581,9 +9635,21 @@
     },
     "done": true
   },
+  "bbb:recipes/quartz_column": {
+    "criteria": {
+      "has_block": "2025-01-05 06:21:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/andesite_funnel": {
     "criteria": {
       "has_item": "2025-01-05 05:26:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-01-05 06:21:38 +0000"
     },
     "done": true
   },
@@ -9602,6 +9668,12 @@
   "createdeco:recipes/building_blocks/andesite_window": {
     "criteria": {
       "has_item": "2025-01-05 05:26:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/rose_quartz_block_from_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_rose_quartz": "2025-01-05 06:21:43 +0000"
     },
     "done": true
   },
