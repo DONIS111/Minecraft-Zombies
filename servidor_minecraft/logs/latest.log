@@ -1107,3 +1107,23 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Jan2025 04:58:18.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 was slain by Zombie
 [05Jan2025 04:58:19.858] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [05Jan2025 04:58:24.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Donita1: Teleported Donita1 to TRY_KIMS]
+[05Jan2025 05:06:12.814] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TRY_KIMS lost connection: Timed out
+[05Jan2025 05:06:12.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS left the game
+[05Jan2025 05:06:12.816] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TRY_KIMS
+[05Jan2025 05:06:51.087] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TRY_KIMS is 5f3199fd-6670-4090-b2bc-f7f58130ab00
+[05Jan2025 05:06:59.492] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TRY_KIMS[/127.17.162.163:58641] logged in with entity id 388149 at (-422.84873432631775, 76.0, -212.92111938375365)
+[05Jan2025 05:06:59.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS joined the game
+[05Jan2025 05:06:59.625] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to TRY_KIMS
+[05Jan2025 05:07:00.700] [Netty Epoll Server IO #3/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from TRY_KIMS
+[05Jan2025 05:07:00.716] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TRY_KIMS (18)
+[05Jan2025 05:07:00.717] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TRY_KIMS
+[05Jan2025 05:09:09.813] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Donita1 lost connection: Disconnected
+[05Jan2025 05:09:09.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 left the game
+[05Jan2025 05:09:09.815] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Donita1
+[05Jan2025 05:11:11.407] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Donita1 is 37023e91-faad-4e06-a200-e07907058232
+[05Jan2025 05:11:22.784] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Donita1[/127.200.165.114:37331] logged in with entity id 396104 at (-420.7353073203186, 76.0, -216.5016975431001)
+[05Jan2025 05:11:22.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 joined the game
+[05Jan2025 05:11:22.976] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Donita1
+[05Jan2025 05:11:26.034] [Netty Epoll Server IO #0/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Donita1
+[05Jan2025 05:11:26.114] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Donita1 (18)
+[05Jan2025 05:11:26.114] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Donita1
