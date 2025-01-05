@@ -15667,3 +15667,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Jan2025 03:08:50.474] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [05Jan2025 03:09:10.373] [IO-Worker-25/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-34
 [05Jan2025 03:11:50.725] [IO-Worker-34/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-35
+[05Jan2025 03:13:50.451] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 03:13:50.466] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 03:17:21.566] [IO-Worker-33/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-36
+[05Jan2025 03:17:30.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 has made the advancement [Local Brewery]
+[05Jan2025 03:17:43.680] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming de/maxhenkel/easyvillagers/corelib/inventory/LockedSlot (target of net/minecraft/world/inventory/Slot)
+[05Jan2025 03:17:43.680] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming de/maxhenkel/easyvillagers/gui/VillagerConvertSlot (target of net/minecraft/world/inventory/Slot)
+[05Jan2025 03:17:43.681] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming de/maxhenkel/easyvillagers/corelib/inventory/ItemListInventory (target of net/minecraft/world/Container)
+[05Jan2025 03:18:50.453] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 03:18:50.468] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 03:21:01.875] [IO-Worker-36/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-37
