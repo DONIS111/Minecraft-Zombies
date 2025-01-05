@@ -7780,12 +7780,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/large_water_wheel": {
-    "criteria": {
-      "has_item": "2025-01-05 05:02:21 +0000"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/andesite_mesh_fence_from_stonecutting": {
     "criteria": {
       "has_item": "2025-01-05 05:01:52 +0000"
@@ -8101,6 +8095,18 @@
   "create:recipes/misc/crafting/kinetics/metal_bracket": {
     "criteria": {
       "has_item": "2025-01-05 05:01:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/large_water_wheel": {
+    "criteria": {
+      "has_item": "2025-01-05 05:02:21 +0000"
+    },
+    "done": true
+  },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2025-01-05 05:18:41 +0000"
     },
     "done": true
   },
