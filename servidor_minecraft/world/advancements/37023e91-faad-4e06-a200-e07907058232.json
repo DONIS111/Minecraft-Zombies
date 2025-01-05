@@ -8111,6 +8111,18 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/copper_support_wedge": {
+    "criteria": {
+      "has_item": "2025-01-05 06:09:26 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood": {
+    "criteria": {
+      "has_kitchen_hood": "2025-01-05 06:12:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_press": {
     "criteria": {
       "has_item": "2025-01-05 05:27:38 +0000"
@@ -8195,9 +8207,21 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/red_copper_lamp": {
+    "criteria": {
+      "has_item": "2025-01-05 06:09:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_harvester": {
     "criteria": {
       "has_item": "2025-01-05 05:27:38 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_bars_overlay": {
+    "criteria": {
+      "has_item": "2025-01-05 06:09:26 +0000"
     },
     "done": true
   },
@@ -8273,6 +8297,18 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/copper_sheet_metal": {
+    "criteria": {
+      "has_item": "2025-01-05 06:09:26 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_catwalk_railing_forge": {
+    "criteria": {
+      "has_item": "2025-01-05 06:09:26 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/decal_right": {
     "criteria": {
       "has_item": "2025-01-05 05:47:53 +0000"
@@ -8282,6 +8318,12 @@
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2025-01-05 05:58:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_cup": {
+    "criteria": {
+      "has_wood_cup": "2025-01-05 06:09:39 +0000"
     },
     "done": true
   },
@@ -8300,6 +8342,12 @@
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2025-01-05 05:58:45 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_mesh_fence": {
+    "criteria": {
+      "has_item": "2025-01-05 06:09:26 +0000"
     },
     "done": true
   },
@@ -8324,6 +8372,12 @@
   "createdeco:recipes/decorations/purple_shipping_container": {
     "criteria": {
       "has_item": "2025-01-05 05:47:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-01-05 06:09:39 +0000"
     },
     "done": true
   },
@@ -8376,9 +8430,21 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/green_copper_lamp": {
+    "criteria": {
+      "has_item": "2025-01-05 06:09:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dried_kelp_block": {
     "criteria": {
       "has_dried_kelp": "2025-01-05 06:03:01 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
+    "criteria": {
+      "has_kitchen_hood_pipe": "2025-01-05 06:12:31 +0000"
     },
     "done": true
   },
@@ -8397,6 +8463,12 @@
   "create:copper_casing": {
     "criteria": {
       "0": "2025-01-05 05:50:04 +0000"
+    },
+    "done": true
+  },
+  "sliceanddice:recipes/misc/sprinkler": {
+    "criteria": {
+      "has_pipe": "2025-01-05 06:11:27 +0000"
     },
     "done": true
   },
@@ -8448,6 +8520,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/brazier": {
+    "criteria": {
+      "has_bar": "2025-01-05 06:12:31 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/yellow_iron_lamp": {
     "criteria": {
       "has_item": "2025-01-05 05:47:53 +0000"
@@ -8469,6 +8547,18 @@
   "immersive_weathering:recipes/dark_oak_bark": {
     "criteria": {
       "has_copper_block": "2025-01-05 05:50:02 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/yellow_copper_lamp": {
+    "criteria": {
+      "has_item": "2025-01-05 06:09:26 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2025-01-05 06:16:57 +0000"
     },
     "done": true
   },
@@ -8526,6 +8616,12 @@
     },
     "done": true
   },
+  "copycats:recipes/misc/crafting/copycat_fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-01-05 06:11:27 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/decal_radioactive": {
     "criteria": {
       "has_item": "2025-01-05 05:47:53 +0000"
@@ -8544,6 +8640,12 @@
     },
     "done": true
   },
+  "railways:recipes/misc/crafting/fuel_tank": {
+    "criteria": {
+      "has_item": "2025-01-05 06:09:51 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/red_iron_lamp": {
     "criteria": {
       "has_item": "2025-01-05 05:47:53 +0000"
@@ -8556,6 +8658,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/copper_catwalk_forge": {
+    "criteria": {
+      "has_item": "2025-01-05 06:09:26 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/yellow_shipping_container": {
     "criteria": {
       "has_item": "2025-01-05 05:47:53 +0000"
@@ -8565,6 +8673,12 @@
   "createdeco:recipes/decorations/decal_top_right": {
     "criteria": {
       "has_item": "2025-01-05 05:47:53 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/blue_copper_lamp": {
+    "criteria": {
+      "has_item": "2025-01-05 06:09:26 +0000"
     },
     "done": true
   },
@@ -8610,9 +8724,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-01-05 06:09:48 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/orange_shipping_container": {
     "criteria": {
       "has_item": "2025-01-05 05:47:53 +0000"
+    },
+    "done": true
+  },
+  "create:drain": {
+    "criteria": {
+      "0": "2025-01-05 06:15:34 +0000"
     },
     "done": true
   },
@@ -8622,9 +8748,33 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/soul_brazier": {
+    "criteria": {
+      "has_bar": "2025-01-05 06:12:31 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_bowl": {
+    "criteria": {
+      "has_wood_bowl": "2025-01-05 06:09:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-01-05 06:09:48 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/iron_mesh_fence": {
     "criteria": {
       "has_item": "2025-01-05 05:47:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_plate": {
+    "criteria": {
+      "has_wood_plate": "2025-01-05 06:09:39 +0000"
     },
     "done": true
   },
