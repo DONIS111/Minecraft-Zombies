@@ -68,6 +68,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-01-05 06:33:39 +0000",
       "minecraft:birch_forest": "2024-12-31 19:53:37 +0000",
       "minecraft:windswept_hills": "2025-01-02 04:51:10 +0000",
       "minecraft:dark_forest": "2024-12-30 02:54:28 +0000",
@@ -9287,6 +9288,12 @@
     },
     "done": true
   },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-01-05 06:39:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_piston": {
     "criteria": {
       "has_item": "2025-01-05 05:27:59 +0000"
@@ -9317,6 +9324,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-01-05 06:34:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/cuckoo_clock": {
     "criteria": {
       "has_item": "2025-01-05 05:26:47 +0000"
@@ -9326,6 +9339,12 @@
   "create:andesite_alloy": {
     "criteria": {
       "0": "2025-01-05 05:26:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-01-05 06:34:21 +0000"
     },
     "done": true
   },
@@ -9497,6 +9516,18 @@
     },
     "done": true
   },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2025-01-05 06:37:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-01-05 06:34:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/clutch": {
     "criteria": {
       "has_item": "2025-01-05 05:27:59 +0000"
@@ -9518,6 +9549,12 @@
   "create:recipes/misc/crafting/kinetics/hand_crank": {
     "criteria": {
       "has_item": "2025-01-05 05:26:47 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2025-01-05 06:39:06 +0000"
     },
     "done": true
   },
