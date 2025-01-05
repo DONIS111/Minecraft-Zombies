@@ -1636,7 +1636,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2024-12-30 03:26:26 +0000",
-      "rotten_flesh": "2024-12-30 04:07:29 +0000"
+      "rotten_flesh": "2024-12-30 04:07:29 +0000",
+      "golden_carrot": "2025-01-05 03:28:58 +0000"
     },
     "done": false
   },
