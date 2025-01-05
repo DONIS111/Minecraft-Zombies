@@ -1127,3 +1127,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Jan2025 05:11:26.034] [Netty Epoll Server IO #0/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Donita1
 [05Jan2025 05:11:26.114] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Donita1 (18)
 [05Jan2025 05:11:26.114] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Donita1
+[05Jan2025 05:27:19.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donita1 has made the advancement [Bark Off]
+[05Jan2025 05:27:21.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS has made the advancement [The Andesite Age]
+[05Jan2025 05:29:07.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TRY_KIMS has made the advancement [Bark Off]
